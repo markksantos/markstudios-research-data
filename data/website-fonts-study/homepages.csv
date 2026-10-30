@@ -1,0 +1,567 @@
+tranco_rank,domain,body_font_first_choice,heading_font_first_choice,body_font_kind,body_font_is_downloaded,serif_body,heading_same_as_body,web_fonts_loaded,web_font_families
+1,google.com,roboto,,"Open-source library font (Inter, Roboto...)",1,0,0,2,google sans;roboto
+2,cloudflare.com,stk bureau sans,stk bureau sans,Own or licensed brand font,1,0,1,2,apercu mono pro;stk bureau sans
+3,amazonaws.com,amazon ember,amazon ember,Own or licensed brand font,1,0,1,3,amazon ember;amazon ember mono;amazonemberdisplay
+4,facebook.com,system-ui,,System UI font (system-ui / -apple-system),0,0,0,2,facebook sans;optimistic
+7,fbcdn.net,system-ui,,System UI font (system-ui / -apple-system),0,0,0,2,facebook sans;optimistic
+10,microsoft.com,segoe ui,segoe ui,System UI font (system-ui / -apple-system),0,0,1,0,
+11,youtube.com,roboto,roboto,"Open-source library font (Inter, Roboto...)",1,0,1,1,roboto
+12,apple.com,sf pro,sf pro,System UI font (system-ui / -apple-system),1,0,1,1,sf pro
+14,instagram.com,-apple-system,,System UI font (system-ui / -apple-system),0,0,0,2,instagram sans;optimistic
+17,mail.ru,helvetica,,"Standard system font (Arial, Helvetica, Georgia...)",0,0,0,2,roboto;vksansdisplay
+20,azure.com,segoe ui,segoe ui,System UI font (system-ui / -apple-system),1,0,1,1,segoe ui
+22,googlevideo.com,roboto,,"Open-source library font (Inter, Roboto...)",1,0,0,2,google sans;roboto
+25,dzen.ru,stella sans,,Own or licensed brand font,1,0,0,1,stella sans
+26,office.com,segoe sans,segoe sans,Own or licensed brand font,1,0,1,3,segoe sans;segoeserifdisplay;segoeui
+29,triplinkintl.com,helvetica neue,helvetica neue,"Standard system font (Arial, Helvetica, Georgia...)",0,0,1,0,
+31,amazon.com,arial,arial,"Standard system font (Arial, Helvetica, Georgia...)",0,0,1,1,amazon ember modern
+32,live.com,segoe ui,segoe ui,System UI font (system-ui / -apple-system),1,0,1,2,segoe ui;segoe ui variable small
+34,github.com,mona sans,mona sans,Own or licensed brand font,1,0,1,3,mona sans;mona sans mono;noto sans backtick fix
+36,wikipedia.org,-apple-system,linux libertine,System UI font (system-ui / -apple-system),0,0,0,0,
+37,sharepoint.com,segoe ui,segoe ui,System UI font (system-ui / -apple-system),1,0,1,2,segoe ui;segoe ui variable small
+39,fastly.net,tt hoves pro,tt hoves pro,Own or licensed brand font,1,0,1,1,tt hoves pro
+40,cloud.microsoft,segoe sans,segoe sans,Own or licensed brand font,1,0,1,3,segoe sans;segoeserifdisplay;segoeui
+42,whatsapp.net,whatsapp sans,whatsapp sans,Own or licensed brand font,1,0,1,1,whatsapp sans
+44,netflix.com,netflix sans,netflix sans,Own or licensed brand font,1,0,1,1,netflix sans
+45,bing.com,segoe ui,segoe ui,System UI font (system-ui / -apple-system),0,0,1,0,
+48,youtu.be,roboto,roboto,"Open-source library font (Inter, Roboto...)",1,0,1,1,roboto
+49,doubleclick.net,roboto,google sans,"Open-source library font (Inter, Roboto...)",1,0,0,3,google sans;product sans;roboto
+51,gandi.net,inter,fraunces,"Open-source library font (Inter, Roboto...)",1,0,0,2,fraunces;inter
+52,pinterest.com,pin sans,pin sans,Own or licensed brand font,1,0,1,1,pin sans
+53,googlesyndication.com,roboto,,"Open-source library font (Inter, Roboto...)",1,0,0,2,google sans;roboto
+54,icloud.com,system-ui,system-ui,System UI font (system-ui / -apple-system),0,0,1,0,
+57,windows.net,open sans,space grotesk,"Open-source library font (Inter, Roboto...)",1,0,0,2,open sans;space grotesk
+58,cloudflare.net,-apple-system,-apple-system,System UI font (system-ui / -apple-system),0,0,1,0,
+59,wordpress.org,inter,eb garamond,"Open-source library font (Inter, Roboto...)",1,0,0,2,eb garamond;inter
+62,tiktok.com,tiktokfont,tiktokfont,Own or licensed brand font,1,0,1,3,tiktokdisplayfont;tiktokfont;tiktoksans
+65,whatsapp.com,whatsapp sans,whatsapp sans,Own or licensed brand font,1,0,1,1,whatsapp sans
+66,googledomains.com,google sans,,Own or licensed brand font,1,0,0,1,google sans
+67,zoom.us,inter,newsreader,"Open-source library font (Inter, Roboto...)",1,0,0,3,icozm;inter;newsreader
+68,myfritz.net,source sans pro,source sans pro,"Open-source library font (Inter, Roboto...)",1,0,1,1,source sans pro
+69,skype.com,segoe ui,segoe ui,System UI font (system-ui / -apple-system),0,0,1,0,
+71,digicert.com,roboto,roboto condensed,"Open-source library font (Inter, Roboto...)",0,0,0,0,
+72,yahoo.com,yahoosans,centra,Own or licensed brand font,1,0,0,2,centra;yahoosans
+73,wa.me,whatsapp sans,whatsapp sans,Own or licensed brand font,1,0,1,1,whatsapp sans
+76,opera.com,be vietnam pro,be vietnam pro,"Open-source library font (Inter, Roboto...)",1,0,1,3,be vietnam pro;be vietnam pro fallback;space mono
+77,roblox.com,builder sans,builder extended,Own or licensed brand font,1,0,0,2,builder extended;builder sans
+78,spotify.com,spotifymixui,spotifymixui,Own or licensed brand font,1,0,1,2,spotifymixui;spotifymixuititle
+79,workers.dev,stk bureau sans,stk bureau sans,Own or licensed brand font,1,0,1,2,apercu mono pro;stk bureau sans
+81,baidu.com,arial,,"Standard system font (Arial, Helvetica, Georgia...)",0,0,0,0,
+84,ntp.org,nunito sans,,"Open-source library font (Inter, Roboto...)",1,0,0,1,nunito sans
+85,amazonvideo.com,amazon ember,amazon ember,Own or licensed brand font,1,0,1,1,amazon ember
+87,yandex.net,ys text home,ys,Own or licensed brand font,1,0,0,1,ys text home
+88,vimeo.com,abcrepro,abcrepromono,Own or licensed brand font,1,0,0,4,abcrepro;abcrepro fallback;abcrepromono;abcrepromono fallback
+89,b-cdn.net,rubik,rubik,"Open-source library font (Inter, Roboto...)",1,0,1,1,rubik
+90,nginx.org,sans-serif,sans-serif,"Standard system font (Arial, Helvetica, Georgia...)",0,0,1,0,
+91,qq.com,pingfang sc,,"Standard system font (Arial, Helvetica, Georgia...)",0,0,0,0,
+92,msn.com,segoe ui,,System UI font (system-ui / -apple-system),1,0,0,1,segoe ui
+94,blogspot.com,roboto,roboto,"Open-source library font (Inter, Roboto...)",1,0,1,1,roboto
+95,mozilla.org,mozilla,mozilla headline,Own or licensed brand font,1,0,0,2,mozilla;mozilla headline
+96,f5.com,proxima nova,neusanextprowide,Own or licensed brand font,1,0,0,2,neusanextprowide;proxima nova
+97,epicgames.com,inter,inter,"Open-source library font (Inter, Roboto...)",1,0,1,1,inter
+99,t.me,-apple-system,,System UI font (system-ui / -apple-system),0,0,0,0,
+101,nginx.com,proxima nova,neusanextprowide,Own or licensed brand font,1,0,0,2,neusanextprowide;proxima nova
+102,reddit.com,-apple-system,-apple-system,System UI font (system-ui / -apple-system),0,0,1,1,applied-button-font-0
+103,sentry.io,rubik,dammit sans,"Open-source library font (Inter, Roboto...)",1,0,0,2,dammit sans;rubik
+105,lencr.org,-apple-system,-apple-system,System UI font (system-ui / -apple-system),0,0,1,0,
+106,yandex.ru,stella sans,,Own or licensed brand font,1,0,0,1,stella sans
+108,ui.com,ui sans,ui sans,Own or licensed brand font,1,0,1,1,ui sans
+109,europa.eu,arial,arial,"Standard system font (Arial, Helvetica, Georgia...)",0,0,1,0,
+112,chatgpt.com,-apple-system,-apple-system,System UI font (system-ui / -apple-system),0,0,1,0,
+115,ipify.org,raleway,raleway,"Open-source library font (Inter, Roboto...)",1,0,1,1,raleway
+116,bit.ly,bitly,bitly,Own or licensed brand font,1,0,1,1,bitly
+120,samsung.com,samsungsharpsansbold,samsungone,Own or licensed brand font,1,0,0,4,samsungone;samsungsharpsans;samsungsharpsansbold;samsungsharpsansmedium
+124,skybridge.click,verdana,,"Standard system font (Arial, Helvetica, Georgia...)",0,0,0,0,
+126,registrar-servers.com,museo sans,museo sans,Own or licensed brand font,1,0,1,1,museo sans
+127,nic.ru,tt hoves pro,tt hoves pro,Own or licensed brand font,1,0,1,1,tt hoves pro
+128,outlook.com,segoe ui,segoe ui,System UI font (system-ui / -apple-system),1,0,1,2,segoe ui;segoe ui variable small
+129,t-online.de,roboto,roboto,"Open-source library font (Inter, Roboto...)",1,0,1,2,roboto;robotoserif
+132,openai.com,openai sans,openai sans,Own or licensed brand font,1,0,1,1,openai sans
+133,adobe.io,adobe-clean,adobe-clean,Own or licensed brand font,1,0,1,1,adobe-clean
+134,github.io,mona sans,mona sans,Own or licensed brand font,1,0,1,3,mona sans;mona sans mono;monasansfallback
+135,dropbox.com,atlas grotesk,sharp grotesk,Own or licensed brand font,1,0,0,3,atlas grotesk;sharp grotesk;sharp grotesk 23
+136,windows.com,segoe sans,segoe sans,Own or licensed brand font,1,0,1,1,segoe sans
+138,android.com,google sans,google sans,Own or licensed brand font,1,0,1,1,google sans
+139,cloudflare-dns.com,open sans,open sans,"Open-source library font (Inter, Roboto...)",1,0,1,1,open sans
+142,nih.gov,source sans pro,merriweather,"Open-source library font (Inter, Roboto...)",1,0,0,2,merriweather;source sans pro
+143,discord.gg,abcgintodiscord,abcgintodiscordnord,Own or licensed brand font,1,0,0,4,abc ginto;abcgintodiscord;abcgintodiscordnord;ggsans
+144,apache.org,open sans,montserrat,"Open-source library font (Inter, Roboto...)",1,0,0,2,montserrat;open sans
+146,vk.ru,-apple-system,-apple-system,System UI font (system-ui / -apple-system),0,0,1,0,
+150,archive.org,helvetica neue,,"Standard system font (Arial, Helvetica, Georgia...)",0,0,0,0,
+151,forms.gle,roboto,,"Open-source library font (Inter, Roboto...)",0,0,0,0,
+152,vk.com,-apple-system,-apple-system,System UI font (system-ui / -apple-system),0,0,1,0,
+156,reg.ru,geologica,geologica,"Open-source library font (Inter, Roboto...)",1,0,1,1,geologica
+157,snapchat.com,avenir next,avenir next,Own or licensed brand font,1,0,1,1,avenir next
+158,crashlytics.com,google sans,google sans,Own or licensed brand font,1,0,1,2,google sans;jetbrains mono
+160,tumblr.com,favorit,favorit,Own or licensed brand font,1,0,1,2,favorit;favorit modern
+165,gravatar.com,-apple-system,sf pro,System UI font (system-ui / -apple-system),0,0,0,0,
+167,kaspersky.com,kasperskysansdisplay,kasperskysansdisplay,Own or licensed brand font,1,0,1,4,kasperskysansdisplay;museo sans;notokufiarabic;notosans
+169,ubuntu.com,ubuntu,ubuntu,"Open-source library font (Inter, Roboto...)",1,0,1,2,ubuntu;ubuntu mono
+170,telegram.org,-apple-system,,System UI font (system-ui / -apple-system),0,0,0,0,
+171,shopify.com,inter,inter,"Open-source library font (Inter, Roboto...)",1,0,1,1,inter
+172,google-analytics.com,roboto,google sans,"Open-source library font (Inter, Roboto...)",1,0,0,3,google sans;product sans;roboto
+174,paypal.com,paypal pro,paypal pro,Own or licensed brand font,1,0,1,1,paypal pro
+175,example.com,system-ui,,System UI font (system-ui / -apple-system),0,0,0,0,
+176,afternic.com,gdsherpa,gdsherpa,Own or licensed brand font,1,0,1,1,gdsherpa
+177,scorecardresearch.com,arial,arial,"Standard system font (Arial, Helvetica, Georgia...)",0,0,1,0,
+179,samsungcloud.com,fontoneui,fontoneui,Own or licensed brand font,1,0,1,1,fontoneui
+180,flickr.com,proxima nova,proxima nova,Own or licensed brand font,0,0,1,0,
+184,pki.goog,roboto,google sans,"Open-source library font (Inter, Roboto...)",0,0,0,2,google sans;product sans
+185,pages.dev,stk bureau sans,stk bureau sans,Own or licensed brand font,1,0,1,2,apercu mono pro;stk bureau sans
+186,mts.ru,mts compact,mts wide,Own or licensed brand font,1,0,0,4,mts;mts compact;mts wide;mts wide embed
+187,discord.com,abcgintodiscord,abcgintodiscordnord,Own or licensed brand font,1,0,0,4,abc ginto;abcgintodiscord;abcgintodiscordnord;ggsans
+188,creativecommons.org,dm sans,times,"Open-source library font (Inter, Roboto...)",1,0,0,2,dm mono;dm sans
+191,soundcloud.com,söhne,söhne,Own or licensed brand font,1,0,1,1,söhne
+195,cnn.com,cnn_sans_display,book,Own or licensed brand font,1,0,0,2,cnn_sans_display;noto_serif
+196,theguardian.com,,gh guardian headline,Body font not measured,0,0,0,2,gh guardian headline;guardiantextsans
+197,telekom.net,,teleneo,Body font not measured,0,0,0,3,consent-teleneo;teleneo;teleneo fallback
+200,medium.com,,gt-super,Body font not measured,0,0,0,2,gt-super;söhne
+201,meraki.com,inter,inter,"Open-source library font (Inter, Roboto...)",1,0,1,1,inter
+203,stripe.com,söhne,söhne,Own or licensed brand font,1,0,1,1,söhne
+209,doi.org,futura-pt,futura-pt-bold,Own or licensed brand font,1,0,0,2,futura-pt;futura-pt-bold
+215,bbc.com,bbc reith serif,bbc reith serif,Own or licensed brand font,1,1,1,4,bbc reith sans;bbc reith serif;bbcreithsans-fallback;bbcreithserif-fallback
+216,ailawandorder.com,times,,No font set (browser default),0,0,0,0,
+217,criteo.com,graphik,graphik,Own or licensed brand font,1,0,1,2,graphik;mona-sans-regularwide
+218,forter.com,poppins,poppins,"Open-source library font (Inter, Roboto...)",1,0,1,2,inter;poppins
+223,wikimedia.org,sans-serif,,"Standard system font (Arial, Helvetica, Georgia...)",0,0,0,0,
+224,twitch.tv,inter,roobert,"Open-source library font (Inter, Roboto...)",1,0,0,2,inter;roobert
+228,mit.edu,neue haas grotesk,neue haas grotesk,Own or licensed brand font,1,0,1,1,neue haas grotesk
+229,applovin.com,inter,mont,"Open-source library font (Inter, Roboto...)",1,0,0,4,inter;inter fallback;mont;mont fallback
+231,publicnode.com,poppins,,"Open-source library font (Inter, Roboto...)",1,0,0,1,poppins
+234,bbc.co.uk,bbc reith serif,bbc reith serif,Own or licensed brand font,1,1,1,4,bbc reith sans;bbc reith serif;bbcreithsans-fallback;bbcreithserif-fallback
+235,nist.gov,source sans pro,source sans pro,"Open-source library font (Inter, Roboto...)",1,0,1,1,source sans pro
+236,quickconnect.to,inter,,"Open-source library font (Inter, Roboto...)",1,0,0,1,inter
+240,namecheap.com,gb museo sans,gb museo sans,Own or licensed brand font,1,0,1,1,gb museo sans
+241,cpanel.net,raleway,montserrat,"Open-source library font (Inter, Roboto...)",1,0,0,2,montserrat;raleway
+244,amplitude.com,gellix,gellix,Own or licensed brand font,1,0,1,2,gellix;ibm plex sans
+247,roku.com,rokutext,rokudisplay,Own or licensed brand font,1,0,0,2,rokudisplay;rokutext
+248,astrumu.io,helvetica,helvetica,"Standard system font (Arial, Helvetica, Georgia...)",0,0,1,0,
+249,t.co,helvetica neue,,"Standard system font (Arial, Helvetica, Georgia...)",0,0,0,0,
+250,weather.com,inter,inter,"Open-source library font (Inter, Roboto...)",1,0,1,1,inter
+251,cisco.com,inter,inter,"Open-source library font (Inter, Roboto...)",1,0,1,1,inter
+252,adtrafficquality.google,roboto,roboto,"Open-source library font (Inter, Roboto...)",1,0,1,3,google sans;product sans;roboto
+255,skyhigh.cloud,inter,inter,"Open-source library font (Inter, Roboto...)",1,0,1,2,inter;inter fallback
+261,hubspot.com,hubspot sans,hubspot serif,Own or licensed brand font,1,0,0,2,hubspot sans;hubspot serif
+263,dnsmadeeasy.com,roboto,roboto,"Open-source library font (Inter, Roboto...)",1,0,1,2,roboto;roboto-medium
+265,linktr.ee,linksans,linksans,Own or licensed brand font,1,0,1,1,linksans
+269,alidns.com,pingfang sc,pingfang sc,"Standard system font (Arial, Helvetica, Georgia...)",0,0,1,1,aliyun-2023-nav
+270,who.int,noto sans,noto sans,"Open-source library font (Inter, Roboto...)",1,0,1,1,noto sans
+273,googleblog.com,google sans,google sans flex,Own or licensed brand font,1,0,0,2,google sans;google sans flex
+276,canva.com,,canva sans,Body font not measured,0,0,0,1,canva sans
+277,ibm.com,ibm plex sans,ibm plex sans,"Open-source library font (Inter, Roboto...)",1,0,1,2,ibm plex sans;lato
+281,brave.com,poppins,flecham,"Open-source library font (Inter, Roboto...)",1,0,0,3,flecham;inter;poppins
+282,launchpad.net,ubuntu,ubuntu,"Open-source library font (Inter, Roboto...)",1,0,1,1,ubuntu
+284,datadoghq.com,national 2,national 2,Own or licensed brand font,1,0,1,2,national 2;robotomono-regular
+285,ip-api.com,open sans,dosis,"Open-source library font (Inter, Roboto...)",1,0,0,2,dosis;open sans
+286,hp.com,formadjrmicro,forma-djr-micro,Own or licensed brand font,0,0,0,2,forma djr;forma-djr-micro
+287,gamepass.com,segoe ui,segoeproblack,System UI font (system-ui / -apple-system),1,0,0,5,mwf-mdl2;mwfmdl2-xbox;segoe ui;segoeproblack;segoeui
+288,tinyurl.com,montserrat,montserrat,"Open-source library font (Inter, Roboto...)",1,0,1,1,montserrat
+290,telegram.me,-apple-system,,System UI font (system-ui / -apple-system),0,0,0,0,
+293,booking.com,system-ui,avenir next,System UI font (system-ui / -apple-system),0,0,0,0,
+294,www.gov.uk,gds transport,gds transport,Own or licensed brand font,1,0,1,1,gds transport
+295,nature.com,-apple-system,harding,System UI font (system-ui / -apple-system),0,0,0,1,harding
+298,steampowered.com,motiva sans,,Own or licensed brand font,1,0,0,1,motiva sans
+301,miui.com,misans,misans,Own or licensed brand font,1,0,1,1,misans
+303,avast.com,mierb03,mierb03,Own or licensed brand font,1,0,1,1,mierb03
+306,springer.com,merriweather sans,merriweather sans,"Open-source library font (Inter, Roboto...)",1,0,1,1,merriweather sans
+310,alibaba.com,alibaba_b2b_sans,alibaba_b2b_sans,Own or licensed brand font,1,0,1,1,alibaba_b2b_sans
+314,vungle.com,poppins,poppins,"Open-source library font (Inter, Roboto...)",1,0,1,2,poppins;poppins-fallback
+317,slack.com,salesforce-sans,salesforce-avant-garde,Own or licensed brand font,1,0,0,2,salesforce-avant-garde;salesforce-sans
+319,weibo.com,system-ui,system-ui,System UI font (system-ui / -apple-system),0,0,1,3,quotefallback;woo;woonumrank
+321,debian.org,sans-serif,sans-serif,"Standard system font (Arial, Helvetica, Georgia...)",0,0,1,0,
+322,harvard.edu,gt america,gt america,Own or licensed brand font,1,0,1,2,canela deck;gt america
+323,launchdarkly.com,söhne,headingfont3,Own or licensed brand font,0,0,0,4,bodyfont;bodyfont fallback;headingfont3;monofont
+324,ok.ru,onest,,"Open-source library font (Inter, Roboto...)",1,0,0,1,onest
+325,wiley.com,inter,inter,"Open-source library font (Inter, Roboto...)",1,0,1,2,ibm plex mono wf;inter
+326,rubiconproject.com,regola,gt alpina,Own or licensed brand font,1,0,0,2,gt alpina;regola
+328,amazon.co.uk,arial,arial,"Standard system font (Arial, Helvetica, Georgia...)",0,0,1,2,amazon ember;amazon ember modern
+334,onelink.me,inter,ppformula,"Open-source library font (Inter, Roboto...)",1,0,0,2,inter;ppformula
+335,gmail.com,google sans,google sans,Own or licensed brand font,1,0,1,2,google sans;roboto
+336,smartadserver.com,söhne,soehne buch,Own or licensed brand font,1,0,0,5,mona sans;peridot-devanagari;soehne buch;soehne leicht kursiv;söhne
+337,php.net,fira sans,fira sans,"Open-source library font (Inter, Roboto...)",1,0,1,2,fira mono;fira sans
+340,naver.com,-apple-system,-apple-system,System UI font (system-ui / -apple-system),0,0,1,0,
+341,grammarly.com,,matter,Body font not measured,0,0,0,1,matter
+342,bilibili.com,-apple-system,,System UI font (system-ui / -apple-system),0,0,0,0,
+343,zendesk.com,vanilla sans,vanilla sans,Own or licensed brand font,1,0,1,1,vanilla sans
+346,gnu.org,times,times,No font set (browser default),0,0,1,0,
+347,weebly.com,sqmarket,sqmarket-medium,Own or licensed brand font,1,0,0,2,sqmarket;sqmarket-medium
+348,branch.io,tt hoves pro,tt hoves pro expanded,Own or licensed brand font,1,0,0,3,tt hoves pro;tt hoves pro expanded;tt hoves pro mono
+350,aliyun.com,roboto,,"Open-source library font (Inter, Roboto...)",1,0,0,3,aliyun-2023-nav;roboto;robotoregular
+351,tp-link.com,aktivgrotesk-corp,aktivgrotesk-corp,Own or licensed brand font,1,0,1,1,aktivgrotesk-corp
+353,casalemedia.com,neue montreal,neue montreal,Own or licensed brand font,1,0,1,2,neue montreal;sohne mono
+354,dell.com,roboto,roboto,"Open-source library font (Inter, Roboto...)",1,0,1,1,roboto
+355,anthropic.com,anthropic sans,anthropicserif,Own or licensed brand font,1,0,0,4,anthropic sans;anthropicsans fallback;anthropicserif;anthropicserif fallback
+356,checkpoint.com,din,din-cond,Own or licensed brand font,1,0,0,3,din;din-cond;inter
+357,cdc.gov,nunito,poppins,"Open-source library font (Inter, Roboto...)",1,0,0,3,cdc-fa;nunito;poppins
+359,tradingview.com,-apple-system,euclidcircularsemibold,System UI font (system-ui / -apple-system),0,0,0,1,euclidcircularsemibold
+360,nvidia.com,nvidia-nala,nvidia-nala,Own or licensed brand font,1,0,1,3,nvidia sans;nvidia sans fallback;nvidia-nala
+361,un.org,roboto,,"Open-source library font (Inter, Roboto...)",1,0,0,1,roboto
+363,netflix.net,netflix sans,netflix sans,Own or licensed brand font,1,0,1,1,netflix sans
+368,cm.com,nunito,montserrat,"Open-source library font (Inter, Roboto...)",1,0,0,2,montserrat;nunito
+369,google.cn,arial,arial,"Standard system font (Arial, Helvetica, Georgia...)",0,0,1,0,
+370,nasa.gov,public sans,inter,"Open-source library font (Inter, Roboto...)",1,0,0,3,dm-mono;inter;public sans
+371,opendns.com,tradegothic_light,tradegothic_light,Own or licensed brand font,1,0,1,3,tradegothic;tradegothic_cn;tradegothic_light
+374,gitlab.com,gitlab sans,gitlab sans,Own or licensed brand font,1,0,1,3,gitlab mono;gitlab sans;inter
+376,globo.com,open sans,globotipo ui,"Open-source library font (Inter, Roboto...)",0,0,0,1,globotipo ui
+378,name.com,proxima nova,proxima nova,Own or licensed brand font,1,0,1,3,proxima nova;proximanovabold;proximanovasemibold
+379,issuu.com,inter,inter,"Open-source library font (Inter, Roboto...)",1,0,1,2,inter;poppins
+381,tagomi.com,coinbasetext,coinbasedisplay,Own or licensed brand font,1,0,0,3,coinbasedisplay;coinbasesans;coinbasetext
+382,stanford.edu,source sans 3,edict,"Open-source library font (Inter, Roboto...)",1,0,0,4,edict;edict fallback;source sans 3;stanford
+383,dns.google,roboto,,"Open-source library font (Inter, Roboto...)",1,0,0,1,roboto
+388,paloaltonetworks.com,tt hoves pro,tt hoves pro,Own or licensed brand font,1,0,1,2,celestepro;tt hoves pro
+389,plesk.com,raleway,montserrat,"Open-source library font (Inter, Roboto...)",1,0,0,2,montserrat;raleway
+390,live-video.net,arial,arial,"Standard system font (Arial, Helvetica, Georgia...)",0,0,1,0,
+396,bsky.app,inter,,"Open-source library font (Inter, Roboto...)",1,0,0,1,inter
+398,amazontrust.com,open sans,open sans,"Open-source library font (Inter, Roboto...)",1,0,1,1,open sans
+399,drom.ru,inter,inter,"Open-source library font (Inter, Roboto...)",1,0,1,1,inter
+400,yandex.com,ys text home,ys,Own or licensed brand font,1,0,0,1,ys text home
+401,go.com,inspire,inspire,Own or licensed brand font,1,0,1,1,inspire
+402,archive.ph,sans-serif,,"Standard system font (Arial, Helvetica, Georgia...)",0,0,0,0,
+406,inmobi.com,poppins,poppins,"Open-source library font (Inter, Roboto...)",1,0,1,1,poppins
+407,calendly.com,geist,calendly sans,"Open-source library font (Inter, Roboto...)",1,0,0,3,calendly sans;geist;wulkan
+408,dotomi.com,avenir next,avenir next,Own or licensed brand font,1,0,1,2,avenir next;avenirnext fallback
+409,okta.com,aeonik,seasonmix,Own or licensed brand font,1,0,0,2,aeonik;seasonmix
+411,netangels.ru,inter,roboto,"Open-source library font (Inter, Roboto...)",1,0,0,3,inter;mulish;roboto
+412,claude.ai,anthropic sans,anthropic-serif,Own or licensed brand font,1,0,0,2,anthropic sans;anthropic-serif
+415,expireddomains.com,ui-sans-serif,georgia,System UI font (system-ui / -apple-system),0,0,0,0,
+417,line.me,sf pro,sf pro,System UI font (system-ui / -apple-system),0,0,1,1,lineseed
+418,duckduckgo.com,ducksansproduct,ducksansdisplay,Own or licensed brand font,1,0,0,2,ducksansdisplay;ducksansproduct
+419,163.com,-apple-system,-apple-system,System UI font (system-ui / -apple-system),0,0,1,0,
+421,indeed.com,noto sans,noto sans,"Open-source library font (Inter, Roboto...)",1,0,1,2,indeed sans;noto sans
+423,hostgator.com,galano,galano,Own or licensed brand font,1,0,1,1,galano
+424,substack.com,system-ui,,System UI font (system-ui / -apple-system),0,0,0,1,cahuenga
+425,steamcommunity.com,motiva sans,,Own or licensed brand font,1,0,0,1,motiva sans
+427,aol.com,matter,matter,Own or licensed brand font,1,0,1,1,matter
+428,temu.com,miui,miui,System UI font (system-ui / -apple-system),0,0,1,0,
+429,wps.com,inter,gabarito,"Open-source library font (Inter, Roboto...)",1,0,0,2,gabarito;inter
+436,dailymotion.com,favorit,favorit,Own or licensed brand font,1,0,1,2,dailysans;favorit
+437,dynatrace.com,berninasans,berninasans,Own or licensed brand font,1,0,1,1,berninasans
+438,telekom.de,teleneo,teleneo,Own or licensed brand font,1,0,1,2,consent-teleneo;teleneo
+439,taboola.com,poppins,poppins,"Open-source library font (Inter, Roboto...)",1,0,1,1,poppins
+443,dropcatch.com,roboto,ibm plex sans,"Open-source library font (Inter, Roboto...)",1,0,0,2,ibm plex sans;roboto
+445,atlassian.net,charlie,charlie,Own or licensed brand font,1,0,1,1,charlie
+446,archive.is,sans-serif,,"Standard system font (Arial, Helvetica, Georgia...)",0,0,0,0,
+447,ampproject.org,noto sans,poppins,"Open-source library font (Inter, Roboto...)",1,0,0,3,noto sans;poppins;system
+449,intel.com,intel-one-body-text,intel-one-display-medium,Own or licensed brand font,1,0,0,2,intel-one-body-text;intel-one-display-medium
+454,pushy.io,open sans,raleway,"Open-source library font (Inter, Roboto...)",1,0,0,3,open sans;raleway;themify
+455,xboxlive.com,segoe ui,segoeproblack,System UI font (system-ui / -apple-system),1,0,0,3,mwfmdl2-xbox;segoe ui;segoeproblack
+456,arxiv.org,lucida grande,lucida grande,"Standard system font (Arial, Helvetica, Georgia...)",0,0,1,1,ibm plex sans
+457,taobao.com,system-ui,system-ui,System UI font (system-ui / -apple-system),0,0,1,0,
+458,bluehost.com,poppins,poppins,"Open-source library font (Inter, Roboto...)",1,0,1,1,poppins
+459,g.page,google sans,google sans,Own or licensed brand font,1,0,1,2,google sans;google symbols
+460,mzstatic.com,sf pro,sf pro,System UI font (system-ui / -apple-system),1,0,1,1,sf pro
+461,yahoo.co.jp,hiragino kaku gothic pron,hiragino kaku gothic pron,"Standard system font (Arial, Helvetica, Georgia...)",0,0,1,1,yjtop ellipsis
+462,eye4.cn,times,,No font set (browser default),0,0,0,0,
+463,pixabay.com,open sans,open sans,"Open-source library font (Inter, Roboto...)",1,0,1,2,canva sans;open sans
+465,duolingo.com,duolingo-sans,duolingo-sans,Own or licensed brand font,1,0,1,1,duolingo-sans
+467,huawei.com,huaweisans-regular,huaweisans-bold,Own or licensed brand font,1,0,0,3,corpfont;huaweisans-bold;huaweisans-regular
+468,selectel.ru,manrope,manrope,"Open-source library font (Inter, Roboto...)",1,0,1,1,manrope
+469,speedtest.net,montserrat,montserrat,"Open-source library font (Inter, Roboto...)",1,0,1,2,montserrat;montserrat-fixed
+471,crpt.ru,circe,circe,Own or licensed brand font,1,0,1,1,circe
+472,businessinsider.com,garnett,garnett,Own or licensed brand font,1,0,1,1,garnett
+476,cnbc.com,proxima nova,proxima nova,Own or licensed brand font,1,0,1,2,lyon;proxima nova
+477,fandom.com,rubik,rubik,"Open-source library font (Inter, Roboto...)",1,0,1,1,rubik
+479,walmart.com,everydaysans,everydaysans,Own or licensed brand font,1,0,1,1,everydaysans
+482,goodreads.com,lato,lato,"Open-source library font (Inter, Roboto...)",1,0,1,2,lato;merriweather
+484,shein.com,helvetica,,"Standard system font (Arial, Helvetica, Georgia...)",0,0,0,2,jost;muli
+486,ietf.org,inter,aktiv-grotesk,"Open-source library font (Inter, Roboto...)",1,0,0,1,inter
+490,trueconf.net,open sans,open sans,"Open-source library font (Inter, Roboto...)",1,0,1,1,open sans
+491,amazon.co.jp,hiragino kaku gothic pron,hiragino kaku gothic pron,"Standard system font (Arial, Helvetica, Georgia...)",0,0,1,3,amazon ember;amazon ember jp;amazon ember modern
+492,aliexpress.com,tt norms pro,tt norms pro,Own or licensed brand font,1,0,1,2,open sans;tt norms pro
+494,statista.com,open sans,open sans,"Open-source library font (Inter, Roboto...)",1,0,1,2,open sans;open sans fallback
+495,quora.com,-apple-system,,System UI font (system-ui / -apple-system),0,0,0,0,
+496,scribd.com,scribd sans,scribd sans,Own or licensed brand font,1,0,1,1,scribd sans
+497,appsflyer.com,inter,ppformula,"Open-source library font (Inter, Roboto...)",1,0,0,2,inter;ppformula
+501,lijit.com,circular,circular,Own or licensed brand font,1,0,1,1,circular
+502,teamviewer.com,teamviewersans,teamviewersans,Own or licensed brand font,1,0,1,2,sequel100;teamviewersans
+503,chatgpt.site,openai sans,openai sans,Own or licensed brand font,1,0,1,1,openai sans
+504,eventbrite.com,founders grotesk r,founders grotesk r,Own or licensed brand font,1,0,1,1,founders grotesk r
+505,addtoany.com,-apple-system,-apple-system,System UI font (system-ui / -apple-system),0,0,1,0,
+506,timeweb.ru,roboto,roboto,"Open-source library font (Inter, Roboto...)",1,0,1,2,roboto;roboto fallback
+507,sina.com.cn,microsoft yahei,,"Standard system font (Arial, Helvetica, Georgia...)",0,0,0,0,
+508,npr.org,nprserif,nprsans,Own or licensed brand font,1,1,0,3,nprsans;nprserif;open sans
+509,foxnews.com,roboto,roboto,"Open-source library font (Inter, Roboto...)",1,0,1,1,roboto
+510,trendmicro.com,open sans,interstatebold,"Open-source library font (Inter, Roboto...)",1,0,0,5,interstate;interstatebold;open sans;opensanslight;opensanssemibold
+512,noaa.gov,nunito sans,nunito sans,"Open-source library font (Inter, Roboto...)",1,0,1,2,nunito sans;source sans pro
+514,indiatimes.com,-apple-system,-apple-system,System UI font (system-ui / -apple-system),0,0,1,0,
+515,supercell.com,supercelltext-medium,supercellheadline-heavy,Own or licensed brand font,1,0,0,4,supercellheadline-heavy;supercelltext-bold;supercelltext-medium;supercelltext-regular
+516,blogger.com,roboto,roboto,"Open-source library font (Inter, Roboto...)",1,0,1,1,roboto
+517,google.de,roboto,,"Open-source library font (Inter, Roboto...)",1,0,0,2,google sans;roboto
+518,amzn.to,arial,arial,"Standard system font (Arial, Helvetica, Georgia...)",0,0,1,1,amazon ember modern
+519,markmonitor.com,inter,nohemi,"Open-source library font (Inter, Roboto...)",1,0,0,2,inter;nohemi
+520,google.com.hk,roboto,,"Open-source library font (Inter, Roboto...)",1,0,0,2,google sans;roboto
+521,share.google,arial,product sans,"Standard system font (Arial, Helvetica, Georgia...)",0,0,0,2,open sans;product sans
+524,adriver.ru,helvetica neue,,"Standard system font (Arial, Helvetica, Georgia...)",0,0,0,3,pf_centro_sans_probold;pf_centro_sans_prolight;pf_centro_sans_proregular
+527,braze.com,aribaugrotesk,aribaugrotesk,Own or licensed brand font,1,0,1,3,aribaugrotesk;aribaugrotesk fallback;inter
+528,openstreetmap.org,system-ui,system-ui,System UI font (system-ui / -apple-system),0,0,1,0,
+531,tplinkcloud.com,myriadpro-lightsemiext,,Own or licensed brand font,1,0,0,1,myriadpro-lightsemiext
+535,docker.com,inter,repro,"Open-source library font (Inter, Roboto...)",1,0,0,2,inter;repro
+536,netcraze.io,roboto condensed,roboto condensed,"Open-source library font (Inter, Roboto...)",1,0,1,1,roboto condensed
+537,uol.com.br,uoltext,uoltext,Own or licensed brand font,1,0,1,3,uoltext;uoltextlight;uoltextregular
+540,cloudns.net,nunito,nunito,"Open-source library font (Inter, Roboto...)",1,0,1,1,nunito
+542,mysql.com,open sans,open sans,"Open-source library font (Inter, Roboto...)",1,0,1,1,open sans
+545,capcut.com,inter,inter,"Open-source library font (Inter, Roboto...)",1,0,1,1,inter
+546,mozilla.com,mozilla,mozilla headline,Own or licensed brand font,1,0,0,2,mozilla;mozilla headline
+548,ivi.ru,ivisansbase,ivisansbase,Own or licensed brand font,1,0,1,1,ivisansbase
+550,newrelic.com,inter,mona sans,"Open-source library font (Inter, Roboto...)",1,0,0,3,geist mono;inter;mona sans
+551,ft.com,,financierdisplayweb,Body font not measured,0,0,0,2,financier;metric 2
+552,dyndns.org,-apple-system,-apple-system,System UI font (system-ui / -apple-system),0,0,1,0,
+557,icloud-content.com,sf pro,sf pro,System UI font (system-ui / -apple-system),1,0,1,1,sf pro
+558,firefox.com,mozilla,mozilla headline,Own or licensed brand font,1,0,0,2,mozilla;mozilla headline
+559,sohu.com,pingfang sc,,"Standard system font (Arial, Helvetica, Georgia...)",0,0,0,0,
+560,playstation.com,sst,sst,Own or licensed brand font,1,0,1,1,sst
+561,visualstudio.com,segoe ui,segoe ui,System UI font (system-ui / -apple-system),1,0,1,1,segoe ui
+562,oup.com,open sans,dm serif,"Open-source library font (Inter, Roboto...)",1,0,0,2,dm serif;open sans
+565,fast.com,helvetica,,"Standard system font (Arial, Helvetica, Georgia...)",0,0,0,1,oc-webfont
+566,shop.app,gt standard,gt standard,Own or licensed brand font,1,0,1,1,gt standard
+567,doubleverify.com,roboto condensed,roboto condensed,"Open-source library font (Inter, Roboto...)",1,0,1,2,roboto;roboto condensed
+570,wired.com,proxima nova,wired mono,Own or licensed brand font,1,0,0,5,apercu;breve;proxima nova;wired mono;wireddisplay
+571,klaviyo.com,instrument sans,klaviyo degular,"Open-source library font (Inter, Roboto...)",1,0,0,5,dm mono;instrument sans;inter;klaviyo degular;source sans 3
+574,cornell.edu,freight-sans-pro-n4,freight-sans-pro-n4,Own or licensed brand font,0,0,1,3,fontcustom;freight-sans-pro;freight-text-pro
+575,mediatek.com,riona sans,riona sans extra,Own or licensed brand font,1,0,0,3,lato;riona sans;riona sans extra
+584,dreamhost.com,gilroy,gilroy,Own or licensed brand font,1,0,1,1,gilroy
+585,time.com,graphik,graphik,Own or licensed brand font,1,0,1,3,graphik;graphikcompact fallback;ppeditorialnew
+587,jquery.com,helvetica neue,cairo,"Standard system font (Arial, Helvetica, Georgia...)",0,0,0,1,cairo
+589,ezvizlife.com,microsoft yahei,microsoft yahei,"Standard system font (Arial, Helvetica, Georgia...)",0,0,1,0,
+591,squarespace.com,clarkson,clarkson,Own or licensed brand font,1,0,1,2,clarkson;clarkson serif
+593,threads.com,system-ui,system-ui,System UI font (system-ui / -apple-system),0,0,1,0,
+595,deviantart.com,sans-serif,devioussans02extrabold,"Standard system font (Arial, Helvetica, Georgia...)",0,0,0,5,devioussans02bold;devioussans02extrabold;devioussans02light;devioussans02medium;devioussans02regular
+596,free.fr,montserrat,iliad,"Open-source library font (Inter, Roboto...)",1,0,0,3,iliad;montserrat;montserrat fallback
+597,rakuten.co.jp,meiryo,,"Standard system font (Arial, Helvetica, Georgia...)",0,0,0,2,rakutenroboto;roboto
+599,360yield.com,open sans,,"Open-source library font (Inter, Roboto...)",1,0,0,1,open sans
+600,eset.com,segoe ui,fedra,System UI font (system-ui / -apple-system),0,0,0,1,fedra
+601,ca.gov,public sans,public sans,"Open-source library font (Inter, Roboto...)",1,0,1,2,cagov;public sans
+603,media.net,dm sans,dm sans,"Open-source library font (Inter, Roboto...)",1,0,1,3,dm sans;gabarito;open sans
+604,atlassian.com,charlie,charlie,Own or licensed brand font,1,0,1,2,atlassian mono;charlie
+605,gosuslugi.ru,,,Body font not measured,0,0,0,2,lato;lato-bold
+606,3lift.com,avenir lt std,avenir lt std,Own or licensed brand font,1,0,1,1,avenir lt std
+607,adsrvr.org,proxima nova,proxima nova,Own or licensed brand font,0,0,1,0,
+609,target.com,helvetica for target,helvetica for target,Own or licensed brand font,1,0,1,1,helvetica for target
+611,vercel.app,geist,geist,"Open-source library font (Inter, Roboto...)",1,0,1,2,geist;geist mono
+612,digitalocean.com,inter,plus jakarta sans,"Open-source library font (Inter, Roboto...)",1,0,0,3,inter;jetbrains mono;plus jakarta sans
+613,mega.co.nz,inter,poppins,"Open-source library font (Inter, Roboto...)",1,0,0,2,inter;poppins
+614,aboutads.info,lato,droid sans,"Open-source library font (Inter, Roboto...)",1,0,0,2,droid sans;lato
+615,ddnss.de,open sans,open sans,"Open-source library font (Inter, Roboto...)",1,0,1,1,open sans
+616,wix.com,wix-madefor-text-v2,wix-madefor-display-v2,Own or licensed brand font,1,0,0,6,madefor-display;madefor-display-bold;madefor-text;madefor-text-mediumbold;wix-madefor-display-v2;wix-madefor-text-v2
+617,ieee.org,open sans,open sans,"Open-source library font (Inter, Roboto...)",1,0,1,1,open sans
+618,usatoday.com,,,Body font not measured,0,0,0,1,unify sans
+623,sagepub.com,open sans,peak,"Open-source library font (Inter, Roboto...)",1,0,0,2,open sans;peak
+624,unesco.org,inter,inter,"Open-source library font (Inter, Roboto...)",1,0,1,2,inter;unesco
+626,berkeley.edu,inter,inter,"Open-source library font (Inter, Roboto...)",1,0,1,1,inter
+630,hotjar.com,inter,newedgerounded,"Open-source library font (Inter, Roboto...)",1,0,0,2,inter;newedgerounded
+632,techcrunch.com,nb_international_proregular,yellix,Own or licensed brand font,1,0,0,2,nb_international_proregular;yellix
+634,amazon.ca,arial,arial,"Standard system font (Arial, Helvetica, Georgia...)",0,0,1,2,amazon ember;amazon ember modern
+635,ikea.com,noto ikea,noto ikea,Own or licensed brand font,1,0,1,1,noto ikea
+636,bitrix24.ru,tt commons pro,tt commons pro,Own or licensed brand font,1,0,1,1,tt commons pro
+637,nintendo.com,geologica,geologica,"Open-source library font (Inter, Roboto...)",1,0,1,1,geologica
+640,merriam-webster.com,open sans,playfair,"Open-source library font (Inter, Roboto...)",1,0,0,2,open sans;playfair
+641,onetrust.com,brut grotesque,antique legacy,Own or licensed brand font,1,0,0,3,antique legacy;brut grotesque;phosphor
+642,verisign.com,inter,roboto serif,"Open-source library font (Inter, Roboto...)",1,0,0,2,inter;roboto serif
+644,jotform.com,circular,circular,Own or licensed brand font,1,0,1,1,circular
+651,intercom.io,serrif,saans,Own or licensed brand font,1,1,0,6,saans;saans fallback;saansmono;saansmono fallback;serrif;serrif fallback
+653,beget.ru,source sans 3,golos,"Open-source library font (Inter, Roboto...)",1,0,0,2,golos;source sans 3
+656,service.gov.uk,gds transport,gds transport,Own or licensed brand font,1,0,1,1,gds transport
+657,meta.com,optimistic,optimistic,Own or licensed brand font,1,0,1,1,optimistic
+658,stackadapt.com,source sans 3,space grotesk,"Open-source library font (Inter, Roboto...)",1,0,0,2,source sans 3;space grotesk
+659,charter.net,spectrum sans,spectrum sans,Own or licensed brand font,1,0,1,1,spectrum sans
+660,2gis.com,sbsanstext,,Own or licensed brand font,1,0,0,1,sbsanstext
+661,loc.gov,open sans,roboto slab,"Open-source library font (Inter, Roboto...)",1,0,0,2,open sans;roboto slab
+667,iso.org,inter,inter,"Open-source library font (Inter, Roboto...)",1,0,1,1,inter
+668,palmplaystore.com,times,,No font set (browser default),0,0,0,0,
+669,optimizely.com,vc nudge,vc henrietta condensed,Own or licensed brand font,1,0,0,3,die grotesk b;vc henrietta condensed;vc nudge
+672,elpais.com,arial,majrittx,"Standard system font (Arial, Helvetica, Georgia...)",0,0,0,4,majritbn;majrittx;majrittxroman;marcinantb
+674,nike.com,helvetica now,helvetica now,Own or licensed brand font,1,0,1,2,helvetica now;nike futura nd
+677,primevideo.com,amazon ember,amazon ember,Own or licensed brand font,1,0,1,1,amazon ember
+678,redhat.com,red hat text,redhatdisplay,"Open-source library font (Inter, Roboto...)",0,0,0,3,red hat;redhatdisplaymedium;redhattextregular
+679,sharethrough.com,tt interphases,tt interphases,Own or licensed brand font,1,0,1,1,tt interphases
+680,britannica.com,-apple-system,-apple-system,System UI font (system-ui / -apple-system),0,0,1,1,national 2
+681,box.com,inter,inter,"Open-source library font (Inter, Roboto...)",1,0,1,1,inter
+684,withgoogle.com,roboto,,"Open-source library font (Inter, Roboto...)",1,0,0,2,google sans;roboto
+685,surveymonkey.com,national 2,national 2,Own or licensed brand font,1,0,1,1,national 2
+686,binance.com,binancenova,binancenova,Own or licensed brand font,1,0,1,1,binancenova
+687,telefonica.de,telefonicaregular,,Own or licensed brand font,1,0,0,3,telefonicabold;telefonicalight;telefonicaregular
+691,ring.com,ringsans,ringsans,Own or licensed brand font,1,0,1,1,ringsans
+692,anydesk.com,noto sans,noto sans,"Open-source library font (Inter, Roboto...)",1,0,1,1,noto sans
+693,xhamster.com,roboto,roboto,"Open-source library font (Inter, Roboto...)",0,0,1,0,
+695,ovh.net,source sans pro,source sans pro,"Open-source library font (Inter, Roboto...)",1,0,1,2,jetbrains mono;source sans pro
+696,kick.com,inter,inter,"Open-source library font (Inter, Roboto...)",1,0,1,2,inter;inter fallback
+697,lemonde.fr,marr sans,the antiqua b extrabold,Own or licensed brand font,1,0,0,7,marr sans;marr sans condensed;marr sans condensed semibold fallback;marr sans fallback;marr sans semibold fallback;the antiqua b;the antiqua b extrabold
+698,perplexity.ai,pplxsans,pplxsans,Own or licensed brand font,1,0,1,1,pplxsans
+699,ngenix.net,graphik,graphik,Own or licensed brand font,1,0,1,1,graphik
+700,cbsnews.com,tt norms pro,ttnorms pro serif,Own or licensed brand font,1,0,0,4,proxima nova;tt norms pro;ttnorms pro serif;ttnormspro bold fallback
+706,fb.com,system-ui,,System UI font (system-ui / -apple-system),0,0,0,2,facebook sans;optimistic
+708,bandcamp.com,helvetica neue,helvetica neue,"Standard system font (Arial, Helvetica, Georgia...)",0,0,1,0,
+709,rustore.ru,vkfont,vkfont,Own or licensed brand font,1,0,1,2,vkfont;vkfont fallback
+713,360.cn,arial,arial,"Standard system font (Arial, Helvetica, Georgia...)",0,0,1,0,
+714,reverse.it,mundial,mundial,Own or licensed brand font,0,0,1,0,
+716,imgsmail.ru,helvetica,,"Standard system font (Arial, Helvetica, Georgia...)",0,0,0,2,roboto;vksansdisplay
+717,cookielaw.org,brut grotesque,antique legacy,Own or licensed brand font,1,0,0,3,antique legacy;brut grotesque;phosphor
+719,outbrain.com,plus jakarta sans,plus jakarta sans,"Open-source library font (Inter, Roboto...)",1,0,1,1,plus jakarta sans
+720,stripchat.com,inter,inter,"Open-source library font (Inter, Roboto...)",1,0,1,1,inter
+721,ya.ru,ys text home,ys,Own or licensed brand font,1,0,0,1,ys text home
+722,hihonorcloud.com,honorsansworld,,Own or licensed brand font,1,0,0,1,honorsansworld
+723,certcenter.com,roboto,,"Open-source library font (Inter, Roboto...)",0,0,0,0,
+724,bugsnag.com,dm sans,dm sans,"Open-source library font (Inter, Roboto...)",1,0,1,1,dm sans
+725,itch.io,lato,lato,"Open-source library font (Inter, Roboto...)",1,0,1,2,im fell english sc;lato
+727,pinimg.com,pin sans,pin sans,Own or licensed brand font,1,0,1,1,pin sans
+730,linode.com,source sans pro,source sans pro,"Open-source library font (Inter, Roboto...)",1,0,1,1,source sans pro
+732,webempresa.eu,satoshi,sora,Own or licensed brand font,1,0,0,4,etmodules;satoshi;sora;wepixelfont
+733,uber.com,ubermovetext,ubermove,Own or licensed brand font,1,0,0,2,ubermove;ubermovetext
+736,independent.co.uk,independent sans,indy sans,Own or licensed brand font,1,0,0,6,independent sans;independent serif;indy sans;indy sans fallback;indy serif;indy serif fallback
+737,cnet.com,monumentgrotesk,stardust,Own or licensed brand font,1,0,0,2,monumentgrotesk;stardust
+738,mediafire.com,open sans,open sans,"Open-source library font (Inter, Roboto...)",1,0,1,1,open sans
+739,viber.com,roboto,roboto,"Open-source library font (Inter, Roboto...)",1,0,1,1,roboto
+740,gumgum.com,circular,circular,Own or licensed brand font,1,0,1,1,circular
+741,asus.com,tt norms pro,ttnormspromedium,Own or licensed brand font,1,0,0,5,roboto;tt norms pro;ttnormspromedium;ttnormspronormal;ttnormsstdcondensednormal
+745,hugedomains.com,noto sans,noto sans,"Open-source library font (Inter, Roboto...)",1,0,1,1,noto sans
+751,globalsign.com,open sans,open sans,"Open-source library font (Inter, Roboto...)",1,0,1,1,open sans
+752,yieldmo.com,helvetica,pp neue machina,"Standard system font (Arial, Helvetica, Georgia...)",0,0,0,3,inter;juana;pp neue machina
+754,uk.com,albert sans,albert sans,"Open-source library font (Inter, Roboto...)",1,0,1,1,albert sans
+755,bild.de,gotham xnarrow,times,Own or licensed brand font,1,0,0,3,gotham;gotham cond;gotham xnarrow
+756,python.org,source sans pro,sourcesansprobold,"Open-source library font (Inter, Roboto...)",1,0,0,5,flux-bold;flux-regular;source sans pro;sourcesansprobold;sourcesansproitalic
+757,wpguardian.io,inter,inter,"Open-source library font (Inter, Roboto...)",1,0,1,1,inter
+758,rfc-editor.org,inter,inter,"Open-source library font (Inter, Roboto...)",1,0,1,1,inter
+759,wpguardian.com,inter,inter,"Open-source library font (Inter, Roboto...)",1,0,1,1,inter
+762,fontawesome.com,cera-round-pro,cera-round-pro,Own or licensed brand font,1,0,1,1,cera-round-pro
+763,homedepot.com,helvetica neue,helvetica-neue-75-bold,"Standard system font (Arial, Helvetica, Georgia...)",1,0,0,4,helvetica neue;helvetica-neue;helvetica-neue-75-bold;helvetica-neue-bold
+764,google.co.uk,roboto,,"Open-source library font (Inter, Roboto...)",1,0,0,2,google sans;roboto
+765,g.co,arial,product sans,"Standard system font (Arial, Helvetica, Georgia...)",0,0,0,2,open sans;product sans
+768,mailchimp.com,tally,means,Own or licensed brand font,1,0,0,3,graphik;means;tally
+769,craigslist.org,open sans,,"Open-source library font (Inter, Roboto...)",0,0,0,0,
+770,deepl.com,roboto,roboto,"Open-source library font (Inter, Roboto...)",1,0,1,2,roboto;robotolatin fallback
+772,maricopa.gov,roboto,poppins,"Open-source library font (Inter, Roboto...)",1,0,0,4,lato;poppins;roboto;schibsted grotesk
+773,mlb.com,mlb-primary,mlb-primary,Own or licensed brand font,1,0,1,3,hex franklin mlb;mlb-primary;proxima nova
+774,imgur.com,proxima nova,proxima nova,Own or licensed brand font,1,0,1,3,imgur;proxima nova;proxima nova extrabold
+776,airbnb.com,airbnb cereal,airbnb cereal,Own or licensed brand font,1,0,1,1,airbnb cereal
+779,nikkei.com,hiragino sans jp,hiragino sans jp,Own or licensed brand font,1,0,1,1,hiragino sans jp
+784,welt.de,ffmark,ffmark,Own or licensed brand font,1,0,1,3,ffmark;ffmark-fallback;freight
+790,wattpad.com,source sans pro,source sans pro,"Open-source library font (Inter, Roboto...)",1,0,1,1,source sans pro
+791,flurry.com,neue haas grotesk,neue haas grotesk,Own or licensed brand font,1,0,1,1,neue haas grotesk
+795,apnews.com,ap,ap,Own or licensed brand font,1,0,1,4,ap;apvar;assistant;poppins
+797,conviva.com,poppins,poppins,"Open-source library font (Inter, Roboto...)",1,0,1,1,poppins
+800,moloco.com,ppmori,kyoto,Own or licensed brand font,1,0,0,5,kyoto;montserrat;noto sans jp;noto sans sc;ppmori
+802,zoho.com,zoho_puvi_regular,zoho_puvi_regular,Own or licensed brand font,1,0,1,5,robotoslablight;zoho_puvi_bold;zoho_puvi_medium;zoho_puvi_regular;zoho_puvi_semibold
+803,ameblo.jp,hiragino sans,hiragino sans,"Standard system font (Arial, Helvetica, Georgia...)",0,0,1,1,ameba-numbers
+804,google.com.br,roboto,,"Open-source library font (Inter, Roboto...)",1,0,0,2,google sans;roboto
+806,mikrotik.com,jetbrains mono,jetbrains mono,"Open-source library font (Inter, Roboto...)",1,0,1,1,jetbrains mono
+807,lenovo.com,noto sans,montserrat,"Open-source library font (Inter, Roboto...)",1,0,0,3,lato;montserrat;noto sans
+809,rakuten.com,rakuten sans ui,stag,Own or licensed brand font,1,0,0,3,rakuten sans ui;schibsted grotesk;stag
+810,wp.pl,roboto,roboto condensed,"Open-source library font (Inter, Roboto...)",1,0,0,2,roboto;roboto condensed
+812,adjust.com,tt norms pro,tt norms pro,Own or licensed brand font,1,0,1,1,tt norms pro
+813,prnewswire.com,proxima nova,proxima nova,Own or licensed brand font,1,0,1,3,black tie;proxima nova;wistiaplayerinternumberssemibold
+817,discordapp.com,abcgintodiscord,abcgintodiscordnord,Own or licensed brand font,1,0,0,4,abc ginto;abcgintodiscord;abcgintodiscordnord;ggsans
+818,parklogic.com,inter,,"Open-source library font (Inter, Roboto...)",1,0,0,1,inter
+820,disneyplus.com,inspire,inspire,Own or licensed brand font,1,0,1,1,inspire
+822,amazon.co.za,arial,arial,"Standard system font (Arial, Helvetica, Georgia...)",0,0,1,2,amazon ember;amazon ember modern
+823,ted.com,inter,,"Open-source library font (Inter, Roboto...)",1,0,0,1,inter
+824,zoom.com,inter,newsreader,"Open-source library font (Inter, Roboto...)",1,0,0,3,icozm;inter;newsreader
+825,people.com,limerick serial,limerick serial,Own or licensed brand font,1,0,1,2,inter;limerick serial
+826,erome.com,montserrat,,"Open-source library font (Inter, Roboto...)",1,0,0,1,montserrat
+827,mixpanel.com,abc arizona text light italic,garnett,Own or licensed brand font,1,0,0,5,abc arizona text light italic;apercu pro;garnett;inter;source sans pro
+832,onlyfans.com,roboto,a,"Open-source library font (Inter, Roboto...)",1,0,0,1,roboto
+833,usps.com,inter,inter,"Open-source library font (Inter, Roboto...)",1,0,1,1,inter
+834,teads.tv,helvetica,,"Standard system font (Arial, Helvetica, Georgia...)",0,0,0,0,
+836,netlify.app,instrument sans,figtree,"Open-source library font (Inter, Roboto...)",1,0,0,3,figtree;instrument sans;martian mono
+837,supabase.co,inter,manrope,"Open-source library font (Inter, Roboto...)",1,0,0,4,inter;inter fallback;manrope;source code pro
+840,liftoff.io,poppins,poppins,"Open-source library font (Inter, Roboto...)",1,0,1,2,poppins;poppins-fallback
+842,vivo.com.cn,vivo-font-web,vivosanssc,Own or licensed brand font,0,0,0,3,vivo-font-nav;vivo-font-nav-bold;vivosanssc
+844,consultant.ru,pt sans,pt sans,"Open-source library font (Inter, Roboto...)",1,0,1,2,pt sans;pt sans caption
+846,discogs.com,helvetica neue,helvetica neue,"Standard system font (Arial, Helvetica, Georgia...)",0,0,1,0,
+847,hostgator.com.br,galano,galano,Own or licensed brand font,1,0,1,1,galano
+848,academia.edu,dm sans,gupter,"Open-source library font (Inter, Roboto...)",1,0,0,4,dm sans;gupter;ibm plex mono;roboto
+849,life360.com,centrano2,centrano2,Own or licensed brand font,1,0,1,1,centrano2
+851,xvideos.com,arial,,"Standard system font (Arial, Helvetica, Georgia...)",0,0,0,0,
+853,porkbun.com,open sans,open sans,"Open-source library font (Inter, Roboto...)",1,0,1,1,open sans
+854,seznam.cz,arial,arial,"Standard system font (Arial, Helvetica, Georgia...)",0,0,1,0,
+855,me.com,system-ui,system-ui,System UI font (system-ui / -apple-system),0,0,1,0,
+857,synology.com,inter,inter,"Open-source library font (Inter, Roboto...)",1,0,1,1,inter
+858,vivoglobal.com,times,,No font set (browser default),0,0,0,0,
+860,gotinder.com,regola,society,Own or licensed brand font,1,0,0,2,regola;society
+861,focus.de,inter tight,inter tight,"Open-source library font (Inter, Roboto...)",1,0,1,3,inter;inter tight;open sans
+862,unpkg.com,ui-sans-serif,ui-sans-serif,System UI font (system-ui / -apple-system),0,0,1,0,
+863,agoda.com,helvetica neue,helvetica neue,"Standard system font (Arial, Helvetica, Georgia...)",0,0,1,0,
+865,theverge.com,polysans,polysans,Own or licensed brand font,1,0,1,6,fkromanstandard;fkromanstandard fallback;manuka;polysans;polysansmono;polysansmono fallback
+866,chess.com,-apple-system,chess sans,System UI font (system-ui / -apple-system),0,0,0,1,chess sans
+867,flipkart.com,inter,inter_bold,"Open-source library font (Inter, Roboto...)",1,0,0,6,fallback-inter_regular;fallback-inter_semi_bold;inter;inter_bold;inter_semi_bold;roboto
+868,agora.io,jokker,jokker,Own or licensed brand font,1,0,1,3,fira code;inter;jokker
+869,appspot.com,google sans,google sans,Own or licensed brand font,1,0,1,1,google sans
+870,frontiersin.org,museo sans,museo sans,Own or licensed brand font,1,0,1,1,museo sans
+871,amazon.com.br,arial,arial,"Standard system font (Arial, Helvetica, Georgia...)",0,0,1,2,amazon ember;amazon ember modern
+872,myspace.com,bentonsans,bentonsans,Own or licensed brand font,1,0,1,1,bentonsans
+874,pendo.io,inter,inter,"Open-source library font (Inter, Roboto...)",1,0,1,3,inter;inter tight;sora
+876,www.gov.br,rawline,rawline,Own or licensed brand font,1,0,1,1,rawline
+877,cursor.sh,cursorgothic,cursorgothic,Own or licensed brand font,1,0,1,5,berkeleymono;cursorgothic;cursorgothic fallback;eb garamond;lato
+878,pexels.com,canva sans,canva sans,Own or licensed brand font,1,0,1,1,canva sans
+883,onetag-sys.com,arial,arial,"Standard system font (Arial, Helvetica, Georgia...)",0,0,1,0,
+885,statuspage.io,charlie,charlie,Own or licensed brand font,1,0,1,1,charlie
+887,biblegateway.com,ui-sans-serif,system-ui,System UI font (system-ui / -apple-system),0,0,0,0,
+888,cdnvideo.ru,cdnvideo,cdnvideo,Own or licensed brand font,1,0,1,1,cdnvideo
+889,arcgis.com,avenir next,avenir next,Own or licensed brand font,1,0,1,1,avenir next
+891,auth0.com,aeonik,aeonik,Own or licensed brand font,1,0,1,2,aeonik;aeonik mono
+892,deloitte.com,open sans,open sans,"Open-source library font (Inter, Roboto...)",1,0,1,2,dcom-ede;open sans
+893,no-ip.com,open sans,open sans,"Open-source library font (Inter, Roboto...)",0,0,1,0,
+894,appcenter.ms,segoe ui,segoe ui,System UI font (system-ui / -apple-system),0,0,1,1,segoeui
+896,daum.net,-apple-system,-apple-system,System UI font (system-ui / -apple-system),0,0,1,0,
+897,nbcnews.com,publicotext,foundersgroteskcond,Own or licensed brand font,1,0,0,5,foundersgroteskcond;foundersgroteskmono;publicoheadline;publicotext;widget-poppins
+898,worldbank.org,open sans,open sans,"Open-source library font (Inter, Roboto...)",1,0,1,2,open sans;roboto-fallback
+899,readthedocs.io,lato,lato,"Open-source library font (Inter, Roboto...)",1,0,1,1,lato
+901,pornhub.com,arial,,"Standard system font (Arial, Helvetica, Georgia...)",0,0,0,0,
+902,hbr.org,gt america,tiempos headline,Own or licensed brand font,1,0,0,2,gt america;tiempos headline
+904,figma.com,figmasans,figmasans,Own or licensed brand font,1,0,1,2,figmamono;figmasans
+905,one.one,plus jakarta sans,gellixfont,"Open-source library font (Inter, Roboto...)",1,0,0,3,gellixfont;plus jakarta sans;plusjakartasans
+907,poki.com,proxima nova,torus,Own or licensed brand font,1,0,0,2,proxima nova;torus
+908,fwmrm.net,rubik,rubik-semibold,"Open-source library font (Inter, Roboto...)",1,0,0,4,rubik;rubik-medium;rubik-regular;rubik-semibold
+909,princeton.edu,franklin-gothic-urw,franklin-gothic-ext-comp-urw,Own or licensed brand font,1,0,0,4,franklin-gothic-ext-comp-urw;franklin-gothic-urw;franklin-gothic-urw-cond;princeton_monticello
+910,cloudinary.com,inter,inter,"Open-source library font (Inter, Roboto...)",1,0,1,1,inter
+911,bankofamerica.com,roboto,cnx-regular,"Open-source library font (Inter, Roboto...)",1,0,0,6,cnx-light;cnx-medium;cnx-regular;roboto;roboto-bold;roboto-medium
+913,disqus.com,lato,lato,"Open-source library font (Inter, Roboto...)",1,0,1,1,lato
+915,epa.gov,source sans pro,merriweather,"Open-source library font (Inter, Roboto...)",1,0,0,2,merriweather;source sans pro
+916,lg.com,lgei,lgei headline,Own or licensed brand font,1,0,0,2,lgei;lgei headline
+917,wyzecam.com,helvetica,gilroy,"Standard system font (Arial, Helvetica, Georgia...)",0,0,0,3,alia-gilroy;gilroy;instrument sans
+918,latimes.com,georgia,fbkisdisplay,"Standard system font (Arial, Helvetica, Georgia...)",0,1,0,4,bentongothic;bentongothiccond-black;fbkisdisplay;proxima nova
+920,networkadvertising.org,ui-sans-serif,gt america,System UI font (system-ui / -apple-system),0,0,0,1,gt america
+921,mercadolivre.com.br,proxima nova,proxima nova,Own or licensed brand font,1,0,1,2,navigation;proxima nova
+923,qualtrics.com,qualtrics-text,qualtrics-text,Own or licensed brand font,1,0,1,3,inter;qualtrics-display;qualtrics-text
+925,smilewanted.com,dm sans,dm sans,"Open-source library font (Inter, Roboto...)",1,0,1,1,dm sans
+927,singular.net,figtree,bakbak one,"Open-source library font (Inter, Roboto...)",1,0,0,2,bakbak one;figtree
+928,seedtag.com,instrument sans,instrument sans w90,"Open-source library font (Inter, Roboto...)",1,0,0,4,instrument sans;instrument sans w90;instrument serif;instrumentserif
+930,classlink.com,lato,helvetica neue condensed,"Open-source library font (Inter, Roboto...)",1,0,0,20,active;exo;fa brands;fa classic;fa sharp;gala;gala-condensed;glodok;good-times;great vibes;helvetica neue condensed;lato;neue-kabel;pacifico;quincy-cf;roboto-slab;rubik;scandia-web;scandia-web-stencil;tt-modernoir
+933,kleinanzeigen.de,helvetica neue,helvetica neue,"Standard system font (Arial, Helvetica, Georgia...)",0,0,1,0,
+937,patreon.com,oracle,oracle,Own or licensed brand font,1,0,1,6,noto sans;noto sans jp;noto sans kr;noto sans sc;noto sans tc;oracle
+938,flashtalking.com,proxima nova,montserrat,Own or licensed brand font,1,0,0,4,manrope;montserrat;montserrat alternates;proxima nova
+939,tailscale.com,inter,inter,"Open-source library font (Inter, Roboto...)",1,0,1,3,inter;inter fallback;mdio
+940,digitaloceanspaces.com,inter,plus jakarta sans,"Open-source library font (Inter, Roboto...)",1,0,0,3,inter;jetbrains mono;plus jakarta sans
+941,genius.com,programme,programme,Own or licensed brand font,1,0,1,3,programme;programme alt;programme pan
+942,jetbrains.com,,jetbrains sans,Body font not measured,0,0,0,3,jetbrains modul;jetbrains sans;jetsites cookie banner jetbrains mono
+943,note.com,helvetica neue,helvetica neue,"Standard system font (Arial, Helvetica, Georgia...)",0,0,1,0,
+944,state.gov,open sans,eb garamond,"Open-source library font (Inter, Roboto...)",1,0,0,2,eb garamond;open sans
+947,xiaohongshu.com,system-ui,,System UI font (system-ui / -apple-system),0,0,0,0,
+949,repubblica.it,eugenio sans,eugenio sans,Own or licensed brand font,1,0,1,2,eugenio sans;eugenio serif
+951,buydomains.com,open sans,open sans,"Open-source library font (Inter, Roboto...)",1,0,1,2,open sans;schibsted grotesk
+953,spiegel.de,spiegelsansui,spiegelsans,Own or licensed brand font,1,0,0,4,spiegelsans;spiegelsansui;spiegelserifui;spiegelslabcdui
+954,youku.com,pingfang sc,,"Standard system font (Arial, Helvetica, Georgia...)",0,0,0,1,qy_digital-semibold
+955,amazonalexa.com,arial,arial,"Standard system font (Arial, Helvetica, Georgia...)",0,0,1,3,adds amazon ember modern;amazon ember;amazon ember modern
+957,character.ai,athauss,athauss,Own or licensed brand font,1,0,1,1,athauss
+960,otto.de,ottosans,ottosans,Own or licensed brand font,1,0,1,1,ottosans
+962,mercadolibre.com.ar,proxima nova,proxima nova,Own or licensed brand font,1,0,1,2,navigation;proxima nova
+963,chaturbate.com,ubuntu,,"Open-source library font (Inter, Roboto...)",1,0,0,3,ubuntu;ubuntubold;ubuntumedium
+964,amazon.com.au,arial,arial,"Standard system font (Arial, Helvetica, Georgia...)",0,0,1,2,amazon ember;amazon ember modern
+967,nexusmods.com,inter,inter,"Open-source library font (Inter, Roboto...)",1,0,1,1,inter
+968,washington.edu,encode sans,encode sans,"Open-source library font (Inter, Roboto...)",1,0,1,3,encode sans;encode sans compressed;open sans
+969,docker.io,inter,repro,"Open-source library font (Inter, Roboto...)",1,0,0,2,inter;repro
+971,corriere.it,roboto,sans-serif,"Open-source library font (Inter, Roboto...)",1,0,0,10,brera-black;brera-bold;brera-bolditalic;brera-regular;brera-semibold;noto sans;roboto;solferinodisplay-regular;solferinotext-bold;solferinotext-regular
+972,instructure.com,circular,circular,Own or licensed brand font,1,0,1,2,circular;inter
+973,spamhaus.org,montserrat,montserrat,"Open-source library font (Inter, Roboto...)",1,0,1,1,montserrat
+976,eporner.com,arial,arial,"Standard system font (Arial, Helvetica, Georgia...)",0,0,1,0,
+979,onet.pl,helvetica neue,fira sans,"Standard system font (Arial, Helvetica, Georgia...)",0,0,0,2,fira sans;onetsg
+980,curseforge.com,montserrat,montserrat,"Open-source library font (Inter, Roboto...)",1,0,1,2,latolocalfont;montserrat
+986,app-ads-services.com,roboto,,"Open-source library font (Inter, Roboto...)",1,0,0,2,google sans;roboto
+987,trendyol.com,source sans 3,source sans 3,"Open-source library font (Inter, Roboto...)",1,0,1,1,source sans 3
+988,change.org,commissioner,commissioner,"Open-source library font (Inter, Roboto...)",1,0,1,1,commissioner
+989,mailchi.mp,tally,means,Own or licensed brand font,1,0,0,3,graphik;means;tally
+991,xnxx.com,arial,,"Standard system font (Arial, Helvetica, Georgia...)",0,0,0,0,
+992,jd.com,proxima nova,proxima nova,Own or licensed brand font,0,0,1,0,
+993,huffpost.com,proxima nova,sans-serif,Own or licensed brand font,1,0,0,6,montserrat;poppins;proxima nova;proximanovacond;proximanovacondfallback;sporting grotesque_bold
+994,bund.de,,,Body font not measured,0,0,0,1,fira sans
+997,caixa.gov.br,caixa std,caixa std,Own or licensed brand font,1,0,1,1,caixa std
+1000,umich.edu,roboto condensed,roboto condensed,"Open-source library font (Inter, Roboto...)",1,0,1,2,roboto;roboto condensed

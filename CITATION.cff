@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite the study page it comes from."
+title: "Mark Studios research data"
+authors:
+  - name: "Mark Studios"
+date-released: 2026-10-30
+url: "https://www.markstudios.com/research"
+license: CC-BY-4.0
