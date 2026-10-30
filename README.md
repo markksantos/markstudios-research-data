@@ -14,8 +14,9 @@ Open data behind the original studies published at **https://www.markstudios.com
 | `data/youtube-shorts-length-study` | [YouTube Shorts Length Study](https://www.markstudios.com/research/youtube-shorts-length-study) | One Short (and one channel) from the most-subscribed YouTube channels: length, resolution, upload date |
 | `data/youtube-thumbnail-study` | [YouTube Thumbnail Study](https://www.markstudios.com/research/youtube-thumbnail-study) | One thumbnail (and one channel): faces, face size, headline text, overlap with the title |
 | `data/youtube-upload-time-study` | [YouTube Upload Time Study](https://www.markstudios.com/research/youtube-upload-time-study) | One upload (and one channel): exact publish time, minute, hour and day in the channel's time zone |
+| `data/youtube-engagement-rate-study` | [YouTube Engagement Rate Study](https://www.markstudios.com/research/youtube-engagement-rate-study) | One upload (and one channel): views, likes and comments read on Oct 30, 2026, engagement rate, type, length, age when read and made-for-kids setting |
 
-Files were copied from the site on 2026-10-30 (Shorts length and upload time studies: edition 1.1). One cell differs from the site copy: the homepage video study's `final_url` for reddit.com had a one-time bot-challenge query string, removed here. The studies are rerun on the schedule each page states.
+Files were copied from the site on 2026-10-30 (Shorts length and upload time studies: edition 1.1) and resynced the same day after the site corrected the ranks of the eight channels after Karla Bustillos (#92 in the Wikipedia revision cited) in the YouTube studies to 93-100. One cell differs from the site copy: the homepage video study's `final_url` for reddit.com had a one-time bot-challenge query string, removed here. The studies are rerun on the schedule each page states.
 
 ## Licence
 
