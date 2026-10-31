@@ -27,6 +27,7 @@ Open data behind the original studies published at **https://www.markstudios.com
 | `data/fitness-video-statistics` | [Fitness Video Statistics](https://www.markstudios.com/research/fitness-video-statistics) | One upload (and one channel) from the biggest fitness YouTube channels: type, length, counts, YouTube topic tags |
 | `data/home-services-video-statistics` | [Home Services Video Statistics](https://www.markstudios.com/research/home-services-video-statistics) | One upload (and one channel) from 37 home-improvement, DIY and trades channels: type, length, counts, chapters, captions |
 | `data/financial-advisor-video-statistics` | [Financial Advisor Video Statistics](https://www.markstudios.com/research/financial-advisor-video-statistics) | One SEC-registered investment adviser's latest Form ADV: the social media and website addresses it lists (plus a yearly series); and one adviser YouTube channel's activity |
+| `data/creator-economy-sec-filings-study` | [Creator Economy in SEC Filings Study](https://www.markstudios.com/research/creator-economy-sec-filings-study) | One term and filing year: 10-K filings mentioning TikTok, YouTube, Instagram, influencers, creators and related terms, 2019-2025 (and a 60-filing sample of 2025 TikTok mentions by topic) |
 
 The 11 folders added on 2026-10-31 were copied from the site that day.
 
