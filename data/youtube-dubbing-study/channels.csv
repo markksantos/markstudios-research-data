@@ -1,0 +1,98 @@
+rank,channel,category,language,country,subscribers_millions,videos_checked,videos_with_any_dub,videos_with_channel_dubs,videos_with_youtube_auto_dubs,max_dub_languages_one_video,videos_with_own_captions
+1,MrBeast,Entertainment,English,United States,523,5,5,5,0,22,5
+2,T-Series,Music,Hindi,India,316,5,0,0,0,0,1
+3,Cocomelon - Nursery Rhymes,Education,English,United States,203,5,0,0,0,0,0
+4,SET India,Entertainment,Hindi,India,190,5,0,0,0,0,1
+5,Vlad and Niki,Entertainment,English,Russia,151,5,5,5,0,13,0
+6,Stokes Twins,People,English,United States<br/>China,149,5,5,5,0,20,1
+7,Kids Diana Show,Entertainment,English,Ukraine,138,5,0,0,0,0,0
+8,김프로KIMPRO,People,Korean,South Korea,135,5,0,0,0,0,5
+9,Like Nastya,Entertainment,English,Russia,133,5,5,3,2,12,0
+10,Alejo Igoa,Entertainment,Spanish,,124,5,5,5,0,13,2
+11,Zee Music Company,Music,Hindi,India,123,5,0,0,0,0,0
+12,WWE,Sports,English,United States,114,5,0,0,0,0,4
+13,Goldmines,Film,Hindi,India,110,5,0,0,0,0,0
+14,PewDiePie,Entertainment/Lifestyle Vlogs,English,<br/>,109,5,2,0,2,20,0
+15,Sony SAB,Entertainment,Hindi,,106,5,0,0,0,0,0
+16,Alan's Universe,Entertainment,English,United States,103,5,5,5,0,7,5
+17,Blackpink,Music,Korean,South Korea,101,5,0,0,0,0,2
+18,Zee TV,Entertainment,Hindi,,99.3,5,1,0,1,7,0
+19,ChuChu TV Nursery Rhymes & Kids Songs,Entertainment,Hindi,,98.2,5,0,0,0,0,0
+20,Topper Guild,Entertainment,English,United States,95.6,5,5,5,0,17,5
+21,A4,Entertainment,Russian,Belarus,92.9,5,5,5,2,22,1
+22,KL BRO Biju Rithvik,Lifestyle Vlogs,Malayalam,India,90.1,5,0,0,0,0,0
+23,BANGTANTV,Music,Korean,,86.3,5,0,0,0,0,5
+24,Baby Shark - Pinkfong Kids’ Songs & Stories,Entertainment,English,,85.3,5,0,0,0,0,0
+25,ZAMZAM BROTHERS OFFICIAL,Entertainment,Urdu,United Arab Emirates,84.9,5,0,0,0,0,0
+26,Mark Rober,Education/Entertainment,English,,84.4,5,5,5,0,50,5
+27,UR · Cristiano,Entertainment/Sports,"Portuguese, English",Portugal,83.5,5,2,0,2,15,0
+28,T-Series Bhakti Sagar,Music,Hindi,,83.4,5,0,0,0,0,0
+29,Toys and Colors,Entertainment,English,,83.1,5,0,0,0,0,0
+30,Hybe Labels,Music,Korean,,83.1,5,0,0,0,0,4
+31,Colors TV,Entertainment,Hindi,India,82.6,5,5,0,5,1,0
+32,Tips Official,Entertainment,Hindi,,82.6,5,0,0,0,0,0
+33,Zhong,Entertainment,English,<br/>,80.8,5,5,5,0,16,5
+34,5-Minute Crafts,How-to,English,Cyprus,80.5,5,2,0,2,20,0
+35,Fede Vigevani,Entertainment,Spanish,Mexico<br/>Uruguay,80.1,5,5,0,5,3,0
+36,Justin Bieber,Music,English,Canada,79.5,5,0,0,0,0,0
+37,Bispo Bruno Leonardo,Nonprofit,Portuguese,,77.1,5,5,0,5,1,0
+38,Anaya Kandhal,Entertainment,Hindi,,76.1,5,0,0,0,0,0
+39,ISSEI / いっせい,Comedy,Japanese,,75.7,5,0,0,0,0,2
+40,Aaj Tak,News,Hindi,,75.7,5,0,0,0,0,0
+41,Shemaroo Filmi Gaane,Music,Hindi,India,75.1,5,0,0,0,0,0
+42,HAR PAL GEO,Entertainment,Urdu,Pakistan,74.4,5,0,0,0,0,3
+43,Sony Music India,Music,Hindi,India,73.4,5,0,0,0,0,0
+44,YRF,Music,Hindi,,73.0,5,0,0,0,0,2
+45,Infobells - Hindi,Entertainment,Hindi,India,72.8,5,0,0,0,0,0
+46,El Reino Infantil,Music,Spanish,,71.6,5,0,0,0,0,0
+47,YOLO AVENTURAS,Entertainment,Spanish,Mexico<br/>Venezuela,71.1,5,4,0,4,3,0
+48,Wave Music,Music,Bhojpuri,,71.0,5,0,0,0,0,0
+49,ARY Digital HD,Entertainment,Urdu,Pakistan,68.7,5,0,0,0,0,0
+50,Canal KondZilla,Music,Portuguese,,68.2,5,0,0,0,0,0
+51,Celine Dept,Sports,English,,67.8,5,5,5,0,17,5
+52,Eminem Music,Music,English,,67.4,5,0,0,0,0,0
+53,Movieclips,Film,English,,66.8,5,0,0,0,0,0
+54,Dangal TV Channel,Entertainment,Hindi,,66.5,5,0,0,0,0,0
+55,Saregama Music,Music,Hindi,,65.3,5,0,0,0,0,0
+56,Taylor Swift,Music,English,,63.5,5,0,0,0,0,0
+57,Dude Perfect,Comedy,English,,62.8,5,4,4,0,13,4
+58,MrBeast 2,Entertainment,English,,62.7,5,5,5,0,35,5
+59,LooLoo Kids - Nursery Rhymes and Children's Songs,Music,English,,62.7,5,0,0,0,0,0
+60,PANDA BOI,Gaming,English,,62.3,5,5,0,5,20,0
+61,Shemaroo,Entertainment,Hindi,,62.3,5,0,0,0,0,0
+62,IShowSpeed,Entertainment,English,,62.0,5,4,0,4,20,0
+63,आचार्य प्रशान्त - Acharya Prashant,Education,Hindi,,61.0,5,0,0,0,0,0
+64,MrBeast Gaming,Gaming,English,,60.9,5,5,5,0,12,5
+65,Маша и Медведь,Education,Russian,,60.7,5,0,0,0,0,0
+66,Alfredo Larin,Entertainment,Spanish,,60.5,5,0,0,0,0,0
+67,SonyMusicIndiaVEVO,Music,Hindi,,60.2,5,0,0,0,0,0
+68,Ed Sheeran,Music,English,,59.3,5,3,0,3,7,0
+69,ToRung,Comedy,Vietnamese,,59.1,5,0,0,0,0,1
+70,Marshmello,Music,English,,58.7,5,0,0,0,0,0
+71,Mikecrack,Gaming,Spanish,,58.7,5,0,0,0,0,0
+72,Billie Eilish,Music,English,,58.7,5,2,0,2,7,0
+73,JioHotstar Kids,Entertainment,Hindi,,58.5,5,0,0,0,0,0
+74,Ariana Grande,Music,English,,58.3,5,1,0,1,7,1
+76,Get Movies,Entertainment,Russian,,57.2,5,4,0,4,1,0
+77,JuegaGerman,Gaming,Spanish,,56.9,5,1,0,1,1,0
+78,shfa,People,Arabic,,56.8,5,2,2,0,1,4
+79,StarPlus,Entertainment,Hindi,,56.8,5,5,0,5,1,0
+80,Juan de Dios Pantoja,People,Spanish,,56.6,5,5,0,5,3,0
+81,Masha and the Bear,Film,English,,55.6,5,0,0,0,0,0
+82,HUM TV,Entertainment,Urdu,,55.5,5,0,0,0,0,0
+83,ABS-CBN Entertainment,Entertainment,Filipino,,55.3,5,0,0,0,0,0
+84,Jess No Limit,Gaming,Indonesian,,54.6,5,0,0,0,0,0
+85,shfa2 - شفا,People,Arabic,,54.4,5,0,0,0,0,0
+86,Sierra & Rhia FAM,Entertainment,English,,54.4,5,2,0,2,7,0
+87,Shakira,Music,Spanish,,54.4,5,0,0,0,0,0
+88,T-Series Bollywood Classics,Film,Hindi,,54.1,5,0,0,0,0,0
+89,Ishtar Music,Music,Hindi,,54.1,5,0,0,0,0,0
+90,LUCCAS NETO,Entertainment,Portuguese,,53.6,5,3,0,3,1,0
+91,MR. INDIAN HACKER,Entertainment,Hindi,,53.6,5,0,0,0,0,0
+93,Techno Gamerz,Gaming,Hindi,,53.4,5,5,0,5,1,0
+94,Bad Bunny,Music,Spanish,,53.3,5,0,0,0,0,4
+96,Natan por Aí,Entertainment,Portuguese,,52.7,5,2,2,0,24,0
+97,BEN EAGLE,Entertainment,Vietnamese,,52.7,5,4,0,4,1,0
+98,BETER BÖCÜK,Gaming,Turkish,,52.1,5,0,0,0,0,0
+99,BeatboxJCOP,Entertainment,Korean,South Korea,52.1,5,1,0,1,1,0
+100,Ben Azelart,Entertainment,English,,51.6,5,5,5,0,11,5
