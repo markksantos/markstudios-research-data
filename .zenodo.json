@@ -1,0 +1,26 @@
+{
+  "title": "Mark Studios research data",
+  "upload_type": "dataset",
+  "description": "Open per-row data behind the original studies published at https://www.markstudios.com/research (web crawls of the 1,000 most-visited websites, YouTube Data API reads, SEC EDGAR 10-K counts, English Wikipedia pageviews). Each study page documents method, validation and limitations.",
+  "creators": [
+    {
+      "name": "Mark Studios"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "keywords": [
+    "open data",
+    "web crawl",
+    "YouTube",
+    "SEC EDGAR",
+    "Wikipedia pageviews",
+    "video marketing"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://www.markstudios.com/research",
+      "relation": "isDocumentedBy",
+      "resource_type": "publication-other"
+    }
+  ]
+}

@@ -1,8 +1,20 @@
 cff-version: 1.2.0
-message: "If you use this data, please cite the study page it comes from."
+message: "If you use this data, please cite the study page it comes from (each folder's README row links it), or this repository as a whole."
+type: dataset
 title: "Mark Studios research data"
+abstract: "Open per-row data behind 26 original studies published at https://www.markstudios.com/research: crawls of the 1,000 most-visited websites, YouTube Data API reads of large channels, SEC EDGAR counts of 10-K annual reports, English Wikipedia pageviews, and the own measurements behind several industry statistics pages. Each study page documents the method, validation and limitations."
 authors:
   - name: "Mark Studios"
-date-released: 2026-10-30
+    website: "https://www.markstudios.com"
+repository-code: "https://github.com/markksantos/markstudios-research-data"
 url: "https://www.markstudios.com/research"
+keywords:
+  - open data
+  - web crawl
+  - YouTube
+  - SEC EDGAR
+  - Wikipedia pageviews
+  - video marketing
 license: CC-BY-4.0
+version: "2026-10-31"
+date-released: 2026-10-31
