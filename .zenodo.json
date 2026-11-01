@@ -1,7 +1,7 @@
 {
   "title": "Mark Studios research data",
   "upload_type": "dataset",
-  "description": "Open per-row data behind the original studies published at https://www.markstudios.com/research (web crawls of the 1,000 most-visited websites, YouTube Data API reads, SEC EDGAR 10-K counts, English Wikipedia pageviews, App Store listings, USAspending.gov federal contract records). Each study page documents method, validation and limitations.",
+  "description": "Open per-row data behind the original studies published at https://www.markstudios.com/research (web crawls of the 1,000 most-visited websites, YouTube Data API reads, SEC EDGAR 10-K counts, English Wikipedia pageviews, App Store listings, USAspending.gov federal contract records, GSA schedule labor rates). Each study page documents method, validation and limitations.",
   "creators": [
     {
       "name": "Mark Studios"
@@ -15,7 +15,8 @@
     "SEC EDGAR",
     "Wikipedia pageviews",
     "video marketing",
-    "federal contracts"
+    "federal contracts",
+    "labor rates"
   ],
   "related_identifiers": [
     {
