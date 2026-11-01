@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this data, please cite the study page it comes from (each folder's README row links it), or this repository as a whole."
 type: dataset
 title: "Mark Studios research data"
-abstract: "Open per-row data behind 27 original studies published at https://www.markstudios.com/research: crawls of the 1,000 most-visited websites, YouTube Data API reads of large channels, SEC EDGAR counts of 10-K annual reports, English Wikipedia pageviews, App Store listings, and the own measurements behind several industry statistics pages. Each study page documents the method, validation and limitations."
+abstract: "Open per-row data behind 28 original studies published at https://www.markstudios.com/research: crawls of the 1,000 most-visited websites, YouTube Data API reads of large channels, SEC EDGAR counts of 10-K annual reports, English Wikipedia pageviews, App Store listings, USAspending.gov federal contract records, and the own measurements behind several industry statistics pages. Each study page documents the method, validation and limitations."
 authors:
   - name: "Mark Studios"
     website: "https://www.markstudios.com"
@@ -16,5 +16,5 @@ keywords:
   - Wikipedia pageviews
   - video marketing
 license: CC-BY-4.0
-version: "2026-10-31"
+version: "2026-11-01"
 date-released: 2026-10-31
