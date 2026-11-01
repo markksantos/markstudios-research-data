@@ -1,0 +1,504 @@
+symbol,company,sector,homepage,homepage_read,homepage_links_youtube,homepage_embeds_youtube,channel_id,channel_found_by,subscribers,uploads_12m,uploads_12m_is_floor,shorts_12m,last_upload,channel_created
+MMM,3M,Industrials,https://www.3m.com/,0,0,0,UC6YDuKO3yui0tMpnM8dEKMg,Wikidata,39000,50,1,13,2026-10-21,2006-03-01
+AOS,A. O. Smith,Industrials,https://www.aosmith.com/,1,0,0,,,,,,,,
+ABT,Abbott Laboratories,Health Care,https://abbott.com,1,1,0,UC346EX3v26ACsjLhe-HwHDg,homepage link (footer),50100,50,1,34,2026-10-13,2014-12-11
+ABBV,AbbVie,Health Care,http://www.abbvie.com,1,1,0,UCDT-v557CdMg5n7bg2OAcjA,homepage link (footer),8180,25,0,1,2026-10-30,2014-06-27
+ACN,Accenture,Information Technology,https://www.accenture.com/,1,0,0,,,,,,,,
+ADBE,Adobe Inc.,Information Technology,https://www.adobe.com/,0,0,0,UC5_SBQbLA9Kg7Jh5GpXoP3g,Wikidata,675000,50,1,22,2026-10-29,2006-09-19
+AMD,Advanced Micro Devices,Information Technology,https://www.amd.com/,0,0,0,UCHQDjDDW8w2RieO-IuqYlyg,Wikidata,681000,50,1,13,2026-10-29,2005-12-26
+AES,AES Corporation,Utilities,https://www.aes.com/,1,1,0,UCxhRQ9WXywBKQu8YbLBfw7w,homepage link (footer),1930,7,0,0,2026-07-02,2012-08-15
+AFL,Aflac,Financials,https://www.aflac.com,1,1,0,UCEIEyhEadyAGMG-NTh_fVGA,homepage link (footer),26000,50,1,32,2026-10-31,2006-03-04
+A,Agilent Technologies,Health Care,http://www.agilent.com,0,0,0,UCv_MeA0Opio0_NrD_BWIKwg,Wikidata,51900,50,1,4,2026-10-30,2006-06-06
+APD,Air Products,Materials,http://airproducts.com,1,1,1,UCmfM53_OkA7Zfwv1MQCwDlg,homepage link (footer),12400,35,0,7,2026-09-23,2006-08-09
+ABNB,Airbnb,Consumer Discretionary,https://www.airbnb.com/,1,0,0,UCCww-R0oM_CQWXerBcNyKKw,Wikidata,684000,50,1,24,2026-10-26,2010-03-05
+AKAM,Akamai Technologies,Information Technology,https://www.akamai.com/,0,0,0,,,,,,,,
+ALB,Albemarle Corporation,Materials,http://www.albemarle.com/,1,1,0,UCzUA6oQtky1NfBoWHMyCQZg,homepage link (footer),1320,31,0,3,2026-10-27,2012-07-10
+ARE,Alexandria Real Estate Equities,Real Estate,http://www.are.com,1,1,0,,excluded: homepage video embedded from The Galien Foundation,,,,,,
+ALGN,Align Technology,Health Care,https://www.aligntech.com/,1,0,0,,,,,,,,
+ALLE,Allegion,Industrials,http://www.allegion.com//,1,1,0,UCufDIevUmPZVZVByiKPF9Jw,homepage link (footer),1050,14,0,0,2026-10-01,2013-06-14
+LNT,Alliant Energy,Utilities,https://www.alliantenergy.com/,1,1,0,UC7tbflqpZ_4nlAiAYXhBPAg,homepage link (footer),3100,16,0,0,2026-10-07,2012-02-16
+ALL,Allstate,Financials,https://www.allstate.com/,1,1,0,UCsqbhaLz0e3fLcF8jREJjSw,homepage link,100000,50,1,0,2026-10-28,2006-02-28
+GOOGL,Alphabet Inc. (Class A),Communication Services,https://abc.xyz/,1,0,0,,,,,,,,
+GOOG,Alphabet Inc. (Class C),Communication Services,https://abc.xyz/,1,0,0,,,,,,,,
+MO,Altria,Consumer Staples,http://www.altria.com,1,1,0,UCvtoUspjvQxW01JbvRhxtIg,homepage link (footer),772,0,0,0,2025-07-11,2006-06-04
+AMZN,Amazon,Consumer Discretionary,https://www.amazon.com/,1,0,0,UCkLXELm63_pH7L-r-548kig,Wikidata,1040000,50,1,50,2026-10-31,2005-09-24
+AMCR,Amcor,Materials,http://www.amcor.com,1,1,0,UCgn7o4Nc_AjHlt2ulkjPjSA,homepage link,4180,46,0,15,2026-10-30,2011-07-29
+AEE,Ameren,Utilities,https://www.ameren.com/,1,0,0,,,,,,,,
+AEP,American Electric Power,Utilities,https://www.aep.com,1,1,0,UCLzckcs9Ng1rbtWtuqE3YHw,homepage link (footer),3410,10,0,5,2026-10-28,2009-02-25
+AXP,American Express,Financials,https://www.americanexpress.com/,0,0,0,UCZ9dXmuPmcstcgjt25VmOrg,Wikidata,214000,41,0,5,2026-10-19,2006-04-12
+AIG,American International Group,Financials,https://www.aig.com,1,1,0,UC_TiuQCQxeke6A4Nu0TpmYw,homepage link (footer),14500,14,0,1,2026-08-21,2006-03-01
+AMT,American Tower,Real Estate,https://www.americantower.com,1,0,0,UCOB1FmHAWXob-4ezZFtKjGQ,Wikidata,638,0,0,0,2019-08-14,2013-04-16
+AWK,American Water Works,Utilities,http://www.amwater.com/,1,0,1,,,,,,,,
+AMP,Ameriprise Financial,Financials,http://www.ameriprise.com,1,1,0,UC2JKfl56mtq3j---qpZhaDQ,homepage link (footer),7350,37,0,12,2026-10-13,2006-08-03
+AME,Ametek,Industrials,https://www.ametek.com/,1,0,0,,,,,,,,
+AMGN,Amgen,Health Care,http://www.amgen.com/,1,1,1,UCDCWgYMRqAQL8uqghy328-g,homepage link (footer),39900,50,1,40,2026-10-20,2006-07-25
+APH,Amphenol,Information Technology,http://www.amphenol.com,0,0,0,,,,,,,,
+ADI,Analog Devices,Information Technology,https://www.analog.com/,0,0,0,UCksc_G6DamESNilfxx2sx4w,Wikidata,40700,35,0,1,2026-10-27,2007-11-06
+AON,Aon plc,Financials,https://www.aon.com/,1,0,0,UCZs2ZZDsoc_61-YrHnNUG5g,Wikidata,666,0,0,0,2020-06-16,2015-03-18
+APA,APA Corporation,Energy,http://www.apachecorp.com,1,0,0,UCUYagpwQ5b7ASLVr0GzKohA,Wikidata,563,0,0,0,2017-10-09,2011-01-25
+APO,Apollo Global Management,Financials,https://www.apollo.com/,1,1,0,UCROIN9Kljg1XVf2GixjK6Sw,homepage link (footer),6180,50,1,33,2026-10-29,2018-03-26
+AAPL,Apple Inc.,Information Technology,https://apple.com/,1,0,0,UCE_M8A5yxnLfW0KghEeajjw,Wikidata,21100000,50,1,4,2026-10-28,2005-06-22
+AMAT,Applied Materials,Information Technology,https://www.appliedmaterials.com/,0,0,0,UCRtDxSpmTncPvzBvXLurThA,Wikidata,15900,42,0,7,2026-10-15,2008-10-08
+APP,AppLovin,Communication Services,https://www.applovin.com/,1,1,0,UCqD7ljg1Y8wSUsHHQrX_-qg,homepage link (footer),3270,22,0,1,2026-10-27,2014-08-28
+APTV,Aptiv,Consumer Discretionary,https://www.aptiv.com/,1,1,0,UCWVCDnFeqEjslQYjXf_Xr8w,homepage link (footer),5520,34,0,0,2026-09-24,2017-09-08
+ACGL,Arch Capital Group,Financials,https://www.archcapgroup.com,1,0,0,,,,,,,,
+ADM,Archer Daniels Midland,Consumer Staples,https://adm.com/,1,0,0,,,,,,,,
+ARES,Ares Management,Financials,http://www.aresmgmt.com/,1,1,0,UCAFDKaTTE_APSf04PnAYnSQ,homepage link (footer),2130,36,0,15,2026-10-13,2023-01-27
+ANET,Arista Networks,Information Technology,https://www.arista.com/,1,0,0,,,,,,,,
+AJG,Arthur J. Gallagher & Co.,Financials,http://www.ajg.com,1,1,0,UC4_iRs7tY3yrTE46d4FB6Iw,homepage link (footer),51000,50,1,11,2026-10-21,2015-04-01
+AIZ,Assurant,Financials,http://www.assurant.com/,1,1,0,UCobLZspw7gM9gdbC9lMU97g,homepage link (footer),1210,50,1,15,2026-10-28,2014-08-26
+T,AT&T,Communication Services,https://www.att.com,1,0,0,,,,,,,,
+ATO,Atmos Energy,Utilities,http://www.atmosenergy.com,1,0,0,UCBfDOqKmjYCuMVBJC_vY4EQ,Wikidata,1200,1,0,0,2026-07-16,2009-09-17
+ADSK,Autodesk,Information Technology,https://www.autodesk.com/,0,0,0,,,,,,,,
+ADP,Automatic Data Processing,Industrials,http://www.adp.com/,1,1,0,UCT1SbK7gNmiwtfFtAicQyjA,homepage link (footer),37600,50,1,16,2026-10-30,2005-12-05
+AZO,AutoZone,Consumer Discretionary,https://www.autozone.com/,0,0,0,,,,,,,,
+AVY,Avery Dennison,Materials,http://www.avery.com/,1,1,0,UCg3Y4MPb-uK94D0iEc2u1_A,homepage link (footer),19300,1,0,0,2026-09-08,2009-10-01
+AXON,Axon Enterprise,Industrials,https://www.axon.com/,1,1,0,UCjrEK_bFfxLC4GjamZCG6kQ,homepage link,23500,50,1,13,2026-10-28,2010-07-29
+BKR,Baker Hughes,Energy,https://www.bakerhughes.com/,1,1,1,UCxhgTNB0eD0xUeeJnP9Ow4g,homepage link (footer),18300,50,1,5,2026-07-28,2017-06-30
+BALL,Ball Corporation,Materials,https://www.ball.com/,1,0,0,,,,,,,,
+BAC,Bank of America,Financials,https://www.bankofamerica.com/,1,1,0,UCtHZ1qs5h4sx9TijVBQCMIA,homepage link (footer),126000,50,1,16,2026-10-31,2006-03-18
+BAX,Baxter International,Health Care,http://www.baxter.com/,1,1,0,UC9b8_Tw5rNiv4lYlpQmUBsQ,homepage link (footer),3790,2,0,0,2026-06-12,2008-04-24
+BDX,Becton Dickinson,Health Care,http://www.bd.com/,0,0,0,UCPGmutY43EjP_3ijOugNGnA,Wikidata,35800,50,1,0,2026-09-30,2009-11-24
+BRK.B,Berkshire Hathaway,Financials,https://www.berkshirehathaway.com/,1,0,0,,,,,,,,
+BBY,Best Buy,Consumer Discretionary,https://www.bestbuy.com/,1,1,0,UC5pK3w6QEq1bUMmU2Hs43Pw,homepage link (footer),862000,50,1,1,2026-10-31,2006-03-18
+TECH,Bio-Techne,Health Care,https://www.bio-techne.com/,0,0,0,,,,,,,,
+BIIB,Biogen,Health Care,https://www.biogen.com/,1,1,1,UCkfBi9LonvHancXtN7YG8jg,homepage link (footer),11300,38,0,10,2026-10-22,2010-03-05
+BLK,BlackRock,Financials,https://www.blackrock.com,1,1,0,UC61MWzrpcsazp23LOxCsTcg,homepage link (footer),52600,50,1,17,2026-10-30,2006-02-25
+BX,Blackstone Inc.,Financials,https://www.blackstone.com/,1,0,0,,,,,,,,
+XYZ,"Block, Inc.",Financials,https://block.xyz/,1,0,0,,,,,,,,
+BE,Bloom Energy,Industrials,http://www.bloomenergy.com/,1,1,0,UCAplTvt9E206fkpnGgfkqnA,homepage link (footer),10700,8,0,0,2026-06-17,2009-12-18
+BNY,BNY Mellon,Financials,https://www.bnymellon.com/,1,0,0,UCfstmS_rrId1ep5OCm6IF7A,Wikidata,4180,6,0,0,2026-09-04,2008-02-19
+BA,Boeing,Industrials,https://boeing.com/,1,0,0,UC9IEkprr46ScglWU79HF5qQ,Wikidata,775000,50,1,22,2026-10-30,2006-02-23
+BKNG,Booking Holdings,Consumer Discretionary,https://bookingholdings.com/,1,0,0,,,,,,,,
+BSX,Boston Scientific,Health Care,http://www.bostonscientific.com,1,1,0,UC6mvgpoLzpXU-tlbATlrXUw,homepage video link,4210,38,0,25,2026-10-21,2018-08-16
+BMY,Bristol Myers Squibb,Health Care,https://www.bms.com/,1,1,0,UCjFf4oKibYrHae2NZ_GPS6g,homepage link (footer),10100,26,0,0,2026-10-08,2015-01-06
+AVGO,Broadcom,Information Technology,https://www.broadcom.com/,1,1,0,UCTr3zah69bISSVdBcHiKhpA,homepage link (footer),9160,50,1,24,2026-10-30,2009-02-09
+BR,Broadridge Financial Solutions,Industrials,https://www.broadridge.com/,1,1,0,UCtvrrt99KXBkMsFd7xgpoig,homepage link (footer),1700,0,0,0,2024-10-23,2012-07-18
+BRO,Brown & Brown,Financials,https://www.bbinsurance.com/,1,0,0,,,,,,,,
+BF.B,Brown–Forman,Consumer Staples,http://www.brown-forman.com,1,1,0,UCQ3P_Tq9PqyVuAwFuEx3Zgw,homepage link (footer),959,6,0,0,2026-09-22,2015-02-20
+BG,Bunge Global,Consumer Staples,http://www.bunge.com/,1,0,0,,,,,,,,
+BXP,"BXP, Inc.",Real Estate,https://www.bxp.com/,1,0,0,,,,,,,,
+CHRW,C.H. Robinson,Industrials,https://www.chrobinson.com/,1,1,0,UC393yospZo3VxbUcfI6mPQQ,homepage link (footer),2760,29,0,1,2026-07-07,2009-11-16
+CDNS,Cadence Design Systems,Information Technology,https://www.cadence.com/,1,1,0,UC5qqAsDzbA0zAQNBBQVsS0Q,homepage link (footer),43900,50,1,35,2026-10-30,2008-02-13
+CPT,Camden Property Trust,Real Estate,https://www.camdenliving.com/,1,1,0,UCKxoFzZUuirW-h43rx0Mk6g,homepage link (footer),1340,50,1,8,2026-10-28,2008-10-29
+COF,Capital One,Financials,https://www.capitalone.com/,1,1,0,UCyGhGrs-1hA22jX6X850VEQ,homepage link (footer),94200,50,1,28,2026-10-30,2006-03-18
+CAH,Cardinal Health,Health Care,https://www.cardinalhealth.com/,0,0,0,,,,,,,,
+CCL,Carnival Corporation,Consumer Discretionary,https://www.carnivalcorp.com/,1,0,0,,,,,,,,
+CARR,Carrier Global,Industrials,https://www.corporate.carrier.com,1,1,0,UCWoPuM2aJYoPgnCZVFSImjw,homepage link (footer),6820,9,0,1,2026-08-03,2013-12-06
+CVNA,Carvana,Consumer Discretionary,https://www.carvana.com/,1,0,0,,,,,,,,
+CASY,Casey's,Consumer Staples,https://www.caseys.com,1,0,0,UCsKpFpXVEgwwLSo8OhJajbw,Wikidata,4530,14,0,8,2026-01-08,2010-11-23
+CAT,Caterpillar Inc.,Industrials,https://www.caterpillar.com/,0,0,0,UCetJvfhHNboF_Tl3auMOs5w,Wikidata,95500,50,1,30,2026-10-29,2014-02-11
+CBOE,Cboe Global Markets,Financials,https://www.cboe.com/,1,1,0,UCzUglpeCW0mUzbfAQoE80bw,homepage link (footer),10700,50,1,47,2026-10-30,2007-11-09
+CBRE,CBRE Group,Real Estate,https://www.cbre.com,1,0,0,,,,,,,,
+CDW,CDW Corporation,Information Technology,http://www.cdw.com/,1,1,0,UCWXLw2MjSQHC-JCALlMs12g,homepage link (footer),17600,50,1,2,2026-10-30,2011-01-21
+COR,Cencora,Health Care,http://www.cencora.com/,1,0,0,,,,,,,,
+CNC,Centene Corporation,Health Care,https://www.centene.com/,1,1,1,UC1fien5XXb1voeybJcWr6kQ,homepage link (footer),2220,6,0,2,2026-10-14,2011-02-22
+CNP,CenterPoint Energy,Utilities,http://www.centerpointenergy.com/,1,1,0,UCG8nTw-42fWVSOUPLciVXDQ,homepage link (footer),4280,31,0,1,2026-07-27,2011-07-25
+CF,CF Industries,Materials,https://www.cfindustries.com/,1,1,0,UCVjLbOkaq0kjAerKgGbb7ag,homepage link (footer),653,8,0,0,2026-08-19,2015-05-13
+CRL,Charles River Laboratories,Health Care,http://www.criver.com,0,0,0,,,,,,,,
+SCHW,Charles Schwab Corporation,Financials,https://www.schwab.com/,1,0,0,UCLOkwpc70MlIDNlqarBAfhg,Wikidata,,,,,,
+CHTR,Charter Communications,Communication Services,http://www.charter.com,0,0,0,,,,,,,,
+CVX,Chevron Corporation,Energy,https://www.chevron.com,1,1,0,UC75HjFw2U3ipbrDj3ara7bg,homepage link (footer),49200,50,1,29,2026-10-26,2006-01-25
+CMG,Chipotle Mexican Grill,Consumer Discretionary,https://chipotle.com/,1,0,0,,,,,,,,
+CB,Chubb Limited,Financials,http://www.chubb.com/,1,1,0,UCKUW_iz1AZwr_UBOp9mN4iQ,homepage link (footer),10300,23,0,6,2026-10-30,2009-05-06
+CHD,Church & Dwight,Consumer Staples,https://www.churchdwight.com/,1,0,0,,,,,,,,
+CIEN,Ciena,Information Technology,http://www.ciena.com,1,1,0,UC1BTxF_8YPmNhXOj8ZCFE_w,homepage link (footer),46500,50,1,25,2026-10-29,2008-02-04
+CI,Cigna,Health Care,https://www.cigna.com/,1,0,0,,,,,,,,
+CINF,Cincinnati Financial,Financials,https://www.cinfin.com/,1,1,0,UCrqm2BGqGoKndbr6D8oRlcg,homepage link (footer),622,2,0,0,2026-05-08,2018-12-19
+CTAS,Cintas,Industrials,http://www.cintas.com/,1,1,0,UCBsX3LG76zuKA2RZp8BJKGA,homepage link (footer),7540,50,1,8,2026-10-28,2006-04-02
+CSCO,Cisco,Information Technology,https://www.cisco.com/,1,1,0,UCEWiIE6Htd8mvlOR6YQez1g,homepage link (footer),430000,50,1,16,2026-10-30,2005-10-13
+C,Citigroup,Financials,http://www.citigroup.com/,1,1,0,UCrJYCCvJzI_eEn9HpaJRZOg,homepage link,97800,50,1,0,2026-10-29,2005-10-24
+CFG,Citizens Financial Group,Financials,https://www.citizensbank.com/,0,0,0,,,,,,,,
+CLX,Clorox,Consumer Staples,http://www.thecloroxcompany.com,1,1,0,UCr0HUAUrGlWBxPffqTiMt1w,homepage link (footer),908,5,0,0,2026-10-23,2013-04-26
+CME,CME Group,Financials,https://www.cmegroup.com,0,0,0,,,,,,,,
+CMS,CMS Energy,Utilities,http://www.cmsenergy.com/,1,0,0,,,,,,,,
+KO,Coca-Cola Company (The),Consumer Staples,https://www.coca-colacompany.com/,1,1,0,UC5JBB_E5mzPEbDupD-6fA4A,homepage link (footer),85400,50,1,19,2026-10-29,2006-05-29
+CTSH,Cognizant,Information Technology,https://www.cognizant.com,1,1,1,UCXscwCVOk653HlNY9wwES_w,homepage link (footer),44900,50,1,6,2026-10-30,2006-04-14
+COHR,Coherent Corp.,Information Technology,https://www.coherent.com/,1,1,1,UCBiAEANMR4d2hidr1IMwceg,homepage link (footer),6860,33,0,0,2026-10-27,2009-07-06
+COIN,Coinbase,Financials,https://www.coinbase.com,1,0,0,UCofTOFX4QuhT8OY-3-fFRFw,Wikidata,130000,50,1,31,2026-10-30,2018-10-31
+CL,Colgate-Palmolive,Consumer Staples,http://www.colgatepalmolive.com/,1,1,0,UCA-uIKLCzTJSI1HdGyfmsDQ,homepage link (footer),133000,18,0,4,2026-10-19,2006-06-18
+CMCSA,Comcast,Communication Services,https://www.cmcsa.com/,0,0,0,,,,,,,,
+FIX,Comfort Systems USA,Industrials,http://comfortsystemsusa.com/,1,0,0,,,,,,,,
+COP,ConocoPhillips,Energy,https://www.conocophillips.com/,1,1,0,UCp5AyTHS1_N-KTMTYjicqlg,homepage link (footer),8140,5,0,0,2026-06-10,2006-09-18
+ED,Consolidated Edison,Utilities,http://www.coned.com,1,1,0,UCfwee7JbNEi_IE7y8LrZ4Qg,homepage link (footer),5780,50,1,44,2026-10-31,2009-06-01
+STZ,Constellation Brands,Consumer Staples,http://www.cbrands.com,1,0,0,,,,,,,,
+CEG,Constellation Energy,Utilities,https://www.constellation.com/,1,1,0,UCGEdtGuKe2fJoP4R1ybTydA,homepage link (footer),5660,50,1,21,2026-10-22,2007-10-05
+COO,Cooper Companies (The),Health Care,http://www.coopercos.com,0,0,0,,,,,,,,
+CPRT,Copart,Industrials,https://www.copart.com/,1,0,0,,,,,,,,
+GLW,Corning Inc.,Information Technology,http://www.corning.com/,0,0,0,UCGyKit14usd5PNw_nZ-8gKQ,Wikidata,118000,46,0,18,2026-10-29,2009-02-11
+CPAY,Corpay,Financials,https://www.corpay.com/,1,1,0,UCCA_z9mUda1q5FlyC4dVZ4g,homepage link (footer),1790,38,0,21,2026-10-27,2015-12-01
+CSGP,CoStar Group,Real Estate,https://www.costargroup.com/,0,0,0,UCiR5npw9N4wBKCYaA5UWzIw,Wikidata,372,50,1,50,2026-10-28,2012-01-06
+COST,Costco,Consumer Staples,https://www.costco.com/,1,0,0,UCVTAiPGIPgDeSL7SYIvXx_Q,Wikidata,26800,50,1,34,2026-10-24,2009-11-17
+CRH,CRH plc,Materials,http://www.crh.com,1,0,0,,,,,,,,
+CRWD,CrowdStrike,Information Technology,https://www.crowdstrike.com/,1,1,0,UCsRdY9CtEVWTNO4ulwfzqVA,homepage link,32500,50,1,13,2026-10-30,2011-09-11
+CCI,Crown Castle,Real Estate,https://www.crowncastle.com/,1,1,0,UCVCnY_MSWwm64RGkR6e_zHw,homepage link (footer),1000,3,0,0,2026-03-03,2014-04-01
+CSX,CSX Corporation,Industrials,https://www.csx.com/,1,1,0,UCrYiLrBdgyiAAGYcbTCn5fA,homepage link (footer),21500,50,1,0,2026-10-27,2008-05-30
+CMI,Cummins,Industrials,https://www.cummins.com,1,1,0,UCY1hwEOVMAZZmxG0JfJzz9Q,homepage link (footer),30300,50,1,13,2026-10-29,2009-06-30
+CVS,CVS Health,Health Care,https://cvshealth.com/,1,1,0,UCFwzWrk8u5ycjhmgpSeQ_Yg,homepage link (footer),49600,50,1,6,2026-10-27,2009-12-16
+DHR,Danaher Corporation,Health Care,https://www.danaher.com/,1,1,0,UCe7s1LMEO8Gh6cEEGKQQbDw,homepage link (footer),4030,15,0,0,2026-06-11,2014-03-26
+DRI,Darden Restaurants,Consumer Discretionary,http://www.darden.com/,1,0,0,,,,,,,,
+DDOG,Datadog,Information Technology,https://www.datadoghq.com/,1,1,0,UCPO2QgTCReBAThZca6MB9jg,homepage link (footer),31500,50,1,0,2026-10-30,2013-06-10
+DVA,DaVita,Health Care,https://www.davita.com/,1,1,0,UCL8Dznkk30MbWK1x37NeEHA,homepage link (footer),47800,25,0,0,2026-08-31,2009-07-10
+DECK,Deckers Brands,Consumer Discretionary,http://www.deckers.com/,1,0,0,,,,,,,,
+DE,Deere & Company,Industrials,https://www.deere.com/,1,1,0,UCfu5VyyAWOr1nitdoWiEEXw,homepage link,279,19,0,0,2026-10-14,2026-09-09
+DELL,Dell Technologies,Information Technology,https://www.dell.com/,1,1,0,UCZHb3OEEJ0WkizEH9ErlgvA,homepage link (footer),56500,50,1,15,2026-10-29,2016-08-05
+DAL,Delta Air Lines,Industrials,https://www.delta.com/,0,0,0,UCjSrVD08nsyPDCNRjqSV7yA,Wikidata,131000,38,0,12,2026-10-14,2006-05-11
+DVN,Devon Energy,Energy,http://www.devonenergy.com,1,0,0,,,,,,,,
+DXCM,Dexcom,Health Care,http://dexcom.com/,1,1,0,UCCY5ydvJD6932sh4XQGifxQ,homepage link,53500,50,1,42,2026-10-31,2010-04-09
+FANG,Diamondback Energy,Energy,https://www.diamondbackenergy.com,0,0,0,,,,,,,,
+DLR,Digital Realty,Real Estate,https://www.digitalrealty.com,1,0,0,UC4au1jBak8ZA0Sc7RPcKlyA,Wikidata,1800,35,0,0,2026-10-05,2011-10-25
+DG,Dollar General,Consumer Staples,https://www.dollargeneral.com/,1,1,0,UCleGBG-nRB5n_D23OfbLJgw,homepage link (footer),17300,45,0,27,2026-10-19,2006-07-15
+DLTR,Dollar Tree,Consumer Staples,https://www.dollartree.com/,1,0,0,,,,,,,,
+D,Dominion Energy,Utilities,https://www.dominionenergy.com/,1,1,0,UCL63RIua4171vdPXQm4Xnag,homepage link (footer),12000,19,0,8,2026-10-08,2008-06-05
+DPZ,Domino's,Consumer Discretionary,https://www.dominos.com/,1,0,0,UC0GKIZJJK0gpcHzYhWkaNYg,Wikidata,521,42,0,42,2026-09-27,2016-04-27
+DASH,DoorDash,Consumer Discretionary,https://www.doordash.com/,1,0,0,,,,,,,,
+DOV,Dover Corporation,Industrials,http://www.dovercorporation.com/,0,0,0,UC4tQo3R8GYBRDPGQ6qD9NAw,Wikidata,1910,15,0,0,2026-10-28,2012-06-11
+DOW,Dow Inc.,Materials,https://www.dow.com,1,1,0,UC4xDu6sUFTESPODrjM8WaLA,homepage link (footer),22100,50,1,2,2026-10-27,2008-05-25
+DHI,D. R. Horton,Consumer Discretionary,http://www.drhorton.com,1,0,0,,,,,,,,
+DTE,DTE Energy,Utilities,http://www.dteenergy.com,1,1,0,UC-IzqF848A6mptxmb-vlZ_Q,homepage link (footer),5130,50,1,43,2026-10-31,2009-04-23
+DUK,Duke Energy,Utilities,https://www.duke-energy.com/,1,1,0,UCtBjQ6-HX844dw5dD9LJodw,homepage link (footer),12400,50,1,9,2026-10-21,2009-05-26
+DD,DuPont,Industrials,https://www.dupont.com/,1,0,0,UCDt6F15t8rXnZLDgJA0Cfwg,Wikidata,10000,3,0,0,2026-08-19,2006-02-28
+ETN,Eaton Corporation,Industrials,https://www.eaton.com/us/en-us.html,0,0,0,,,,,,,,
+EBAY,eBay Inc.,Consumer Discretionary,https://www.ebay.com,0,0,0,,,,,,,,
+ECHO,EchoStar,Communication Services,http://www.echostar.com,1,0,0,UCqrXToSbCXYAB2jcGzAah2w,Wikidata,460,4,0,0,2026-10-26,2011-01-27
+ECL,Ecolab,Materials,http://www.ecolab.com,0,0,0,,,,,,,,
+EIX,Edison International,Utilities,http://www.edison.com,1,1,0,UCvFOiRobf12jRK8yhT7GTbQ,homepage link (footer),11700,50,1,0,2026-10-31,2006-03-24
+EW,Edwards Lifesciences,Health Care,http://www.EdwardsLifesciences.com/,0,0,0,,,,,,,,
+ELV,Elevance Health,Health Care,https://www.elevancehealth.com,1,0,0,,,,,,,,
+EME,Emcor,Industrials,https://www.emcorgroup.com/,1,1,0,UChc7PzbI_fahyaogssmOU2w,homepage link (footer),819,24,0,13,2026-10-27,2011-03-29
+EMR,Emerson Electric,Industrials,http://www.emerson.com,1,1,0,UCvoXW2HNGEmzLaqppLG6BsA,homepage link (footer),10900,1,0,0,2026-09-18,2005-10-19
+ETR,Entergy,Utilities,https://www.entergy.com/,1,0,0,UCmrl4qSngNr4Xg0PVjFxKVA,Wikidata,5680,19,0,12,2026-10-02,2006-03-21
+EOG,EOG Resources,Energy,https://www.eogresources.com/,1,0,0,,,,,,,,
+EQT,EQT Corporation,Energy,https://www.eqt.com,1,1,0,UCrQ7jveMrxYs4JxLH9-JZDQ,homepage link (footer),324,41,0,0,2026-10-30,2025-04-28
+EFX,Equifax,Industrials,https://www.equifax.com,1,0,0,,,,,,,,
+EQIX,Equinix,Real Estate,https://www.equinix.com,0,0,0,UC9xshmMk-FKjqKCLOKklQQw,Wikidata,79600,50,1,22,2026-10-21,2011-09-26
+ERIE,Erie Indemnity,Financials,https://www.erieinsurance.com/,1,1,0,UCZy5_iW4SPoTvSbIu4HnJ2g,homepage link (footer),2330,50,1,42,2026-10-21,2008-09-26
+ESS,Essex Property Trust,Real Estate,https://www.essexapartmenthomes.com/,1,0,0,,,,,,,,
+EL,Estée Lauder Companies (The),Consumer Staples,http://www.elcompanies.com/,1,0,0,UCxwZnmLwSvrp1RjHNNeAeFQ,Wikidata,100000,50,1,48,2026-10-29,2006-06-22
+EG,Everest Group,Financials,http://www.everestre.com/,1,0,0,,,,,,,,
+EVRG,Evergy,Utilities,https://www.evergy.com/,1,1,0,UCAzdlieirXso2a1k90zLP7Q,homepage link (footer),2490,50,1,40,2026-10-29,2018-04-26
+P,Everpure,Information Technology,https://www.purestorage.com/,1,1,0,UC1gE9TXX2vZ5xycjyYJfTgw,homepage link (footer),26100,50,1,29,2026-10-30,2011-01-20
+ES,Eversource Energy,Utilities,https://www.eversource.com/,1,1,0,UCpq2zozgxhuM4iafvhVImVg,homepage link (footer),3250,43,0,16,2026-10-27,2015-01-14
+EXC,Exelon,Utilities,https://www.exeloncorp.com/,1,0,0,,,,,,,,
+EXE,Expand Energy,Energy,http://www.chk.com/,1,0,0,,,,,,,,
+EXPE,Expedia Group,Consumer Discretionary,https://www.expediagroup.com/,1,0,0,,,,,,,,
+EXPD,Expeditors International,Industrials,http://www.expeditors.com/,1,1,0,UCfE8Aj5mScioVpE2nOBp6tg,homepage link (footer),2890,36,0,0,2026-10-28,2012-06-25
+EXR,Extra Space Storage,Real Estate,https://www.extraspace.com,0,0,0,,,,,,,,
+XOM,ExxonMobil,Energy,https://corporate.exxonmobil.com/,0,0,0,UCvNc3rg1Aa9wSPECYWEfcPg,Wikidata,196000,0,0,0,2025-09-04,2006-04-23
+FFIV,"F5, Inc.",Information Technology,https://www.f5.com/,1,1,0,UCygAPH6oWFdZ_MPGASS4gwQ,homepage link (footer),17900,50,1,0,2026-10-27,2008-10-01
+FDS,FactSet,Financials,http://www.factset.com/,1,1,0,UCY4IMMKNOyKJxmyNbw38ybA,homepage link (footer),4350,50,1,0,2026-10-30,2006-08-29
+FICO,Fair Isaac,Information Technology,http://www.fico.com/,1,0,0,,,,,,,,
+FAST,Fastenal,Industrials,https://www.fastenal.com/,0,0,0,UC6ZcqbwWkuWDHcWnq26iK-Q,Wikidata,7200,50,1,29,2026-10-29,2010-04-01
+FRT,Federal Realty Investment Trust,Real Estate,http://www.federalrealty.com,1,1,0,UCUBzqivDDgqts9fPV_ryqPg,homepage link (footer),170,4,0,0,2025-11-11,2012-07-18
+FDX,FedEx,Industrials,https://www.fedex.com/,1,1,0,UCq5UqvM2Pob3wNX2tJUx7Kg,homepage link (footer),133000,50,1,22,2026-10-21,2005-11-06
+FDXF,FedEx Freight,Industrials,https://www.fedex.com/,1,1,0,UCq5UqvM2Pob3wNX2tJUx7Kg,homepage link (footer),,,,,,
+FERG,Ferguson Enterprises,Industrials,https://www.ferguson.com/,0,0,0,UCol_0IMNqeseYSsIeQHBsSw,Wikidata,4740,18,0,0,2026-10-16,2009-06-03
+FIS,Fidelity National Information Services,Financials,https://www.fisglobal.com/,1,0,0,,,,,,,,
+FITB,Fifth Third Bancorp,Financials,https://ir.53.com/,1,1,0,UCGvDiaAiHBuOBuSxEFG8PBw,homepage link (footer),20500,50,1,40,2026-10-20,2013-11-12
+FSLR,First Solar,Information Technology,https://www.firstsolar.com/,1,1,0,UCZ0FeFDZf0DL7AFbtjbxDmw,homepage link,5560,5,0,0,2026-10-30,2006-04-10
+FE,FirstEnergy,Utilities,https://www.firstenergycorp.com,1,1,0,UCIA-baQjVuDUXDyP8wREQ7g,homepage link (footer),3460,2,0,0,2025-11-17,2010-11-02
+FISV,Fiserv,Financials,https://www.fiserv.com,1,0,0,,,,,,,,
+FLEX,Flex Ltd.,Information Technology,https://www.flex.com,1,1,0,UCD54KOJpqopWD8KX3dd3a9A,homepage link (footer),6340,34,0,6,2026-10-14,2012-09-27
+F,Ford Motor Company,Consumer Discretionary,https://www.ford.com,0,0,0,UCKA96UxTdgFBwGZMGZ-135w,Wikidata,2430000,50,1,13,2026-10-30,2005-11-02
+FTNT,Fortinet,Information Technology,http://www.fortinet.com/,1,1,0,UCJHo4AuVomwMRzgkA5DQEOA,homepage link (footer),95500,50,1,2,2026-10-30,2008-12-17
+FTV,Fortive,Industrials,http://www.fortive.com,1,1,0,UCmnWkUlabmRqekE9mnjwY9g,homepage link (footer),678,5,0,0,2026-09-28,2016-03-07
+FOXA,Fox Corporation (Class A),Communication Services,https://foxcorporation.com/,1,0,0,,,,,,,,
+FOX,Fox Corporation (Class B),Communication Services,https://foxcorporation.com/,1,0,0,,,,,,,,
+BEN,Franklin Resources,Financials,http://www.franklintempleton.com/,1,0,0,UCtTYS5q3jcjBEj9KjlPHgyg,Wikidata,3560,50,1,27,2026-10-30,2012-05-14
+FCX,Freeport-McMoRan,Materials,http://www.fcx.com,1,1,0,UCWt0Thz2kCAkJvYfepYrRKw,homepage link (footer),698,10,0,2,2026-08-13,2020-08-27
+GRMN,Garmin,Consumer Discretionary,http://www.garmin.com/de-CH,1,1,0,UCalLPbhjvBZmDs3jRVLDadw,homepage link (footer),14700,50,1,28,2026-10-30,2010-09-16
+IT,Gartner,Information Technology,https://www.gartner.com/,1,1,0,UCSNX50LYGXWV_e5UWZGPGbw,homepage link (footer),80800,50,1,30,2026-10-29,2008-09-19
+GE,GE Aerospace,Industrials,https://www.geaerospace.com/,1,1,0,UCsoB6O14wNa8-7dHMfxftgA,homepage link (footer),105000,27,0,9,2026-10-29,2009-12-10
+GEHC,GE HealthCare,Health Care,http://www.gehealthcare.com,1,1,0,UC04R4GsgwjtoI28q7F3YrLw,homepage link (footer),105000,50,1,5,2026-10-30,2006-07-07
+GEV,GE Vernova,Industrials,https://www.gevernova.com,1,1,0,UC6yKylYBunWCgqY4s-mqZCg,homepage link (footer),225000,50,1,8,2026-10-27,2005-09-23
+GEN,Gen Digital,Information Technology,https://www.gendigital.com/,1,1,0,UCqAXoA68ASQOKihHMstrO9A,homepage link (footer),1310,15,0,4,2026-09-08,2022-09-12
+GNRC,Generac,Industrials,http://www.generac.com/,1,1,0,UCfbHxl-SLdDrE8tVLDiQT0A,homepage link (footer),14000,50,1,47,2026-10-29,2009-09-23
+GD,General Dynamics,Industrials,https://www.gd.com/,1,0,0,,,,,,,,
+GIS,General Mills,Consumer Staples,http://www.generalmills.com,1,1,0,UC-416ZQNyLIvTsUijkSplIw,homepage link (footer),11700,6,0,0,2026-07-15,2006-01-12
+GM,General Motors,Consumer Discretionary,https://www.gm.com/,0,0,0,,,,,,,,
+GPC,Genuine Parts Company,Consumer Discretionary,http://www.genpt.com,1,1,0,UCDpofNNntMJI1rltR_80o7Q,homepage link (footer),370,0,0,0,2025-02-18,2019-07-29
+GILD,Gilead Sciences,Health Care,https://www.gilead.com/,1,1,0,UCNSt7PtsfNGbezR9hmvRI1w,homepage link (footer),6380,50,1,19,2026-10-20,2015-03-31
+GPN,Global Payments,Financials,https://www.globalpaymentsinc.com,1,1,0,UCg9HiItBheBjWJcOBE8q9HQ,homepage link (footer),2510,9,0,0,2026-10-19,2015-02-03
+GL,Globe Life,Financials,http://www.torchmarkcorp.com,1,0,0,,,,,,,,
+GDDY,GoDaddy,Information Technology,https://www.godaddy.com/,0,0,0,UCgH_SmWw9WianYyOB5Y6tEA,Wikidata,212000,50,1,36,2026-10-31,2006-03-06
+GS,Goldman Sachs,Financials,https://www.goldmansachs.com/,1,1,0,UCyz6-taovlaOkPsPtK4KNEg,homepage link (footer),325000,50,1,26,2026-10-31,2006-08-14
+HAL,Halliburton,Energy,http://www.halliburton.com/,1,1,0,UCx4OzQWvmHHd0IxFGuo7UoA,homepage link (footer),27400,14,0,1,2026-10-08,2006-05-09
+HIG,Hartford (The),Financials,https://www.thehartford.com/,0,0,0,,,,,,,,
+HAS,Hasbro,Consumer Discretionary,https://shop.hasbro.com,1,0,0,UC-r13SLLdZtZNmuC2bMnlmw,Wikidata,3870000,50,1,0,2026-09-10,2013-09-27
+HCA,HCA Healthcare,Health Care,https://hcahealthcare.com/,1,1,0,UCL03ygcTgIbe36o2Z7sReuQ,homepage link (footer),6820,38,0,4,2026-10-05,2011-04-11
+DOC,Healthpeak Properties,Real Estate,http://www.hcpi.com,0,0,0,,,,,,,,
+HSIC,Henry Schein,Health Care,https://www.henryschein.com/,0,0,0,,"excluded: Wikidata points to Covetrus DACH, a former unit",,,,,,
+HSY,Hershey Company (The),Consumer Staples,https://www.thehersheycompany.com/en_us/home.html,1,1,0,UC7JmBzSkSkndBJdlREKUfUA,homepage link (footer),11000,8,0,1,2026-10-14,2015-06-08
+HPE,Hewlett Packard Enterprise,Information Technology,https://www.hpe.com/,0,0,0,UCwlXmM9hY0amXfipcxvBm3g,Wikidata,24300,0,0,0,,2015-01-13
+HLT,Hilton Worldwide,Consumer Discretionary,https://www.hilton.com,0,0,0,,,,,,,,
+HD,Home Depot (The),Consumer Discretionary,https://www.homedepot.com/,1,1,0,UCfB9yx0y0dUwQ0lpjH8R4gA,homepage link (footer),667000,50,1,35,2026-10-28,2006-02-24
+HONA,Honeywell Aerospace,Industrials,https://www.honeywellaerospace.com/,0,0,0,,,,,,,,
+HON,Honeywell Technologies,Industrials,https://www.honeywell.com/,0,0,0,,,,,,,,
+HRL,Hormel Foods,Consumer Staples,http://www.hormel.com/,1,1,0,UCoxIAxNie9GVKD2Fq0QLjTw,homepage link (footer),11000,29,0,22,2026-10-23,2012-03-09
+HST,Host Hotels & Resorts,Real Estate,http://www.hosthotels.com,1,0,0,,,,,,,,
+HWM,Howmet Aerospace,Industrials,http://www.howmet.com,1,0,0,UCFcH6r7IXNt3bt6_DZP6pFQ,Wikidata,,,,,,
+HPQ,HP Inc.,Information Technology,https://www.hp.com/,1,0,0,UCqcEzOKaA4nc0gISklN0Ryw,Wikidata,296000,50,1,1,2026-10-27,2006-06-14
+HUBB,Hubbell Incorporated,Industrials,http://www.hubbell.com/,1,1,0,UCJYmo1IRfYi5poeGsxTVHgQ,homepage link (footer),915,3,0,2,2026-07-08,2013-03-25
+HUM,Humana,Health Care,https://www.humana.com/,1,0,0,UCMcVrkntKyA49BZcIhavFMg,Wikidata,21500,17,0,0,2026-10-27,2006-03-08
+HBAN,Huntington Bancshares,Financials,https://www.huntington.com/,1,0,0,,,,,,,,
+HII,Huntington Ingalls Industries,Industrials,https://hii.com,1,1,0,UCIX5wJ6wai-zFzkZq-5-ZBw,homepage link (footer),163000,50,1,7,2026-10-29,2011-10-04
+IBM,IBM,Information Technology,https://www.ibm.com/,1,1,0,UC8cc4pVKVHG7A9fbNsRNrLQ,homepage link (footer),383000,50,1,33,2026-10-29,2006-01-24
+IEX,IDEX Corporation,Industrials,https://www.idexcorp.com/,1,0,0,,,,,,,,
+IDXX,Idexx Laboratories,Health Care,http://www.idexx.com,1,1,0,UCJuQRh7JkUW5AI34eG0y3Pg,homepage link (footer),5860,0,0,0,2025-01-23,2010-04-12
+ITW,Illinois Tool Works,Industrials,https://www.itw.com/,1,0,0,,,,,,,,
+ILMN,"Illumina, Inc.",Health Care,https://www.illumina.com/,1,0,0,,,,,,,,
+INCY,Incyte,Health Care,http://www.incyte.com,1,1,0,UCQu_9fYXOTWn4q3h-c0sKCg,homepage link (footer),324,5,0,0,2026-07-10,2018-02-14
+IR,Ingersoll Rand,Industrials,https://company.ingersollrand.com/,1,0,0,,,,,,,,
+PODD,Insulet Corporation,Health Care,https://www.insulet.com/,1,0,0,,,,,,,,
+INTC,Intel,Information Technology,https://www.intel.com,1,1,0,UCk7SjrXVXAj8m8BLgzh6dGA,homepage link (footer),570000,50,1,14,2026-10-27,2007-09-07
+IBKR,Interactive Brokers,Financials,https://www.interactivebrokers.com,1,1,0,UCbY1hA0wpRcbyjBLxI-dxvQ,homepage link (footer),139000,50,1,7,2026-10-30,2007-03-15
+ICE,Intercontinental Exchange,Financials,https://www.theice.com,1,1,0,UCXworEv4y9w9AAG2768RKGg,homepage link (footer),2180,50,1,30,2026-10-28,2014-03-19
+IFF,International Flavors & Fragrances,Materials,http://www.iff.com,0,0,0,UC_Vyt7tViA5GP7_-okrbatw,Wikidata,8590,50,1,18,2026-10-22,2014-06-26
+IP,International Paper,Materials,https://www.internationalpaper.com/,1,0,0,UCQOdCcFM1tSTA8jOheSdf8g,Wikidata,4270,0,0,0,2025-02-01,2011-11-21
+INTU,Intuit,Information Technology,https://www.intuit.com/,1,1,0,UC-Q8p3gbbRDxskIEf0LNYVA,homepage link (footer),40900,50,1,11,2026-10-29,2006-05-06
+ISRG,Intuitive Surgical,Health Care,https://www.intuitive.com,1,1,0,UCG53rw1uXxZ0_t9I5z8dktA,homepage link (footer),25700,14,0,11,2026-08-25,2013-10-31
+IVZ,Invesco,Financials,http://www.invesco.com,1,0,0,,,,,,,,
+INVH,Invitation Homes,Real Estate,http://www.invitationhomes.com/,1,1,0,UCczFmNMZV4bGlQkPjKKW1dw,homepage link (footer),2030,10,0,4,2026-07-15,2013-03-28
+IQV,IQVIA,Health Care,https://www.iqvia.com/,1,0,0,,,,,,,,
+IRM,Iron Mountain,Real Estate,http://www.ironmountain.com/,1,1,0,UCu5Cs9TET9LydgVymChdWjw,homepage link (footer),4870,50,1,10,2026-10-27,2006-05-18
+JBHT,J.B. Hunt,Industrials,https://www.jbhunt.com/,1,1,0,UCmEW8-aYb8KEhn7q2wDWF5w,homepage link (footer),5590,20,0,9,2026-10-22,2009-12-02
+JBL,Jabil,Information Technology,http://www.jabil.com/,1,0,0,,,,,,,,
+JKHY,Jack Henry & Associates,Financials,https://www.jackhenry.com/,1,0,0,UCVKJwFR0Ogw6-2LAwV2oIUg,Wikidata,169,0,0,0,2020-03-12,2016-09-12
+J,Jacobs Solutions,Industrials,http://www.jacobs.com/,1,1,0,UCN_0FrQl44wgPR8TOyI-ZhQ,homepage link (footer),7120,9,0,0,2026-10-27,2013-06-05
+JNJ,Johnson & Johnson,Health Care,https://www.jnj.com,1,0,0,UCg0sL-UssDXE2Ohk3Dfpz7g,Wikidata,74700,2,0,0,2025-11-13,2008-05-06
+JCI,Johnson Controls,Industrials,https://www.johnsoncontrols.com/,1,1,0,UCVdxOo2SYGefzEFMVVkPgkQ,homepage link (footer),36800,50,1,2,2026-10-29,2008-11-19
+JPM,JPMorgan Chase,Financials,https://www.jpmorganchase.com/,1,1,0,UCBnFes2U2diA3QfR5m8l_Tw,homepage link (footer),145000,50,1,27,2026-11-01,2006-01-18
+KVUE,Kenvue,Consumer Staples,https://www.kenvue.com/,1,0,0,,,,,,,,
+KDP,Keurig Dr Pepper,Consumer Staples,http://www.drpeppersnapplegroup.com/,1,1,1,UCvLbnOLcQFLfZBKdw4sSung,homepage video link,20600,11,0,0,2026-06-17,2021-11-29
+KEY,KeyCorp,Financials,https://www.key.com/,0,0,0,,,,,,,,
+KEYS,Keysight Technologies,Information Technology,http://www.keysight.com/,1,1,0,UCreqjHULPhLYvdL-R6mi67Q,homepage link (footer),28000,50,1,44,2026-10-19,2013-10-25
+KMB,Kimberly-Clark,Consumer Staples,http://www.kimberly-clark.com,1,1,0,UCQTji98_5hWkvusJTrCMJSg,homepage link (footer),4100,24,0,0,2026-10-13,2012-04-27
+KIM,Kimco Realty,Real Estate,https://www.kimcorealty.com/,0,0,0,,,,,,,,
+KMI,Kinder Morgan,Energy,http://www.kindermorgan.com/,1,0,0,UCGodkFZt8Ca8Gb9DVtbigmQ,Wikidata,4170,1,0,0,2026-02-24,2012-10-15
+KKR,KKR & Co.,Financials,https://www.kkr.com/,1,1,0,UC1askRoLF-Xlmul7SeX4Jvw,homepage link (footer),5650,50,1,17,2026-10-28,2019-07-19
+KLAC,KLA Corporation,Information Technology,https://www.kla.com/,1,0,0,,,,,,,,
+KHC,Kraft Heinz,Consumer Staples,https://www.kraftheinzcompany.com/,1,0,0,,,,,,,,
+KR,Kroger,Consumer Staples,https://www.kroger.com,0,0,0,,,,,,,,
+LHX,L3Harris,Industrials,https://www.l3harris.com,1,1,0,UCENNhz_O63zkKUHkj6bsIIQ,homepage link (footer),14200,50,1,41,2026-10-25,2019-02-17
+LH,Labcorp,Health Care,https://www.labcorp.com/,1,1,0,UC-KYIvWP9I1A53ewJk2BwfA,homepage link (footer),6830,30,0,11,2026-10-29,2011-10-25
+LRCX,Lam Research,Information Technology,https://www.lamresearch.com/,1,1,0,UCGBYhq34JyAzewhkas7r1OQ,homepage link (footer),11700,22,0,0,2026-10-12,2013-06-25
+LVS,Las Vegas Sands,Consumer Discretionary,http://www.lasvegassands.com/,0,0,0,,,,,,,,
+LDOS,Leidos,Industrials,http://www.leidos.com,1,1,0,UCUH1BfLtk37iC5vFdynPHKw,homepage link (footer),4040,17,0,2,2026-10-06,2013-01-16
+LEN,Lennar,Consumer Discretionary,http://www.lennar.com/,1,1,0,UCslepFXE3XxUTlhoy6zm-hA,homepage link (footer),13200,13,0,12,2026-05-03,2008-08-28
+LII,Lennox International,Industrials,https://www.lennox.com/,1,0,0,,,,,,,,
+LLY,Lilly (Eli),Health Care,https://www.lilly.com/,1,1,0,UCptkdlJ5_DlSrXNRktb5yfw,homepage link (footer),33200,10,0,0,2026-09-29,2011-12-28
+LIN,Linde plc,Materials,http://www.linde.com/,1,1,0,UCS-WwuHZhM6anBIgoFvTbYg,homepage link (footer),16000,28,0,11,2026-08-26,2005-11-03
+LYV,Live Nation Entertainment,Communication Services,https://www.livenationentertainment.com/,1,0,0,UCHyN_VqlbQF8ZGo09oCRwwQ,Wikidata,7060,50,1,25,2026-10-30,2015-09-03
+LMT,Lockheed Martin,Industrials,https://lockheedmartin.com,1,1,0,UCJWcF0ex7_doPdIQGbVpDsQ,homepage link (footer),674000,50,1,35,2026-10-31,2007-07-23
+L,Loews Corporation,Financials,http://www.loews.com,1,0,0,,,,,,,,
+LOW,Lowe's,Consumer Discretionary,http://lowes.com,1,0,0,UCqd2hbtE2N9fb0D2nTrLT1w,Wikidata,1350000,45,0,6,2026-10-24,2006-03-09
+LULU,Lululemon Athletica,Consumer Discretionary,https://shop.lululemon.com/,0,0,0,UCCzODDnIM4xdZxOLUGF7KSg,Wikidata,308000,46,0,29,2026-10-28,2006-02-13
+LITE,Lumentum,Information Technology,https://www.lumentum.com/,1,1,0,UChaB6pmGpBEh1Ufa2dSHm4A,homepage link (footer),1590,50,1,5,2026-10-22,2015-02-18
+LYB,LyondellBasell,Materials,https://www.lyondellbasell.com/,1,1,0,UC32pwf5zn5DO6IJOiyUbsMA,homepage link (footer),6010,22,0,1,2026-10-13,2012-05-10
+MTB,M&T Bank,Financials,https://www3.mtb.com/,1,0,0,UCP_euyMh-Ase06MuFPGn4XQ,Wikidata,3680,3,0,0,2026-07-22,2013-09-05
+MPC,Marathon Petroleum,Energy,https://www.marathonpetroleum.com/,1,1,0,UC2VMk_st5c0dOZiLzCPhv2g,homepage link (footer),2430,1,0,0,2026-10-22,2014-09-26
+MAR,Marriott International,Consumer Discretionary,https://www.marriott.com/default.mi,0,0,0,,,,,,,,
+MRSH,Marsh McLennan,Financials,http://www.mmc.com/,1,1,0,UC6sOhN4yzAoADYMBB9uysPw,homepage link (footer),4950,50,1,3,2026-10-13,2011-12-16
+MLM,Martin Marietta Materials,Materials,https://www.martinmarietta.com/,1,1,0,UC3QxUS7gzhARuNy02bMFsiA,homepage link (footer),681,50,1,48,2026-10-31,2017-08-29
+MRVL,Marvell Technology,Information Technology,https://www.marvell.com/,1,1,0,UCP8Fn5UIZvjALoNKDGIvUDw,homepage link (footer),7550,50,1,3,2026-10-23,2009-03-27
+MAS,Masco,Industrials,http://www.masco.com/,1,1,0,UCUT74RmhYpcB0SI66-f8VBw,homepage link (footer),241,0,0,0,2018-12-10,2017-07-27
+MA,Mastercard,Financials,https://www.mastercard.com/,0,0,0,UC1z40kQzJW1RLZoYiNo8WwQ,Wikidata,3360,1,0,0,2026-10-02,2020-08-19
+MKC,McCormick & Company,Consumer Staples,http://www.mccormickcorporation.com,1,1,0,UCleuTKnhH0p6lp_7T9JFxfw,homepage link (footer),8230,1,0,0,2026-02-18,2015-02-11
+MCD,McDonald's,Consumer Discretionary,https://www.mcdonalds.com,0,0,0,,"excluded: Wikidata points to McDonaldsArabia, a regional franchise channel",,,,,,
+MCK,McKesson,Health Care,https://www.mckesson.com/,1,0,0,UCrUA5EalesVq9LKeIoT89_g,Wikidata,2350,17,0,0,2026-10-30,2008-05-24
+MDT,Medtronic,Health Care,https://www.medtronic.com/,1,1,0,UCI8pe0NV2gbF7FF5B8Fo1uw,homepage link (footer),27400,50,1,45,2026-10-22,2012-08-23
+MRK,Merck & Co.,Health Care,https://www.merck.com,1,1,0,UCvsS9VxRV6MrCpfcgYQbWlw,homepage link (footer),4230,0,0,0,2017-02-13,2006-03-01
+META,Meta Platforms,Communication Services,https://www.meta.com/,1,1,0,UC04FyDIvYXNecpbG8gyOw4A,homepage link (footer),497000,50,1,35,2026-10-31,2020-04-14
+MET,MetLife,Financials,https://www.metlife.com,1,1,0,UCtK4eWuBSvorowL5613E6HQ,homepage link (footer),14800,26,0,1,2026-10-30,2006-02-27
+MTD,Mettler Toledo,Health Care,http://www.mt.com,0,0,0,,,,,,,,
+MGM,MGM Resorts,Consumer Discretionary,http://www.mgmresorts.com/,0,0,0,,,,,,,,
+MCHP,Microchip Technology,Information Technology,https://www.microchip.com/,0,0,0,UCU_N4jDOub9J8splDAPiMWA,Wikidata,80000,50,1,22,2026-10-29,2008-09-09
+MU,Micron Technology,Information Technology,https://www.micron.com/,1,0,0,UCBqcI352Dc2ExKq1uSdwZvg,Wikidata,26800,38,0,0,2026-10-29,2006-11-21
+MSFT,Microsoft,Information Technology,https://www.microsoft.com/,1,0,0,UCFtEEv80fQVKkD4h1PF-Xqw,Wikidata,2170000,50,1,15,2026-10-27,2006-02-13
+MAA,Mid-America Apartment Communities,Real Estate,http://www.maac.com/,1,0,0,,,,,,,,
+MRNA,Moderna,Health Care,https://www.modernatx.com/,1,0,0,UChCzhLMQnwF1w-_J8q1IpPA,Wikidata,12500,0,0,0,2025-02-13,2011-09-15
+MDLZ,Mondelez International,Consumer Staples,https://www.mondelezinternational.com/,1,1,0,UC4K4zLoKvkhNhgRTctZu8JA,homepage link (footer),28800,50,1,32,2026-10-29,2013-10-07
+MPWR,Monolithic Power Systems,Information Technology,http://www.monolithicpower.com,1,1,0,UCqOx8jWRKEq4TpfcjCz0Isw,homepage link (footer),12000,11,0,0,2026-10-28,2014-12-09
+MNST,Monster Beverage,Consumer Staples,http://www.monsterbevcorp.com/,1,0,0,,,,,,,,
+MCO,Moody's Corporation,Financials,https://www.moodys.com,1,1,0,UCyWqT8lrGbRqWa30c_l5iSw,homepage link (footer),10800,50,1,24,2026-10-30,2011-03-01
+MS,Morgan Stanley,Financials,https://morganstanley.com,0,0,0,,,,,,,,
+MOS,Mosaic Company (The),Materials,http://www.mosaicco.com,1,1,0,UCvnQ01nXNjQVMNvxwaMQ6Dg,homepage link (footer),2690,9,0,0,2026-10-07,2009-03-30
+MSI,Motorola Solutions,Information Technology,http://www.motorola.com/,1,0,0,UCJkBIeTewoQGgtviUe5LH_g,Wikidata,372000,50,1,43,2026-10-30,2006-01-25
+MSCI,MSCI,Financials,https://www.msci.com,1,1,0,UCtw7vB-zkCX17uFlheQnq0Q,homepage link (footer),10800,19,0,0,2026-03-30,2011-07-19
+NDAQ,"Nasdaq, Inc.",Financials,http://business.nasdaq.com/,0,0,0,,,,,,,,
+NTAP,NetApp,Information Technology,https://www.netapp.com/,0,0,0,,,,,,,,
+NFLX,Netflix,Communication Services,https://ir.netflix.net/,1,1,0,UCBxkf2Iju18zdOKZkO0ig2w,homepage video link,23300,4,0,0,2026-10-20,2013-06-19
+NEM,Newmont,Materials,http://www.newmont.com,1,1,0,UCXv8QDMrHHUnxC3bo5657rA,homepage link (footer),7310,26,0,0,2026-09-29,2012-01-13
+NWSA,News Corp (Class A),Communication Services,http://www.newscorp.com,1,0,0,,,,,,,,
+NWS,News Corp (Class B),Communication Services,http://www.newscorp.com,1,0,0,,,,,,,,
+NEE,NextEra Energy,Utilities,http://www.nexteraenergy.com/,1,1,1,UCbM4Y9uPpWcrSS9AiqWTbZA,homepage link (footer),1610,3,0,3,2026-10-14,2017-10-03
+NKE,"Nike, Inc.",Consumer Discretionary,https://www.nike.com/,1,0,0,UCUFgkRb0ZHc4Rpq15VRCICA,Wikidata,2280000,50,1,37,2026-10-30,2006-03-08
+NI,NiSource,Utilities,http://www.nisource.com/,1,1,0,UCMBOfYTM1M1Z4VpxqN2f6Xw,homepage link (footer),85,0,0,0,2025-06-04,2017-04-13
+NDSN,Nordson Corporation,Industrials,http://www.nordson.com/de-de/pages/home.aspx,0,0,0,,,,,,,,
+NSC,Norfolk Southern,Industrials,https://www.norfolksouthern.com/,1,1,0,UCFyf_43M-VpQ2-TJs220TEw,homepage link (footer),36600,43,0,19,2026-10-06,2007-09-27
+NTRS,Northern Trust,Financials,http://www.northerntrust.com/,0,0,0,,,,,,,,
+NOC,Northrop Grumman,Industrials,https://www.northropgrumman.com/,1,1,0,UCiTTe3mBodoZVGVhQDpEFjg,homepage link (footer),159000,31,0,2,2026-10-29,2009-01-05
+NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,https://www.nclhltd.com/,1,0,0,,,,,,,,
+NRG,NRG Energy,Utilities,https://www.nrg.com/,1,1,0,UCiGskGDPDG47BVwAFwtroXQ,homepage link (footer),3540,33,0,8,2026-10-26,2010-02-11
+NUE,Nucor,Materials,http://www.nucor.com,1,1,0,UClJLEk3tK8SsmzdtQjC9M8A,homepage link (footer),4430,33,0,16,2026-10-30,2010-11-19
+NVDA,Nvidia,Information Technology,https://www.nvidia.com/,1,1,0,UCHuiy8bXnmK5nisYHUd1J5g,homepage link (footer),2260000,50,1,23,2026-10-31,2006-05-18
+NVR,"NVR, Inc.",Consumer Discretionary,http://www.nvrinc.com/,1,1,0,UCOMManSWyVlxMnATlnUYzvQ,homepage link (footer),14600,50,1,25,2026-10-30,2012-03-09
+NXPI,NXP Semiconductors,Information Technology,https://www.nxp.com/,1,1,0,UCNtkvyhGV9oAmCHj8OGILuA,homepage link (footer),69300,50,1,7,2026-10-12,2008-05-02
+ORLY,O'Reilly Automotive,Consumer Discretionary,http://www.oreillyauto.com/,0,0,0,UCHU4R49ZCZ9MXE_FUk5FMdA,Wikidata,319000,50,1,14,2026-10-22,2009-02-22
+OXY,Occidental Petroleum,Energy,https://www.oxy.com/,1,1,0,UCCR-kIn1ImswuunjuDhL2RA,homepage link (footer),3080,0,0,0,2023-01-26,2011-12-16
+ODFL,Old Dominion,Industrials,http://www.odfl.com/,1,0,0,,,,,,,,
+OMC,Omnicom Group,Communication Services,https://www.omnicomgroup.com/,1,0,0,,,,,,,,
+ON,ON Semiconductor,Information Technology,https://www.onsemi.com/,1,1,0,UCjz-_ox1i6Gcv40UwAa6j0A,homepage link (footer),9150,50,1,7,2026-10-15,2008-01-28
+OKE,Oneok,Energy,http://www.oneok.com/,1,0,0,,,,,,,,
+ORCL,Oracle Corporation,Information Technology,https://www.oracle.com/,0,0,0,UCHCThmyZ-2yWkv0UVeBDdnQ,Wikidata,174000,50,1,0,2026-10-31,2005-11-12
+OTIS,Otis Worldwide,Industrials,https://www.otis.com/,1,1,0,UCG5WlWNmxihC1n9eFLOwJyw,homepage link (footer),132000,49,0,31,2026-10-27,2012-01-06
+PCAR,Paccar,Industrials,http://www.paccar.com/,1,0,0,,,,,,,,
+PKG,Packaging Corporation of America,Materials,https://www.packagingcorp.com/,1,1,0,UCeZssS0WtZZ-ohWT_w5WMzQ,homepage link (footer),99,1,0,0,2026-05-19,2021-01-14
+PLTR,Palantir Technologies,Information Technology,https://www.palantir.com/,1,1,0,UCwed6_f0WcDIioXvMQfcP2Q,homepage link (footer),165000,50,1,0,2026-10-31,2006-06-09
+PANW,Palo Alto Networks,Information Technology,https://www.paloaltonetworks.com,1,1,0,UC2UPStk47kvhBn8P7Q5BaAg,homepage link (footer),47100,50,1,0,2026-10-27,2008-09-12
+PH,Parker Hannifin,Industrials,http://www.parker.com/,0,0,0,,,,,,,,
+PAYX,Paychex,Industrials,http://www.paychex.com/,1,1,0,UCpTyhlEpJ_CuVgAYRffOJew,homepage link (footer),14600,50,1,24,2026-10-30,2006-06-09
+PYPL,PayPal,Financials,https://www.paypal.com/,1,0,0,UCXe1qKfGweMKTnmRrMw9yOg,Wikidata,175000,50,1,13,2026-09-25,2006-04-02
+PNR,Pentair,Industrials,http://www.pentair.com/,1,0,0,,,,,,,,
+PEP,PepsiCo,Consumer Staples,https://www.pepsico.com/,1,1,0,UCkrcntqtKKsXHBNJ5yvdQzg,homepage link (footer),154000,50,1,32,2026-10-30,2009-03-31
+PFE,Pfizer,Health Care,https://www.pfizer.com/,1,1,0,UCzoP7l5bzSzi2gUUNn0I79w,homepage link (footer),89600,50,1,43,2026-10-29,2009-07-15
+PCG,PG&E Corporation,Utilities,https://www.pge.com/,1,1,0,UCd1lv4o2Yhbv4Yg-sZvgM2A,homepage link (footer),37000,50,1,30,2026-10-30,2008-08-28
+PM,Philip Morris International,Consumer Staples,https://www.pmi.com/,1,1,0,UC8Ljkwa0c7Njol3g7LGW2Ww,homepage link (footer),11400,34,0,20,2026-10-28,2014-09-15
+PSX,Phillips 66,Energy,https://www.phillips66.com,1,1,0,UCX9JqEdpzJ7jPEgVMMd-MlA,homepage link (footer),1630,8,0,1,2026-09-17,2011-11-04
+PNW,Pinnacle West Capital,Utilities,http://www.pinnaclewest.com/,1,0,0,,,,,,,,
+PNC,PNC Financial Services,Financials,https://www.pnc.com/,0,0,0,,,,,,,,
+PPG,PPG Industries,Materials,https://www.ppg.com/,1,1,0,UCZgwAKb_gxV8rpI3Fbzi9fQ,homepage link (footer),11400,44,0,8,2026-10-21,2010-03-17
+PPL,PPL Corporation,Utilities,http://www.pplweb.com/,1,1,0,UCSgv5ebGH-GeRKO9cS-uvJg,homepage link (footer),219,7,0,0,2026-03-12,2008-06-11
+PFG,Principal Financial Group,Financials,https://www.principal.com/,1,1,0,UC8Mz6s57smClp3MH04Gbhqw,homepage link (footer),8480,15,0,1,2026-09-29,2007-09-07
+PG,Procter & Gamble,Consumer Staples,http://www.pg.com/,1,1,0,UCDzq6J0KoGCbps96JQuXWRg,homepage link (footer),76300,50,1,12,2026-10-11,2016-04-18
+PGR,Progressive Corporation,Financials,https://www.progressive.com/,1,1,0,UCzX4gPZ9x1iK29lv_sHhuDQ,homepage link (footer),114000,50,1,13,2026-10-30,2006-03-31
+PLD,Prologis,Real Estate,https://www.prologis.com/,1,1,0,UCL4PFE4nm4024KLSUIUFA6w,homepage link (footer),2360,35,0,0,2026-10-29,2014-07-07
+PRU,Prudential Financial,Financials,http://prudential.com,1,1,0,UC3u8dFzKIGP9Fw8AAdy-hLg,homepage link (footer),28000,50,1,32,2026-10-29,2005-10-17
+PTC,PTC Inc.,Information Technology,http://www.ptc.com,1,1,0,UCcECp_XO890MXSVfIR19vRg,homepage link (footer),28800,50,1,11,2026-10-28,2009-02-23
+PEG,Public Service Enterprise Group,Utilities,http://www.pseg.com,1,0,0,,,,,,,,
+PSA,Public Storage,Real Estate,https://www.publicstorage.com/,1,1,0,UCwaxY8sKTWg-LxX2UptggGQ,homepage link (footer),5770,50,1,36,2026-10-30,2006-11-12
+PHM,PulteGroup,Consumer Discretionary,http://pulte.com,1,1,0,UCrPJwUg14aQWyT1LNolnIlw,homepage link (footer),17000,50,1,2,2026-10-28,2007-03-16
+Q,Qnity Electronics,Information Technology,https://www.qnityelectronics.com/,1,0,0,,,,,,,,
+QCOM,Qualcomm,Information Technology,https://www.qualcomm.com/,1,1,0,UCH6eZr6vbZ6Bx53TyuSzxrg,homepage link (footer),92400,50,1,16,2026-10-29,2007-08-17
+PWR,Quanta Services,Industrials,https://www.quantaservices.com/,1,1,0,,,,,,,,
+DGX,Quest Diagnostics,Health Care,https://www.questdiagnostics.com/,1,0,0,UCiylgcbQtZMTdQbRw73yr3w,Wikidata,8850,0,0,0,2025-10-29,2009-05-18
+RL,Ralph Lauren Corporation,Consumer Discretionary,https://www.ralphlauren.com/,1,0,0,,,,,,,,
+RJF,Raymond James Financial,Financials,https://www.raymondjames.com/,0,0,0,,,,,,,,
+RDDT,Reddit,Communication Services,https://www.redditinc.com/,1,1,0,UCUgrUBKwSnXwQOBG4v3igMg,homepage link (footer),287000,50,1,50,2026-10-31,2006-07-19
+O,Realty Income,Real Estate,http://www.realtyincome.com,1,0,0,,,,,,,,
+REG,Regency Centers,Real Estate,http://www.regencycenters.com/,0,0,0,,,,,,,,
+REGN,Regeneron Pharmaceuticals,Health Care,https://www.regeneron.com/,1,1,0,UC4QJ3HjEBSIFzMvxLkrAO2w,homepage link (footer),3250,50,1,17,2026-10-27,2011-10-07
+RF,Regions Financial Corporation,Financials,https://www.regions.com/,1,0,0,,,,,,,,
+RSG,Republic Services,Industrials,https://www.republicservices.com/,1,1,0,UCfpPxmX8j04YOCNtE0njz0w,homepage link (footer),6850,6,0,0,2026-08-12,2014-01-28
+RMD,ResMed,Health Care,http://www.resmed.com/,0,0,0,UCwjFC_AikD4--KeVnU7mbJg,Wikidata,63000,50,1,34,2026-10-28,2011-04-22
+RVTY,Revvity,Health Care,http://revvity.com/,0,0,0,UCUqLrqOpUUwhz3UaLn78tVQ,Wikidata,815,21,0,5,2026-10-11,2023-04-12
+HOOD,Robinhood Markets,Financials,https://www.robinhood.com,1,1,0,UCY55VHsy1umgvR35gl5bmUw,homepage link (footer),81800,50,1,25,2026-10-30,2017-06-12
+ROK,Rockwell Automation,Industrials,http://www.rockwellautomation.com,0,0,0,,,,,,,,
+ROL,"Rollins, Inc.",Industrials,http://www.rollins.com/,1,0,0,,,,,,,,
+ROP,Roper Technologies,Information Technology,http://www.roperind.com/,0,0,0,,,,,,,,
+ROST,Ross Stores,Consumer Discretionary,https://www.rossstores.com/,1,0,0,,,,,,,,
+RCL,Royal Caribbean Group,Consumer Discretionary,https://www.royalcaribbeangroup.com/,1,0,0,,,,,,,,
+RTX,RTX Corporation,Industrials,https://www.rtx.com/,1,1,0,UC1w6pDb9Bgu5WeFI3pJ5iAg,homepage link (footer),266000,39,0,0,2026-08-25,2009-03-31
+SPGI,S&P Global,Financials,https://www.spglobal.com/en,0,0,0,UCfXvCHeuAzcYIrR8WeHJgSw,Wikidata,17200,50,1,26,2026-10-30,2009-09-24
+CRM,Salesforce,Information Technology,https://www.salesforce.com,0,0,0,,,,,,,,
+SNDK,Sandisk,Information Technology,https://www.sandisk.com/,1,1,0,UCqXoT2w9gl8YNC6JM7t_Xng,homepage link (footer),458000,50,1,25,2026-10-29,2006-03-17
+SBAC,SBA Communications,Real Estate,http://www.sbasite.com,1,0,0,UCyC3tQif1MFLm7mKaC7Niqg,Wikidata,267,2,0,0,2026-07-06,2018-10-10
+SLB,Schlumberger,Energy,https://www.slb.com/,1,1,0,UCzX5PhHCet4oAi_iTutUo5Q,homepage link (footer),45100,19,0,11,2026-10-21,2014-10-21
+STX,Seagate Technology,Information Technology,http://www.seagate.com,1,1,0,UC6nPUTO22UXVxD8uOei8BjA,homepage link (footer),67900,50,1,26,2026-10-21,2007-09-20
+SRE,Sempra,Utilities,http://www.sempra.com/,0,0,0,,,,,,,,
+NOW,ServiceNow,Information Technology,https://www.servicenow.com,0,0,0,,,,,,,,
+SHW,Sherwin-Williams,Materials,https://www.sherwin-williams.com/,1,0,0,,,,,,,,
+SPG,Simon Property Group,Real Estate,https://www.simon.com/,1,0,0,UCHlh4C2A8Ydo1TiG8TqxTMA,Wikidata,7540,0,0,0,2022-03-09,2010-08-20
+SKYD,Skydance,Communication Services,https://skydance.com/,1,1,20,UChHWguT73YHTBfptyj41a1Q,homepage link (footer),202000,9,0,1,2026-10-15,2014-07-17
+SWKS,Skyworks Solutions,Information Technology,https://www.skyworksinc.com/,1,1,0,UCVT7P0K4jQyDE15ANfd_-RA,homepage link (footer),1920,16,0,0,2026-10-07,2015-06-23
+SJM,J.M. Smucker Company (The),Consumer Staples,https://www.jmsmucker.com/,1,0,0,,,,,,,,
+SW,Smurfit Westrock,Materials,http://www.smurfitkappa.com/,1,1,0,UC-VvZzkkbOnQbmvPa9hWpFg,homepage link (footer),8080,50,1,3,2026-10-23,2011-02-17
+SNA,Snap-on,Industrials,http://www.snapon.com,1,1,0,UCXUVrPB5njxF8IBae0ttJPg,homepage link,121000,47,0,38,2026-10-31,2008-01-27
+SOLV,Solventum,Health Care,https://www.solventum.com,1,1,0,UCKhF5WadW-Xks560XLbUZSQ,homepage link (footer),751,9,0,0,2026-09-23,2024-04-11
+SO,Southern Company,Utilities,http://www.southerncompany.com/,1,1,0,UCAeXT6t6DfmsInYQ2cDvYAA,homepage link (footer),2360,30,0,5,2026-10-30,2009-08-06
+LUV,Southwest Airlines,Industrials,https://www.southwest.com/,1,1,0,UCAjsIzgAqJBC70wYt45cMYg,homepage link (footer),238000,18,0,1,2026-10-26,2007-06-06
+SWK,Stanley Black & Decker,Industrials,http://www.stanleyblackanddecker.com,0,0,0,,,,,,,,
+SBUX,Starbucks,Consumer Discretionary,https://www.starbucks.com/,1,1,0,UCj4nCgtjKJppK_IZeY8TUJg,homepage link (footer),485000,45,0,29,2026-10-26,2005-12-01
+STT,State Street Corporation,Financials,https://www.statestreet.com/,1,1,0,UCzU2eZuL65c6C0ZxL4A8KIg,homepage link (footer),4300,50,1,0,2026-10-29,2014-06-13
+STLD,Steel Dynamics,Materials,http://www.steeldynamics.com,1,0,0,,,,,,,,
+STE,Steris,Health Care,http://www.steris.com/,1,0,0,,,,,,,,
+SYK,Stryker Corporation,Health Care,https://stryker.com,1,0,0,UCmOY0v_SbO5ykRxsFlKifRg,Wikidata,25700,13,0,3,2026-10-28,2005-10-29
+SMCI,Supermicro,Information Technology,https://www.supermicro.com/,1,1,1,UCrE6-2q7uNnfkNiMhF4Ok2w,homepage link (footer),228000,50,1,8,2026-10-30,2008-09-04
+SYF,Synchrony Financial,Financials,https://www.synchronybank.com/,0,0,0,,,,,,,,
+SNPS,Synopsys,Information Technology,https://www.synopsys.com/,1,1,0,UCUiwwDJdlOIILWWCjPKLb9Q,homepage link (footer),33600,39,0,0,2026-10-27,2006-03-13
+SYY,Sysco,Consumer Staples,https://www.sysco.com/,1,0,0,,,,,,,,
+TMUS,T-Mobile US,Communication Services,https://www.t-mobile.com/,1,1,0,UCJWjiXxsH7Nb2354JHI4q0Q,homepage link (footer),615000,50,1,31,2026-10-29,2006-02-12
+TROW,T. Rowe Price,Financials,http://www.troweprice.com/,1,1,0,UC-eTeB8C1Pjqe0V86IdPaWg,homepage link (footer),8490,50,1,37,2026-10-21,2010-07-15
+TTWO,Take-Two Interactive,Communication Services,http://www.take2games.com,1,0,0,,,,,,,,
+TPR,"Tapestry, Inc.",Consumer Discretionary,https://www.coach.com,0,0,0,UC0Ecp-GtoM5xxRC4hvSLirg,Wikidata,161000,50,1,45,2026-10-30,2005-08-17
+TRGP,Targa Resources,Energy,https://www.targaresources.com/,0,0,0,,,,,,,,
+TGT,Target Corporation,Consumer Staples,https://www.target.com,1,1,0,UCralvBh1hSGRf4SrjS-mY7Q,homepage link (footer),719000,50,1,45,2026-10-30,2006-01-07
+TEL,TE Connectivity,Information Technology,http://www.te.com/,0,0,0,,,,,,,,
+TDY,Teledyne Technologies,Information Technology,http://www.teledyne.com/,1,0,0,,,,,,,,
+TER,Teradyne,Information Technology,https://www.teradyne.com/,0,0,0,,,,,,,,
+TSLA,"Tesla, Inc.",Consumer Discretionary,https://www.tesla.com/,0,0,0,UC5WjFrtBdufl6CZojX3D8dQ,Wikidata,3100000,50,1,27,2026-10-31,2006-12-08
+TXN,Texas Instruments,Information Technology,https://www.ti.com/,1,1,0,UC-EXTfLnOmCKVRJrv8xoGrQ,homepage link (footer),203000,50,1,4,2026-10-30,2006-07-23
+TPL,Texas Pacific Land Corporation,Energy,https://www.texaspacific.com/,1,0,0,,,,,,,,
+TXT,Textron,Industrials,https://www.textron.com/,1,1,0,UCdVgDsPw9OKcQN_lbZoW0Yw,homepage link (footer),2770,4,0,0,2026-08-10,2010-11-19
+TMO,Thermo Fisher Scientific,Health Care,https://www.thermofisher.com/,1,0,0,UCfUs2fCDhx07fkszsJ0jOcA,Wikidata,135000,50,1,1,2026-10-30,2009-04-14
+TJX,TJX Companies,Consumer Discretionary,http://www.tjx.com/,0,0,0,,,,,,,,
+TKO,TKO Group Holdings,Communication Services,https://tkogrp.com/,1,0,0,,,,,,,,
+TSCO,Tractor Supply,Consumer Discretionary,http://www.tractorsupply.com/,0,0,0,,,,,,,,
+TT,Trane Technologies,Industrials,http://www.ingersollrand.com,1,1,0,,"excluded: footer links Ingersoll Rand Air Compressors, a separate company since 2020",,,,,,
+TDG,TransDigm Group,Industrials,http://www.transdigm.com/,1,0,0,,,,,,,,
+TRV,Travelers Companies (The),Financials,http://www.travelers.com/,1,1,0,UCTXCRyvHbmcrPUEBqoRSxWQ,homepage link (footer),54600,50,1,0,2026-10-30,2008-03-28
+TRMB,Trimble Inc.,Information Technology,http://www.trimble.com,1,1,0,UCD5r7hBRwI6NFc4izfm-ocg,homepage link (footer),42800,50,1,23,2026-10-30,2016-01-19
+TFC,Truist Financial,Financials,https://www.truist.com/,1,0,0,UCtl408it0jOIYNyFnh7Mx3w,Wikidata,,,,,,
+TWLO,Twilio,Information Technology,http://www.authy.com,1,1,0,UCWh3G9LZmZ3q_xWOyPpn8ag,homepage link (footer),85200,50,1,2,2026-10-23,2009-03-09
+TYL,Tyler Technologies,Information Technology,https://tylertech.com,1,1,0,UC51gVpDFA2KM8lFk8cka9WQ,homepage link (footer),916,40,0,9,2026-10-27,2020-06-25
+TSN,Tyson Foods,Consumer Staples,http://www.tyson.com,1,0,0,UCKCjhEmGPpTuYzP9hqbubng,Wikidata,7020,19,0,0,2026-10-14,2008-08-04
+USB,U.S. Bancorp,Financials,https://www.usbank.com/about-us-bank.html,1,0,0,,,,,,,,
+UBER,Uber,Industrials,https://www.uber.com/,1,1,0,UCgnxoUwDmmyzeigmmcf0hZA,homepage link (footer),1470000,50,1,19,2026-10-30,2012-02-15
+UDR,"UDR, Inc.",Real Estate,http://www.udr.com/,1,1,0,UCgtWW3UJYPtxi4_Bq2d0gGA,homepage link (footer),886,1,0,1,2026-01-09,2008-05-20
+ULTA,Ulta Beauty,Consumer Discretionary,https://www.ulta.com/,1,1,0,UCBX-jnm-TVS2SAAwTlD36bQ,homepage link (footer),121000,50,1,47,2026-10-31,2007-08-21
+UNP,Union Pacific Corporation,Industrials,http://www.up.com,1,1,0,UCL9imn-LLY10D_XacqBZGFQ,homepage link (footer),79900,47,0,14,2026-10-29,2007-03-07
+UAL,United Airlines Holdings,Industrials,https://ir.united.com,0,0,0,,,,,,,,
+UPS,United Parcel Service,Industrials,https://www.ups.com/,0,0,0,UC4_qBUkZQBfYsJ7eNYqXaBg,Wikidata,63800,50,1,21,2026-10-22,2005-11-10
+URI,United Rentals,Industrials,https://www.unitedrentals.com/,1,1,0,UCJqx4efP89s7kkS9hb-C5Cg,homepage link (footer),3330,14,0,0,2026-09-17,2013-10-21
+UNH,UnitedHealth Group,Health Care,https://www.uhc.com/,1,1,0,UCA9mvhiRY3VT95NPrpo1BWQ,homepage link (footer),29800,50,1,27,2026-10-30,2006-09-20
+UHS,Universal Health Services,Health Care,http://www.uhsinc.com/,1,1,0,UCqRLQqZWaSrldwncvzbB8Yw,homepage link (footer),176,50,1,16,2026-10-21,2014-03-13
+VLO,Valero Energy,Energy,https://www.valero.com,1,1,0,UCjClGEBGWkxQKueeqRa5i9Q,homepage link (footer),6780,14,0,0,2026-08-12,2010-02-17
+VEEV,Veeva Systems,Health Care,https://www.veeva.com/,1,1,0,UCIytF59UAVv-FRrw8ZDFiiw,homepage link (footer),8150,24,0,0,2026-10-12,2009-09-17
+VTR,Ventas,Real Estate,http://www.ventasreit.com,1,0,0,,,,,,,,
+VLTO,Veralto,Industrials,https://www.veralto.com/,1,1,0,UCPujgPTKACYu2Z2-C8SCNgg,homepage link (footer),279,0,0,0,2024-10-02,2023-05-31
+VRSN,Verisign,Information Technology,https://www.verisign.com,1,0,0,,,,,,,,
+VRSK,Verisk Analytics,Industrials,http://www.verisk.com/,1,1,0,UCJQSl1TiJjgGAIjOJMJwP9w,homepage link (footer),3040,21,0,13,2026-10-16,2016-03-22
+VZ,Verizon,Communication Services,https://www.verizon.com/,1,1,0,UCDF1rHyRH8LcxbHX5_mrZ0w,homepage link (footer),486000,50,1,11,2026-10-28,2005-10-23
+VRTX,Vertex Pharmaceuticals,Health Care,https://www.vrtx.com/,0,0,0,UCrNu_QIE9exwVQnWKgr1toQ,Wikidata,4980,42,0,9,2026-10-29,2018-07-27
+VRT,Vertiv,Industrials,https://www.vertiv.com/,1,1,0,UCkJ4UtX1ofCgENrFPR4DODA,homepage link (footer),15300,50,1,2,2026-10-27,2008-04-17
+VTRS,Viatris,Health Care,https://www.viatris.com/en,0,0,0,UCWVqREHI9o39CMlIzqczAag,Wikidata,3930,40,0,31,2026-10-05,2019-11-12
+VICI,Vici Properties,Real Estate,https://viciproperties.com/,1,0,0,,,,,,,,
+V,Visa Inc.,Financials,https://corporate.visa.com/,1,1,0,UCvqKb7KRw1vbkYiJihoYE8w,Wikidata,87200,50,1,23,2026-10-30,2012-02-15
+VST,Vistra Corp.,Utilities,https://www.vistracorp.com/,1,0,0,,,,,,,,
+VMRK,Vivmark Residential,Real Estate,https://www.equityapartments.com/,1,0,0,,,,,,,,
+VMC,Vulcan Materials Company,Materials,https://www.vulcanmaterials.com/,1,1,0,UC0m3D8ZeWQHbo6xVrpeZB7g,homepage link (footer),1840,50,1,31,2026-10-21,2011-11-16
+VYLR,Vylor,Consumer Staples,https://www.corteva.com/,1,1,0,UCbOwcjO4YSGOe8-gucxIkUQ,homepage link (footer),40500,50,1,17,2026-10-28,2017-12-13
+WRB,W. R. Berkley Corporation,Financials,http://www.wrberkley.com/,1,0,0,,,,,,,,
+GWW,W. W. Grainger,Industrials,https://www.grainger.com/,1,0,0,UC1EXGMfoklkkEgPzyqRWw4A,Wikidata,26900,10,0,6,2026-10-28,2011-10-07
+WAB,Wabtec,Industrials,https://www.wabteccorp.com/,1,1,0,UCcsnfLtBFqsd5eQYoo8qUbw,homepage link (footer),6410,21,0,0,2026-10-25,2010-06-24
+WMT,Walmart,Consumer Staples,https://www.walmart.com/,1,0,0,UC701pqb1-HJPS4RMjSmK4Yg,Wikidata,913000,50,1,26,2026-10-29,2006-02-12
+DIS,Walt Disney Company (The),Communication Services,https://www.disney.com/,1,0,0,UC_5niPa-d35gg88HaS7RrIw,Wikidata,6800000,50,1,25,2026-10-31,2012-02-11
+WM,Waste Management,Industrials,https://www.wm.com/,1,1,0,UCtC3d_nTi9pViYUrH4U9gNA,homepage link (footer),23600,18,0,13,2026-09-21,2006-05-29
+WAT,Waters Corporation,Health Care,http://www.waters.com,0,0,0,,,,,,,,
+WEC,WEC Energy Group,Utilities,http://www.wisconsinenergy.com,0,0,0,UCoHNSOrlhVHD1SGpTYFD-hg,Wikidata,636,0,0,0,2025-07-08,2010-09-14
+WFC,Wells Fargo,Financials,https://www.wellsfargo.com/,1,1,0,UCGcBOP3IhbgHOPBcUFUZRdQ,homepage link (footer),332000,50,1,6,2026-10-30,2006-03-03
+WELL,Welltower,Real Estate,https://welltower.com/,1,0,0,,,,,,,,
+WST,West Pharmaceutical Services,Health Care,http://www.westpharma.com/en/Pages/Default.aspx,0,0,0,,,,,,,,
+WDC,Western Digital,Information Technology,https://www.westerndigital.com,1,1,0,UCQpijqbZeCM3zLew0ZwiX4A,homepage link (footer),121000,39,0,8,2026-10-28,2017-02-02
+WY,Weyerhaeuser,Real Estate,http://www.weyerhaeuser.com/,1,0,0,,,,,,,,
+WSM,"Williams-Sonoma, Inc.",Consumer Discretionary,http://www.williams-sonomainc.com,1,0,0,,,,,,,,
+WMB,Williams Companies,Energy,http://www.williams.com,1,1,1,UCbYHW8UVY1n55EtIWyDgWcw,homepage link (footer),1430,50,1,27,2026-10-22,2014-05-16
+WTW,Willis Towers Watson,Financials,https://www.wtwco.com/,1,0,0,,,,,,,,
+WDAY,"Workday, Inc.",Information Technology,https://www.workday.com/,1,1,0,UCuXDjlKjGUDdtcqbt97gUqQ,homepage link (footer),39500,50,1,10,2026-10-30,2009-07-07
+WYNN,Wynn Resorts,Consumer Discretionary,https://www.wynnresorts.com/,1,0,0,,,,,,,,
+XEL,Xcel Energy,Utilities,https://www.xcelenergy.com/,1,1,0,UCXfGeNN0J3XVXAkdFD4LfDw,homepage link (footer),3580,50,1,24,2026-10-28,2009-06-23
+XYL,Xylem Inc.,Industrials,http://www.xylem.com,1,1,0,UCEmL4tuhm-Akr0dv350Iofg,homepage link (footer),4310,31,0,0,2026-10-26,2011-07-18
+YUM,Yum! Brands,Consumer Discretionary,https://yum.com,0,0,0,,,,,,,,
+ZBRA,Zebra Technologies,Information Technology,https://www.zebra.com/,1,1,0,UCxLtlkUb0Lanig4YyDcP2fQ,homepage link (footer),36800,50,1,7,2026-10-22,2009-06-24
+ZBH,Zimmer Biomet,Health Care,http://www.zimmer.com/,1,0,0,,,,,,,,
+ZTS,Zoetis,Health Care,http://www.zoetis.com,1,1,0,UC58zyNbvUp2ItgITt2-an_Q,homepage link (footer),6820,31,0,10,2026-10-23,2012-05-06
