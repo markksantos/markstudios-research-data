@@ -13,7 +13,7 @@ Open data behind the original studies published at **https://www.markstudios.com
 | `data/ai-crawler-robots-txt-study` | [AI Crawler Robots.txt Study](https://www.markstudios.com/research/ai-crawler-robots-txt-study) | One working homepage of the Tranco top 1,000: which AI crawlers its robots.txt blocks for the homepage (RFC 9309 reading), and whether it serves llms.txt |
 | `data/website-fonts-study` | [Website Fonts Study](https://www.markstudios.com/research/website-fonts-study) | One working homepage: the font its body text and first heading render in, the web fonts it loads, and the font type (brand, open-source, system) |
 
-### YouTube and captions (14)
+### YouTube and captions (15)
 
 | Folder | Study | What one row is |
 |---|---|---|
@@ -26,6 +26,7 @@ Open data behind the original studies published at **https://www.markstudios.com
 | `data/sp500-youtube-study` | [S&P 500 on YouTube Study](https://www.markstudios.com/research/sp500-youtube-study) | One S&P 500 constituent: sector, whether its homepage links to or embeds YouTube, the company channel, subscribers, uploads and Shorts in 12 months |
 | `data/podcasts-on-youtube-study` | [Podcasts on YouTube Study](https://www.markstudios.com/research/podcasts-on-youtube-study) | One show on Apple's top 100 U.S. podcasts: genre, publisher, its YouTube channel and subscribers, full episodes or clips matched, feed-to-YouTube gap |
 | `data/youtube-sponsorship-disclosure-study` | [YouTube Sponsorship Disclosure Study](https://www.markstudios.com/research/youtube-sponsorship-disclosure-study) | One video on YouTube's most-popular charts (5 countries): length, views, paid promotion label, whether the description names a sponsor or only a promo code |
+| `data/youtube-title-style-study` | [YouTube Title Style Study](https://www.markstudios.com/research/youtube-title-style-study) | One video on YouTube's most-popular charts (5 countries): channel, title, category, length, charts |
 | `data/youtube-view-count-change-study` | [YouTube View Count Change Study](https://www.markstudios.com/research/youtube-view-count-change-study) | One upload (and one channel and type): views, likes and comments before (Jun 1-Aug 23, 2026) and after YouTube's Aug 24, 2026 view count change |
 | `data/youtube-video-length-study` | [YouTube Video Length Study](https://www.markstudios.com/research/youtube-video-length-study) | One recent video (and one channel) from the 100 most-subscribed channels: length in minutes, views when listed |
 | `data/youtube-dubbing-study` | [YouTube Dubbing Study](https://www.markstudios.com/research/youtube-dubbing-study) | One recent video (and one channel): original language, the channel's own dubbed audio tracks and YouTube's automatic dubs |
