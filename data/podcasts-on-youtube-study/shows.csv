@@ -1,0 +1,101 @@
+rank,show,genre,publisher,youtube_status,channel,channel_id,subscribers,full_episodes_matched,clips_matched,found_by,median_lag_hours,median_length_ratio,feed_links_youtube,site_links_youtube
+1,The Daily,Daily News,The New York Times,full episodes,New York Times Podcasts,UCkdnY2hNC0sdlVXPtWuNQ8g,559000,3,0,search,4.7,1.0,True,False
+2,Crime Junkie,True Crime,Audiochuck,full episodes,Crime Junkie,UCpRiMGGX2hM9zqv6FgXXbKg,696000,3,1,links,11.0,1.01,True,True
+3,The Joe Rogan Experience,Comedy,Joe Rogan,full episodes,PowerfulJRE,UCzQUP1qoWDoEbmsQxvdjxgQ,21200000,10,0,links,0.0,0.96,True,False
+4,Dateline NBC,True Crime,NBC News,full episodes,Dateline NBC,UCu3sKtOW9TGaErPsAYVPplA,446000,3,0,links,11.6,1.0,True,True
+5,Good Hang with Amy Poehler,Comedy,The Ringer,full episodes,Good Hang with Amy Poehler,UC1lg-nYUcZ1pjo6EC2Nj5Sw,938000,2,3,search,0.0,0.98,False,True
+6,The Builders,Society & Culture,iHeartPodcasts and Kaleidoscope,no channel found,,,,0,0,,,,False,True
+7,Mick Unplugged,Self-Improvement,Mick Hunt,full episodes,Mick Unplugged Podcast,UCqYod2zZV6mRkJ06jFHLQzg,127000,3,0,links,0.0,0.93,True,True
+8,Up First from NPR,Daily News,NPR,no channel found,,,,0,0,,,,True,False
+9,Unblinded with Sean Callagy,Business,Sean Callagy,full episodes,Sean Callagy,UCTnwjN5CD_uo9CFKqxF009w,118000,4,1,links,-0.1,1.0,True,True
+10,Young and Profiting (YAP) with Hala Taha: Entrepreneurship and Self-Improvement Podcast,Entrepreneurship,"Hala Taha | Entrepreneurship, Sales, Marketing | YAP Media Network",full episodes,Young and Profiting,UCtz8s6nPLvrVQ4YhOJz6DSg,118000,8,0,links,6.7,0.99,True,True
+11,Proven Podcast,Entrepreneurship,Charles Schwartz,full episodes,The Proven Podcast,UCwLIe3s9Zmn-Byvz7DwUUzw,1080,10,0,links,0.2,1.0,True,False
+12,Habits and Hustle,Entrepreneurship,Jen Cohen,full episodes,Habits & Hustle w/ Jennifer Cohen,UCBuPgI8lXTmy5T0D_EDMnVg,64700,5,0,links,4.0,0.96,True,False
+13,Bear Brook,True Crime,NHPR,no channel found,,,,0,0,,,,False,False
+14,Morbid,True Crime,Ash Kelley & Alaina Urquhart,full episodes,Morbid | Podcast,UCnUc2Wte_U8eEljRlm30O0w,135000,2,0,guess,0.0,1.02,True,False
+15,The Mel Robbins Podcast,Self-Improvement,Mel Robbins,full episodes,Mel Robbins,UCk2U-Oqn7RXf-ydPqfSxG5g,6380000,7,0,links,4.9,0.96,True,False
+16,REAL AF with Andy Frisella,Entrepreneurship,Andy Frisella,full episodes,Andy Frisella,UC65-DsZ4tUq9iqC-UEt8lNw,697000,10,0,links,3.0,1.0,False,True
+17,The Dylan Gemelli Podcast,Alternative Health,Dylan Gemelli,full episodes,The Dylan Gemelli Podcast,UCQgnjVmReefEbgJlCvvlrzw,671,8,2,links,0.8,1.0,True,True
+18,SmartLess,Comedy,"Jason Bateman, Sean Hayes, Will Arnett",full episodes,SmartLess,UC-W8Qu2Zb407kjVhW-5U-SA,210000,10,0,guess,0.4,1.0,True,False
+19,The Learning Leader Show With Ryan Hawk,Management,Ryan Hawk,full episodes,Ryan Hawk,UCXEPDs5H50ITc2gBwChO0Mg,22000,7,1,links,-10.0,0.99,True,True
+20,Betrayal Season 6,True Crime,iHeartPodcasts | Glass Podcasts,no channel found,,,,0,0,,,,True,True
+21,Sold a Story,Documentary,APM Reports,no channel found,,,,0,0,,,,True,True
+22,Notes from the Edge,Personal Journals,Gamut Podcast Network,full episodes,Notes from the Edge,UCmw_6l1-Sd-rf4JJLvF6oJQ,2870,10,0,search,0.0,1.0,True,False
+23,Coffeez with Joe Shalaby,Entrepreneurship,Joseph Shalaby,full episodes,Coffeez with Joe Shalaby,UCBCnDz6lfXVa3b_61OSdZgA,3590,6,0,links,4.95,1.0,False,True
+24,Love Trapped,True Crime,iHeartPodcasts and Glass Podcasts,no channel found,,,,0,0,,,,True,True
+25,This Past Weekend w/ Theo Von,Comedy Interviews,Theo Von,full episodes,Theo Von,UC5AQEUAwCh1sGDvkQtkDWUQ,4800000,6,3,search,0.85,0.98,True,False
+26,The Level Up Podcast w/ Paul Alex,Entrepreneurship,Paul Alex Espinoza,no channel found,,,,0,0,,,,True,False
+27,The Code To Winning,Entrepreneurship,Kagiso Dikane,full episodes,Code To Winning ,UCYGjUU7mrGTi0EwNYg2E6lg,83300,10,0,links,-0.30000000000000004,0.95,True,True
+28,"We Fixed It, You're Welcome",Management,"We Fixed It, You're Welcome",full episodes,"We Fixed It, You're Welcome",UCSRGE_4QQh5AqW38dh5Ovaw,94,7,3,links,0.0,0.92,True,True
+29,Bred To Lead,Management,Dr. Jake Tayler Jacobs,no channel found,,,,0,0,,,,False,False
+30,Finding Peak with Ryan Hanley,Entrepreneurship,Ryan Hanley,full episodes,Ryan Hanley,UCp8u5P52Us4mbcyBDaftgMg,16600,10,0,links,1.45,1.0,True,True
+31,The Diary Of A CEO with Steven Bartlett,Business,DOAC,full episodes,The Diary Of A CEO,UCGq-a57w-aPwyi3pW7XLiHw,21300000,3,0,links,2.0,1.0,True,False
+32,the bossbabe podcast,Entrepreneurship,Natalie Ellis,full episodes,Natalie Ellis,UC6h1nurnE-9auq41a5oiPnA,89100,4,0,links,5.05,0.97,True,True
+33,48 Hours,True Crime,48 Hours,full episodes,48 Hours,UC7htuVs06oduI3xSfTdcxPA,2570000,7,1,guess,28.0,1.01,True,False
+34,We!,How To,Joe Mittiga,no channel found,,,,0,0,,,,False,False
+35,Passion Struck with John R. Miles,Alternative Health,Passion Struck with John R. Miles,full episodes,John R. Miles,UCTLdXATpxf8LP3riC0_mkKw,64900,3,0,links,10.0,1.0,True,True
+36,"Tomorrow, Today",Technology,Shekhar Natarajan,clips only,"Tomorrow, Today Show",UCOQgWRrHngjEabjoyX70-Gw,1350000,0,2,links,,,True,False
+37,The Megyn Kelly Show,News Commentary,SiriusXM,full episodes,Megyn Kelly,UCzJXNzqz6VMHSNInQt_7q6w,4180000,3,1,search,0.0,1.0,True,False
+38,Live Free with Josh Howerton,Christianity,Lakepointe Church,full episodes,Lakepointe Church,UC5f7yO3WU_Ns0WDCQuP5bAw,1510000,5,2,links,0.0,1.0,True,True
+39,Machine Gods,Technology,NPR,no channel found,,,,0,0,,,,True,True
+40,Build or Break,Entrepreneurship,Daniel Lubetzky,full episodes,Build or Break,UCHn0krddLMCLMTfE5HPqOXQ,77500,5,1,links,0.0,1.0,True,False
+41,The Shawn Ryan Show,Philosophy,Shawn Ryan,full episodes,Shawn Ryan Show,UCkoujZQZatbqy4KGcgjpVxQ,6660000,2,0,guess,3.75,0.98,True,True
+42,Business MVP,Entrepreneurship,Sammy Peterson,full episodes,Business MVP with Sammy Peterson,UCaiIyZeswg7pXfSenMMeD6g,167,3,0,links,4.5,0.98,True,False
+43,Deceived: The Daybell Story,True Crime,KSL Podcasts,full episodes,KSL Podcasts,UCOGZFUtqvlIyLPaR5JWacMQ,3740,2,0,search,24.7,0.98,False,False
+44,The Toast,Comedy,Dear Media,full episodes,The Toast,UCa2M-5fIN2YVmUNCtSS3vvw,168000,10,0,links,0.0,1.0,True,False
+45,The Rest Is History,History,Goalhanger,full episodes,The Rest Is History,UCUYK0BJZF3yNb2fw1EdAXUQ,605000,2,0,links,-32.0,0.97,True,True
+46,The Ezra Klein Show,Society & Culture,New York Times Opinion,full episodes,The Ezra Klein Show,UCnxuOd8obvLLtf5_-YKFbiQ,595000,3,0,guess,6.0,0.99,False,False
+47,The Team House,History,dee takos,full episodes,EYES ON GEOPOLITICS ,UCJytcQbSOEKLGyhNwkqpd3A,6100,3,0,links,-12.9,1.0,True,True
+48,Pardon My Take,Football,Barstool Sports,full episodes,Pardon My Take,UC9PKpPDyCi_Jck8j3e6N-_g,670000,8,0,guess,4.050000000000001,0.99,False,True
+49,Pod Save America,Politics,Pod Save America,full episodes,Pod Save America,UCKRoXz3hHAu2XL_k3Ef4vJQ,1300000,6,0,links,3.1,0.99,True,False
+50,We're Out of Time,Mental Health,Richard Taite,full episodes,Richard Taite,UCi927RoUgqitTjEIKRrdBqg,197000,6,1,links,0.0,1.0,True,True
+51,3 Takeaways™,Management,Lynn Thoman,full episodes,3 Takeaways™,UC4lbnIkclwmDYxHEj9dL49w,18200,4,0,links,9.45,1.23,False,True
+52,The Bulwark Daily,Politics,The Bulwark,full episodes,The Bulwark,UCG4Hp1KbGw4e02N7FpPXDgQ,1810000,3,0,links,40.6,1.0,True,False
+53,The Home Service Expert Podcast,Management,"Tommy Mello: $200 Million Founder|Forbes, Inc., Entrepreneur Columnist",full episodes,Tommy Mello,UCHIBAP5yf14AFfhrC8BQGkA,12300,3,0,search,0.1,1.0,True,False
+54,The Money Mondays,Entrepreneurship,Dan Fleyshman,full episodes,The Money Mondays Podcast,UCJOnJXXGqrcqF9ccXcpbFPg,11000,10,0,links,-0.0,1.0,True,True
+55,The Jamie Kern Lima Show,Self-Improvement,Jamie Kern Lima,full episodes,Jamie Kern Lima,UCTqrgX9IsnsowAhtpo28vdA,112000,8,2,links,0.15000000000000002,1.01,True,True
+56,METRO with Sarah Koenig,Documentary,Serial Productions & The New York Times,full episodes,New York Times Podcasts,UCkdnY2hNC0sdlVXPtWuNQ8g,559000,2,0,search,0.85,1.0,False,False
+57,"Inside AsembleAI: DeepTech, AI & Science",Technology,Mac & Sam,full episodes,AsembleAI,UCrpu0clzYDufIhh_--dRAzw,8620,6,0,search,0.05,1.0,True,False
+58,True Crime All The Time,True Crime,Emash Digital,full episodes,True Crime All The Time,UCrqTvlq2YymfnOE0yR6RQzw,11000,10,0,search,7.5,1.05,False,False
+59,Founder's Story,Entrepreneurship,IBH Media,full episodes,Founder's Story,UCodhwetkQCIECxtIrESt-9Q,1490000,10,0,search,3.75,1.04,True,False
+60,Stuff You Should Know,Society & Culture,iHeartPodcasts,full episodes,Stuff You Should Know,UCTb6Oy0TXI03iEUdRMR9dnw,232000,10,0,links,39.0,1.0,False,True
+61,Armchair Expert with Dax Shepard,Comedy,Armchair Umbrella,full episodes,Armchair Expert with Dax Shepard,UClKP53RewJWK5s5WtLSg7Dg,359000,6,3,links,0.0,1.04,False,True
+62,My Favorite Murder with Karen Kilgariff and Georgia Hardstark,True Crime,Exactly Right and iHeartPodcasts,no channel found,,,,0,0,,,,True,True
+63,The Better Question with Kaitlyn Schiess,Christianity,Kaitlyn Schiess,no channel found,,,,0,0,,,,False,True
+64,The Bill Simmons Podcast,Sports,The Ringer,no channel found,,,,0,0,,,,False,True
+65,"MrBallen Podcast: Strange, Dark & Mysterious Stories",True Crime,Ballen Studios,full episodes,MrBallen,UCtPrkXdtCM5DACLufB9jbsA,11300000,7,0,links,11.0,0.97,True,True
+66,The Dropout,True Crime,ABC News,no channel found,,,,0,0,,,,False,False
+67,The Weekly Show with Jon Stewart,Comedy,Comedy Central,full episodes,The Weekly Show with Jon Stewart,UCQlJ7XpBtiMLKNSd4RAJmRQ,906000,6,0,links,10.649999999999999,0.99,True,False
+68,The Ramsey Show,Investing,Ramsey Network,full episodes,The Ramsey Show,UCzpwkXk_GlfmWntZ9v4l3Tg,1200000,10,0,links,3.0,1.0,True,True
+69,The Dan Le Batard Show,Sports,Dan Le Batard,no channel found,,,,0,0,,,,False,True
+70,20/20,True Crime,ABC News,no channel found,,,,0,0,,,,False,False
+71,The Ben Shapiro Show,News Commentary,The Daily Wire,no channel found,,,,0,0,,,,False,False
+72,Serialously with Annie Elise,True Crime,Annie Elise,full episodes,Annie Elise,UCOK0fZAUx82plnLhTKZW6qg,1840000,5,1,links,10.1,1.07,True,False
+73,My Mom’s Murder,True Crime,AYR Media,no channel found,,,,0,0,,,,False,False
+74,The Drop the Needle Podcast,Spirituality,Jim Alstott,full episodes,The Drop the Needle Podcast,UCqIJvCeP8aSZ89MinvQ8d8g,3900,9,1,links,0.0,1.0,True,True
+75,Giggly Squad,Comedy,Hannah Berner & Paige DeSorbo,full episodes,Giggly Squad,UC2kMTY7QDxX98YVZdr32uCA,255000,10,0,links,0.2,1.0,True,False
+76,Makes Sense - with Dr. JC Doornick,Self-Improvement,"Dr. JC Doornick ""The Dragon""",full episodes,Dr. JC Doornick,UCr1mf2qnzENRxhiH4H3Be1A,37700,3,0,links,-81.5,2.05,True,False
+77,In The Dark,True Crime,The New Yorker,no channel found,,,,0,0,,,,False,False
+78,This American Life,Society & Culture,This American Life,full episodes,This American Life,UC6BJEy3DdS5L5Sg6NfExbCw,71800,9,1,search,0.3,0.98,False,False
+79,The Bible in a Year (with Fr. Mike Schmitz),Christianity,Ascension,no channel found,,,,0,0,,,,False,False
+80,NPR News Now,Daily News,NPR,no channel found,,,,0,0,,,,False,False
+81,Fantasy Footballers - Fantasy Football Podcast,Fantasy Sports,Fantasy Football,full episodes,The Fantasy Footballers,UC-No2ITxJsNt50oJQ3fLmUA,432000,10,0,links,0.6,1.05,True,False
+82,Heart,True Crime,Apple TV / Plan B / Blanchard House,no channel found,,,,0,0,,,,False,False
+83,Still Counting,Politics,Crooked Media,full episodes,Still Counting,UCu2Swk671inpyXO6kmZ-ajQ,32300,9,0,links,0.2,0.99,True,True
+84,"The Thyroid (and Hormone) Fixer Podcast: Thyropause, Menopause, Metabolism and How to Fix It",Medicine,Dr. Amie Hornaman,full episodes,Dr. Amie Hornaman,UCHSBsf69l5v1iP97BaqSC0w,22700,8,0,links,0.0,1.0,True,False
+85,Biohack-it,Alternative Health,Iman Hasan,full episodes,Biohack-it,UCMUSLVUIxXLqZ_dqV_FvMeg,93400,4,0,links,-0.55,1.0,True,True
+86,Huberman Lab,Health & Fitness,Scicomm Media,full episodes,Andrew Huberman,UC2D2CMWXMOVWx7giW1n3LIg,7990000,10,0,links,4.0,1.0,True,True
+87,Acquired,Technology,Ben Gilbert and David Rosenthal,full episodes,Acquired,UCyFqFYfTW2VoIQKylJ04Rtw,339000,5,1,links,12.5,1.0,True,True
+88,On with Kara Swisher,Society & Culture,Vox Media,full episodes,On with Kara Swisher,UCMDxbhGcsE7EnknxPEzC_Iw,377000,10,0,links,9.2,0.99,True,True
+89,Over My Dead Body,True Crime,Audible Original,full episodes,Over My Dead Body Pod TV,UC52L389vTBKTp2IOT8mBk4A,204,2,0,guess,8.15,1.02,False,True
+90,Call Her Daddy,Comedy,Alex Cooper,full episodes,Call Her Daddy,UCyGi3eCuxko37WB6uUr7LjA,2250000,3,2,links,0.0,1.09,True,True
+91,Miss Understood with Rachel Uchitel,Society & Culture,Rachel Uchitel,full episodes,Miss Understood Podcast ,UCw13NrSKD-nD_8E0vBHt5hA,35200,2,1,links,2.05,1.0,True,False
+92,How Much Can I Make? — Real Jobs. Real Stories. Career Insights,Careers,Mirav Ozeri - Career Insights Journalist,no channel found,,,,0,0,,,,True,True
+93,The Tucker Carlson Show,News Commentary,Tucker Carlson Network,full episodes,Tucker Carlson,UCGttrUON87gWfU6dMWm1fcA,5780000,4,0,search,-1.1,0.97,True,False
+94,Serial,News,Serial Productions & The New York Times,no channel found,,,,0,0,,,,False,False
+95,The MeidasTouch Podcast,News,MeidasTouch Network,full episodes,MeidasTouch,UC9r9HYFxEQOBXSopFS61ZWg,6490000,3,0,links,71.5,0.99,True,False
+96,Matt and Shane's Secret Podcast,Comedy Interviews,Matt McCusker & Shane Gillis,full episodes,Matt and Shane's Secret Podcast,UC4fZeoNxAXfbIpT3swsVh9w,876000,10,0,links,0.0,0.97,True,False
+97,Not Just A Terrible Story,True Crime,Terrible Story Productions,full episodes,Not Just a Terrible Story,UCLN45PEbcCSdEvM5Q08aAQA,37,4,1,search,7.5,1.12,False,False
+98,Conan O’Brien Needs A Friend,Comedy,Team Coco & Earwolf,full episodes,Team Coco,UCi7GJNg51C3jgmYTUwqoUXA,9220000,3,3,links,7.9,0.99,True,False
+99,Something You Should Know,Social Sciences,Mike Carruthers | OmniCast Media,no channel found,,,,0,0,,,,True,False
+100,Collector Nation,Sports,Collector Nation,full episodes,Collector Nation,UCxYLxZTsggQb44TQxnaNylA,2380,7,1,links,10.0,0.99,True,False
